@@ -15,7 +15,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 7,Computing @ Carnegie Mellon,99,101,,,,1,,,1
 8,Principles of Functional Programming,15,150,4,,,3.33,,,2
 9,Great Ideas in Theoretical Computer Science,15,251,8;2;4,,,4,,,2
-10,Integration and Approximation,21,122,10;5,,,3.33,,,2
+10,Integration and Approximation,21,122,5,,,3.33,,,2
 11,Science/Engineering Course,,,,,,3,,,2
 12,Humanities and Arts Elective,,,,,,3,,,2
 13,Introduction to Computer Systems,15,213,2,,,4,,,3
