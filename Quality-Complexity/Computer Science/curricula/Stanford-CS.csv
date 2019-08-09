@@ -2,7 +2,7 @@ Curriculum,Computer Science,,,,,,,,,
 Degree Plan,Unspecialized Track,,,,,,,,,
 Institution,Stanford University,,,,,,,,,
 Degree Type,BS,,,,,,,,,
-System Type,Quarter,,,,,,,,,
+System Type,quarter,,,,,,,,,
 CIP,11.0701,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
@@ -16,10 +16,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 8,Mechanics,PHYSICS,41,4,5,,4,,,3
 9,Electricity and Magnetism,PHYSICS,43,8;5,,,4,,,4
 10,Science Elective,,,,,,3,,,4
-11,Technology in Society,,,,,,3-5;,,,1
+11,Technology in Society,,,,,,3,,,1
 12,Programming Abstractions,CS,106B,,,,5,,,2
-13,An Intro to Making: What is EE,ENGR,40M,12,,,3-5;,,,3
-14,Fundamentals Elective,,,,,,3-5;,,,4
+13,An Intro to Making: What is EE,ENGR,40M,12,,,3,,,3
+14,Fundamentals Elective,,,,,,3,,,4
 15,"Computers, Ethics, and Public Policy",CS,181W,,,,4,,,5
 16,Computer Organization and Systems,CS,107,12,,,5,,,5
 17,Principles of Computer Systems,CS,110,16,,,5,,,6
@@ -30,5 +30,5 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,Programming Languages,CS,242,1;17,,,4,,,7
 23,Artificial Intelligence: Principles and Techniques,CS,221,1;12;16;2,,,4,,,6
 24,Introduction to Human-Computer Interaction Design,CS,147,12,, ,4,,,6
-25,General CS elective,,,,,,3-5;,,,7
+25,General CS elective,,,,,,3,,,7
 26,General CS elective,,,,,,,,,8

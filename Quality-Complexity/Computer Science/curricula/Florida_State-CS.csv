@@ -1,4 +1,4 @@
-﻿Curriculum,Computer Science,,,,,,,,,
+Curriculum,Computer Science,,,,,,,,,
 Degree Plan,Computer Science BS,,,,,,,,,
 Institution,Flordia State University ,,,,,,,,,
 Degree Type,BS,,,,,,,,,
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,Natural Science (for Majors),GE,,,,,0.75,,,3
 12,General Physics B with lab,PHY,2049C,10; 7,,,5,,,4
 13,Discrete Mathematics I,MAD,2104,2,,,3,,,4
-14,Computer Organization I,CDA,3100,,8;14,,3,,,4
+14,Computer Organization I,CDA,3100,,8;13,,3,,,4
 15,History,GE,,,,,3,,,4
 16,ELECTIVE,,,,,,3,,,4
 17,"Data Structures, Algorithms, and Generic Programming",COP,4530,8;13,14,,3,,,5
