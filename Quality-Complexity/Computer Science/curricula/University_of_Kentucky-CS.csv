@@ -48,9 +48,3 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,Technical Elective,,,,,,3,,,8
 41,Non-Technical Elective,,,,,,3,,,8
 42,Free Elective (3 hours),,,,,,3,,,8
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-Additional Courses,,,,,,,,,,
-Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-,,,,,,,3,,,1
