@@ -1,34 +1,51 @@
-Curriculum,Computer Science,,,,,,,,,
-Degree Plan,Unspecialized Track,,,,,,,,,
-Institution,Stanford University,,,,,,,,,
-Degree Type,BS,,,,,,,,,
-System Type,quarter,,,,,,,,,
-CIP,11.0701,,,,,,,,,
-Courses,,,,,,,,,,
-Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,Mathematical Foundations of Computing,CS,103,,,,5,,,1
-2,Introduction to Probability for Computer Scientists,CS,109,1,,,5,,,2
-3,Calculus 1,MATH,19,,,,3,,,1
-4,Calculus 1,MATH,20,3,,,3,,,2
-5,Calculus 1,MATH,21,4,,,4,,,3
-6,Mathematics elective,,,,,,3,,,4
-7,Mathematics elective,,,,,,3,,,5
-8,Mechanics,PHYSICS,41,4,5,,4,,,3
-9,Electricity and Magnetism,PHYSICS,43,8;5,,,4,,,4
-10,Science Elective,,,,,,3,,,4
-11,Technology in Society,,,,,,3,,,1
-12,Programming Abstractions,CS,106B,,,,5,,,2
-13,An Intro to Making: What is EE,ENGR,40M,12,,,3,,,3
-14,Fundamentals Elective,,,,,,3,,,4
-15,"Computers, Ethics, and Public Policy",CS,181W,,,,4,,,5
-16,Computer Organization and Systems,CS,107,12,,,5,,,5
-17,Principles of Computer Systems,CS,110,16,,,5,,,6
-18,"	Design and Analysis of Algorithms",CS,161,1;2,,,5,,,7
-19,Software Project,CS,194,17;18,,,3,,,8
-20,Introduction to Automata and Complexity Theory,CS,154,1,,,4,,,5
-21,Operating Systems and Systems Programming,CS,140,17,,,4,,,8
-22,Programming Languages,CS,242,1;17,,,4,,,7
-23,Artificial Intelligence: Principles and Techniques,CS,221,1;12;16;2,,,4,,,6
-24,Introduction to Human-Computer Interaction Design,CS,147,12,, ,4,,,6
-25,General CS elective,,,,,,3,,,7
-26,General CS elective,,,,,,,,,8
+Curriculum,Computer Science,,,,,,,,
+Institution,Stanford University,,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,quarter,,,,,,,,
+CIP,11.0701,,,,,,,,
+Courses,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,Programming Methodology,CS,106A,,,,5,,
+2,Calculus,MATH,19,,,,3,,
+3,THINK,,,,,,4,,
+4,Writing,,,,,,4,,
+5,Programming Abstractions,CS,106B,,,,5,,
+6,Calculus,MATH,20,2,,,3,,
+7,WAYS,,,,,,4,,
+8,WAYS,,,,,,4,,
+9,Calculus,MATH,21,6,,,4,,
+10,WAYS,,,,,,4,,
+11,WAYS,,,,,,4,,
+12,Intro Stem,,,,,,3,,
+13,Mathematical Foundations of Computing,CS,103,,,,5,,
+14,Computer Organization and Systems,CS,107,5,,,5,,
+15,Language,,,,,,5,,
+16,Writing,,,,,,4,,
+17,Math Elective,,,,,,3,,
+18,Ways,,,,,,4,,
+19,Language,,,,,,5,,
+20,Ways,,,,,,4,,
+21,Introduction to Probability for Computer Scientists,CS,109,13,,,5,,
+22,Principles of Computer Systems,CS,110,14,,,5,,
+23,Language,,,,,,5,,
+24,Introduction to Automata and Complexity Theory,CS,154,13,,,4,,
+25,Data Management and Data Systems,CS,145,13;14,,,4,,
+26,"Mechanics, Fluids, and Heat",Phys,21,,,,4,,
+27,"	Design and Analysis of Algorithms",CS,161,13;21,,,5,,
+28,Math Elective,,,,,,5,,
+29,"Electricity, Magnetism, and Optics",Phys,23,26,,,4,,
+30,OSP,,,,,,4,,
+31,OSP,,,,,,4,,
+32,OSP,,,,,,4,,
+33,Introduction to Computer Networking,CS,144,22,,,4,,
+34,Artificial Intelligence: Principles and Techniques,CS,221,13;5;14;21,,,4,,
+35,Ways,,,,,,4,,
+36,Sci Elective,,,,,,3,,
+37,CS Elective,,,,,,4,,
+38,Fund Elective,,,,,,4,,
+39,E 40A,,,,,,5,,
+40,Ways,,,,,,3,,
+41,Software Project,CS,194,27;22,,,3,,
+42,CS elective,,,,,,3,,
+43,"Computers, Ethics, and Public Policy",CS,181W,,,,4,,
+44,Compliers,CS,143,13;14,,,4,,
