@@ -1,0 +1,49 @@
+Curriculum,"Curriculum",,,,,,,,,
+Degree Plan,"psychology-bs.csv",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"ENGL 101","","",,,,3,"","",1
+2,"Elective Course","","",,,,3,"","",1
+3,"ISEM 101","","",,,,3,"","",1
+4,"Mathematical Ways of Knowing Course","","",,,,3,"","",1
+5,"PSYC 101","","",,,,3,"","",1
+6,"STAT 251","","",,,,3,"","",2
+7,"COMM 101","","",,,,2,"","",2
+8,"ENGL 102","","","1",,,3,"","",2
+9,"Humanistic and Artistic Ways of Knowing Course","","",,,,3,"","",2
+10,"PSYC 201","","","5",,,1,"","",2
+11,"Scientific Ways of Knowing Course","","",,,,4,"","",2
+12,"PSYC 305","","","5",,,3,"","",3
+13,"Elective Course","","",,,,3,"","",3
+14,"Humanistic and Artistic Ways of Knowing Course","","",,,,3,"","",3
+15,"PSYC 218","","","5;6",,,4,"","",3
+16,"Social and Behavioral Ways of Knowing Course","","",,,,3,"","",3
+17,"PSYC 310","","","5",,,3,"","",4
+18,"PSYC 325","","","5",,,3,"","",4
+19,"B.S. Course Requirement","","",,,,3,"","",4
+20,"Elective Course","","",,,,3,"","",4
+21,"Elective Course","","",,,,3,"","",4
+22,"ISEM 301","","","8",,,1,"","",4
+23,"PSYC 372","","","5",,,3,"","",5
+24,"American Diversity Course","","",,,,3,"","",5
+25,"B.S. Course Requirement","","",,,,3,"","",5
+26,"Major Elective Course","","",,,,3,"","",5
+27,"Major Elective Course","","",,,,3,"","",5
+28,"PSYC 311","","","5",,,3,"","",6
+29,"Elective Course","","",,,,3,"","",6
+30,"International Course","","",,,,3,"","",6
+31,"Major Elective Course","","",,,,3,"","",6
+32,"Scientific Ways of Knowing Course","","",,,,4,"","",6
+33,"PSYC 390","","","5",,,3,"","",7
+34,"B.S. Course Requirement","","",,,,3,"","",7
+35,"Elective Course","","",,,,3,"","",7
+36,"Elective Course","","",,,,3,"","",7
+37,"PSYC 415","","","5",,,3,"","",7
+38,"B.S. Course Requirement","","",,,,3,"","",8
+39,"Elective Course","","",,,,3,"","",8
+40,"Elective Course","","",,,,3,"","",8
+41,"Major Elective Course","","",,,,3,"","",8

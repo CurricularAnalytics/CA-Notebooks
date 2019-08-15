@@ -1,0 +1,42 @@
+Curriculum,"Curriculum",,,,,,,,,
+Degree Plan,"psychology.csv",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"MATH1000","","",,,,3,"","",1
+2,"PSYC1000","","",,,,3,"","",1
+11,"ANTH1200","","",,,,3,"","",1
+14,"USP FIRST YEAR SEMINAR","","",,,,3,"","",1
+15,"USP HUMAN CULTURE","","",,,,3,"","",1
+3,"ENGL1010","","",,,,3,"","",2
+4,"LIFE1003","","",,,,4,"","",2
+5,"PSYC2300","","","2",,,3,"","",2
+16,"USP HUMAN CULTURE","","",,,,3,"","",2
+17,"USP US&WY CONSTITUTION","","",,,,3,"","",2
+6,"PSYC2080","","","2",,,3,"","",3
+7,"PSYC2380","","","2",,,3,"","",3
+8,"STAT2050","","","1",,,4,"","",3
+12,"SOC1000","","",,,,3,"","",3
+18,"A&S DIVERSITY IN US","","",,,,3,"","",3
+9,"PSYC2000","","","2;3;8",,,4,"","",4
+10,"PSYC2340","","","2",,,3,"","",4
+19,"USP COMM 2","","",,,,3,"","",4
+20,"USP PHYSICAL & NATURAL WORLD","","",,,,4,"","",4
+21,"MAJOR STEM COURSE","","",,,,3,"","",5
+22,"UPPER DIVISION PSYC ELECTIVE","","",,,,6,"","",5
+23,"UPPER DIVISION ELECTIVE","","",,,,3,"","",5
+24,"ELECTIVE","","",,,,3,"","",5
+13,"PSYC3120","","","2",,,3,"","",6
+25,"A&S GLOBAL","","",,,,3,"","",6
+26,"UPPER DIVISION PSYC ELECTIVE","","",,,,3,"","",6
+27,"UPPER DIVISION ELECTIVE","","",,,,3,"","",6
+28,"ELECTIVE","","",,,,3,"","",6
+29,"USP COMM 3","","",,,,3,"","",7
+30,"UPPER DIVISION PSYC ELECTIVE","","",,,,3,"","",7
+31,"UPPER DIVISION ELECTIVE","","",,,,9,"","",7
+32,"UPPER DIVISION PSYC RESTRICTED COURSE","","",,,,3,"","",8
+33,"UPPER DIVISION ELECTIVE","","",,,,6,"","",8
+34,"ELECTIVES ","","",,,,6,"","",8
