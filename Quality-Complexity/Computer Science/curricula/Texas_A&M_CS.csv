@@ -7,7 +7,7 @@ Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,Engineering Lab I - Computation,ENGR,102,,2,,2,,
 2,Engineering Mathematics I,MATH,151,,,,4,,
-3,General Chemistry for Engineering Students Laboratory,CHEM,117,,,4,1,,
+3,General Chemistry for Engineering Students Laboratory,CHEM,117,,,,1,,
 4,General Chemistry for Engineering Students,CHEM,107,,,3,3,,
 5,Composition and Rhetoric,ENGL,104,,,,3,,
 6,UCC,,,,,,3,,
