@@ -1,43 +1,43 @@
-Curriculum,"Curriculum",,,,,,,,,
-Degree Plan,"animal-science-industry.csv",,,,,,,,,
-Institution,"",,,,,,,,,
-Degree Type,"BS",,,,,,,,,
-System Type,"semester",,,,,,,,,
-CIP,"26.0101",,,,,,,,,
+Curriculum,Animal Science (Industry),,,,,,,,,
+Degree Plan,4-Year Plan,,,,,,,,,
+Institution,South Dakota State,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,"AS 101-101L","","",,,,4,"","",1
-2,"AS 119 ","","",,"3",,1,"","",1
-3,"AS 120 or VET 120","","",,,,1,"","",1
-4,"BIOL 101-101L or BIOL 151-151L","","",,,,3,"","",1
-5,"MATH 114","","",,,,3,"","",1
-6,"SPCM 101","","",,,,3,"","",1
-7,"BIOL 103-103L or BIOL 153-153L","","",,,,3,"","",2
-8,"CHEM 106-106L or CHEM 112-112L","","","5",,,4,"","",2
-9,"ENGL 101","","",,,,3,"","",2
-10,"SGR #4","","",,,,3,"","",2
-11,"SGR #4","","",,,,3,"","",2
-12,"AS 219","","","1",,,3,"","",3
-13,"AS 285-285L","","","1",,,3,"","",3
-14,"CHEM 108-108L or CHEM 326-326L","","",,,,5,"","",3
-15,"ECON 201","","",,,,3,"","",3
-16,"ABS 203","","",,,,3,"","",4
-17,"ACCT 210","","",,,,3,"","",4
-18,"AS 241-241L","","",,,,3,"","",4
-19,"ENGL 201","","","9",,,3,"","",4
-20,"VET 223-223L","","","14",,,4,"","",4
-21,"AS 319-319L","","","12",,,3,"","",5
-22,"AS 333-333L","","",,,,3,"","",5
-23,"AS 389","","",,,,3,"","",5
-24,"General Electives","","",,,,3,"","",5
-25,"General Electives","","",,,,3,"","",5
-26,"AGEC 354","","","15",,,3,"","",6
-27,"AS 332","","","7;1",,,4,"","",6
-28,"Experiential Learning","","",,,,1,"","",6
-29,"General Electives","","",,,,4,"","",6
-30,"VET 403","","",,,,3,"","",6
-31,"AS Capstone Course","","","27;22;18",,,3,"","",7
-32,"AS Capstone Course","","","27;22;18",,,3,"","",7
-33,"General Electives","","",,,,9,"","",7
-34,"AS Capstone Course","","","27;22;18",,,3,"","",8
-35,"General Electives","","",,,,11,"","",8
+1,AS 101-101L,,,,,,4,,,1
+2,AS 119 ,,,,3,,1,,,1
+3,AS 120 or VET 120,,,,,,1,,,1
+4,BIOL 101-101L or BIOL 151-151L,,,,,,3,,,1
+5,MATH 114,,,,,,3,,,1
+6,SPCM 101,,,,,,3,,,1
+7,BIOL 103-103L or BIOL 153-153L,,,,,,3,,,2
+8,CHEM 106-106L or CHEM 112-112L,,,5,,,4,,,2
+9,ENGL 101,,,,,,3,,,2
+10,SGR #4,,,,,,3,,,2
+11,SGR #4,,,,,,3,,,2
+12,AS 219,,,1,,,3,,,3
+13,AS 285-285L,,,1,,,3,,,3
+14,CHEM 108-108L or CHEM 326-326L,,,,,,5,,,3
+15,ECON 201,,,,,,3,,,3
+16,ABS 203,,,,,,3,,,4
+17,ACCT 210,,,,,,3,,,4
+18,AS 241-241L,,,,,,3,,,4
+19,ENGL 201,,,9,,,3,,,4
+20,VET 223-223L,,,14,,,4,,,4
+21,AS 319-319L,,,12,,,3,,,5
+22,AS 333-333L,,,,,,3,,,5
+23,AS 389,,,,,,3,,,5
+24,General Electives,,,,,,3,,,5
+25,General Electives,,,,,,3,,,5
+26,AGEC 354,,,15,,,3,,,6
+27,AS 332,,,7;1,,,4,,,6
+28,Experiential Learning,,,,,,1,,,6
+29,General Electives,,,,,,4,,,6
+30,VET 403,,,,,,3,,,6
+31,AS Capstone Course,,,27;22;18,,,3,,,7
+32,AS Capstone Course,,,27;22;18,,,3,,,7
+33,General Electives,,,,,,9,,,7
+34,AS Capstone Course,,,27;22;18,,,3,,,8
+35,General Electives,,,,,,11,,,8
