@@ -1,0 +1,51 @@
+Curriculum,Animal Science,,,,,,,,,
+Degree Plan,4-Year Plan,,,,,,,,,
+Institution,New Mexico State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ACES 111,,,,,,1,,,1
+2,ENGL 111G,,,,,,4,,,1
+3,MATH 121G,,,,,,3,,,1
+4,ANSC 100,,,,,,3,,,1
+5,ANSC 100L,,,,,,1,,,1
+6,AG elective,,,,,,3,,,1
+7,AXED 201G,,,,,,3,,,2
+8,CHEM 111G,,,3,,,4,,,2
+9,CHEM 101,,,3,8,,1,,,2
+10,AREA V elective,,,,,,3,,,2
+11,AREA VI elective,,,,,,3,,,2
+12,ANSC 220,,,,,,1,,,2
+13,ENGL 218G,,,2,,,3,,,3
+14,BIOL 111G,,,,3,,3,,,3
+15,BIOL 111GL,,,,14,,1,,,3
+16,ANSC 304,,,8,,,3,,,3
+17,CHEM 112G,,,8,,,4,,,3
+18,CHEM 102,,,8,17,,1,,,3
+19,ECON 201G,,,,,,3,,,4
+20,GE elective,,,,,,3,,,4
+21,BIOL 211G,,,8,,,4,,,4
+22,AG elective,,,,,,3,,,4
+23,A ST 311,,,3,,,3,,,4
+24,VWW 3,,,,,,3,,,5
+25,ANSC 303,,,,,,4,,,5
+26,ANSC 370,,,21,,,4,,,5
+27,ANSC 305,,,14;8,,,3,,,5
+28,CHEM 313,,,17,,,3,,,5
+29,ANSC 421,,,26,,,4,,,6
+30,CHEM 314,,,28,,,3,,,6
+31,CHEM 315,,,28,30,,2,,,6
+32,General Electives,,,,,,3,,,6
+33,PHYS 211G,,,,,,3,,,6
+34,PHYS 211GL,,,,33,,1,,,6
+35,ANSC 402,,,,,,1,,,7
+36,ANSC 422,,,,,,3,,,7
+37,ANSC 423,,,27,,,3,,,7
+38,Designated Elective,,,,,,3,,,7
+39,General Electives,,,,,,3,,,7
+40,VWW 3,,,,,,3,,,8
+41,BCHE 341,,,,,,4,,,8
+42,Production elective,,,,,,3,,,8
+43,Production elective,,,,,,3,,,8

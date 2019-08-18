@@ -1,0 +1,47 @@
+Curriculum,Mechanical Engineering,,,,,,,,,
+Degree Plan,4-Year Plan,,,,,,,,,
+Institution,New Mexico State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ENGL 111G,,,,,,4,,,1
+2,MATH 191G,,,,,,4,,,1
+3,M E 159,,,,,,2,,,1
+4,ENGR 100,,,,,,3,,,1
+5,MATH 192G ,,,2,,,4,,,2
+6,PHYS 215G,,,2,,,3,,,2
+7,PHYS 215GL,,,,6,,1,,,2
+8,M E 222,,,3,,,3,,,2
+9,English Comp,,,,,,3,,,2
+10,M E 236,,,,6,,4,,,3
+11,MATH 291G,,,,,,3,,,3
+12,PHYS 216G,,,,,,3,,,3
+13,M E 210,,,,,,3,,,3
+14,M E 261,,,,,,3,,,3
+15,M E 228,,,,,,3,,,4
+16,M E 237,,,10,,,3,,,4
+17,C E 301,,,10,,,3,,,4
+18,M E 240,,,6,,,3,,,4
+19,Oral Comm,,,,,,3,,,4
+20,M E 238,,,15,,,3,,,5
+21,M E 338,,,15,,,3,,,5
+22,CHME 361,,,,,,3,,,5
+23,M E 340,,,18,,,3,,,5
+24,M E 349,,,,,,1,,,5
+25,Fine Arts,,,,,,3,,,5
+26,M E 326,,,16,,,3,,,6
+27,Mech Elective,,,,,,3,,,6
+28,M E 345,,,15,17,,3,,,6
+29,M E 341,,,18,,,3,,,6
+30,Humanities,,,,,,3,,,6
+31,PHYS 303V,,,,,,3,,,7
+32,ENGR 401,,,,,,3,,,7
+33,M E 425,,,26,,,3,,,7
+34,M E 445,,,21,,,3,,,7
+35,Behav Sci,,,,,,3,,,7
+36,ENGR 402,,,32,,,3,,,8
+37,Elective,,,,,,6,,,8
+38,VWW,,,,,,3,,,8
+39,Elective,,,,,,1,,,8
