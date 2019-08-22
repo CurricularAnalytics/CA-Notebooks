@@ -1,0 +1,47 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science,,,,,,,,,
+Institution,Texas Tech University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Programming Principles I ,CS,1411,,2,,4,,,1
+2,Calculus I with Applications,MATH,1451,,,,4,,,1
+3,Essentials of College Rhetoric,ENGL,1301,,,,3,,,1
+4,Life and Physical Sciences,,,,,,4,,,1
+5,Programming Principles II ,CS,1412,1,,,4,,,2
+6,Calculus II with Applications,MATH,1452,2,,,4,,,2
+7,Principles of Physics I,PHYS,1408,2,,,4,,,2
+8,Advanced College Rhetoric ,ENGL,1302,3,,,3,,,2
+9,Data Structures,CS,2413,5,,,4,,,3
+10,Discrete Computational Structures ,CS,1382,1,,,3,,,3
+11,Modern Digital System Design ,ECE,2372,2,,,3,,,3
+12,Calculus III with Applications ,MATH,2450,6,,,4,,,3
+13,Principles of Physics II,PHYS,2401,7;6,,,4,,,3
+14,Computer Organization and Assembly Language Programming ,CS,2350,5;11,,,3,,,4
+15,Object-Oriented Programming,CS,2365,9,,,3,,,4
+16,Engineering Ethics and Its Impact on Society ,ENGR,2392,,,,3,,,4
+17,American Government ,POLS,1301,,,,3,,,4
+18,Linear Algebra ,MATH,2360,6,,,3,,,4
+19,Introduction to Technical Writing,ENGL,2311,8;3,,,3,,,4
+20,Concepts of Programming Languages,CS,3361,9,,,3,,,5
+21,Design and Analysis of Algorithms,CS,3364,9;10;18,,,3,,,5
+22,Mathematical Statistics for Engineers and Scientists,MATH,3342,12,,,3,,,5
+23,Elective (core curriculum),,,,,,3,,,5
+24,Texas Politics and Topics,POLS,2306,,,,3,,,5
+25,Software Engineering I,CS,3365,15;22,,,3,,,6
+26,Computer Architecture ,CS,3375,14,,,3,,,6
+27,Theory of Automata,CS,3383,10,,,3,,,6
+28,Elective (CS),,,,,,3,,,6
+29,Elective (core curriculum),,,,,,3,,,6
+30,Software Engineering II ,CS,4365,25,,,3,,,7
+31,Operating Systems ,CS,4352,21;26,,,3,,,7
+32,Concepts of Database Systems,CS,4354,21,,,3,,,7
+33,Elective (CS),,,,,,3,,,7
+34,Elective (Core Curriculum),,,,,,3,,,7
+35,Senior Capstone Project ,CS,4366,30,,,3,,,8
+36,Elective (CS),,,,,,3,,,8
+37,Elective (CS),,,,,,3,,,8
+38,Elective (Core Curriculum),,,,,,3,,,8
+39,Elective (Core Curriculum),,,,,,3,,,8
