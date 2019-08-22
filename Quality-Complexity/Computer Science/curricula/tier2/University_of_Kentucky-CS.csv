@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,Software Engineering for Senior Project,CS,498,11;13,,,3,,,7
 34,CS Elective,,,,,,3,,,7
 35,Technical Elective,,,,,,3,,,7
-36,Free Elective (4 hours),,,,,,3,,,7
+36,Free Elective (4 hours),,,,,,4,,,7
 37,UK Core - Global Dynamics,,,,,,3,,,7
 38,Senior Design Project,CS,499,17,,,3,,,8
 39,CS Elective,,,,,,3,,,8
