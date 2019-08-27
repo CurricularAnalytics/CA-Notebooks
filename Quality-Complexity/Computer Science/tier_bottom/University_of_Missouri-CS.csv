@@ -1,48 +1,47 @@
-Curriculum,Computer Science,,,,,,,,,
-Degree Plan,Computer Science,,,,,,,,,
-Institution,University of Missouri,,,,,,,,,
-Degree Type,BS,,,,,,,,,
-System Type,semester,,,,,,,,,
-CIP,11.0701,,,,,,,,,
-Courses,,,,,,,,,,
-Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,Introduction to Computer Science,CMP_SC,1000,,,,1,,,1
-2,Algorithm Design and Programming I,CMP_SC,1050,3,3,,4,,,1
-3,Analytic Geometry and Calculus I,MATH,1500,,,,5,,,1
-4,Constitutional/State Law Elective,,,,,,3,,,1
-5,Public Speaking,COMMUN,1200,,,,3,,,1
-6,Algorithm Design and Programming II,CMP_SC,2050,2,,,4,,,2
-7,Introduction to Logic Systems,CMP_SC,2270,2,,,3,,,2
-8,Calculus II,MATH,1700,3,,,5,,,2
-9,Exposition and Argumentation,ENGLISH,1000,,,,3,,,2
-10,Non-Science Elective,,,,,,1,,,2
-11,Advanced Algorithm Design,CMP_SC,3050,6,,,3,,,3
-12,CMP SC Elective 2000/3000 level,,,,,,3,,,3
-13,Calculus III,MATH,2300,8,,,3,,,3
-14,Science Sequence,,,,,,5,,,3
-15,Humanities/Fine Art (writing intensive),,,,,,3,,,3
-16,CMP SC Elective 2000/3000 level,,,,,,3,,,4
-17,Object Oriented Programming,CMP_SC,3330,6,,,3,,,4
-18,Discrete Mathematical Structures,MATH,2320,8,,,3,,,4
-19,Science Sequence,,,,,,5,,,4
-20,Behavorial Science,,,,,,3,,,4
-21,Computer Organization and Assembly Language,CMP_SC,3280,7,,,3,,,5
-22,Database Applications and Information Systems,CMP_SC,3380,6,,,3,,,5
-23,Design and Analysis of Algorithms I,CMP_SC,4050,11,,,3,,,5
-24,Introduction to Mathematical Statistics,STAT,4710,13,,,3,,,5
-25,Social/Behavioral Science 2000 level,,,,,,3,,,5
-26,Software Engineering I,CMP_SC,4320,22,,,3,,,6
-27,Computer Networks I,CMP_SC,4850,7;18,,,3,,,6
-28,CMP SC Elective 4000 level,,,,,,3,,,6
-29,CMP SC Elective 4000 level,,,,,,3,,,6
-30,Technical Elective,,,,,,3,,,6
-31,Operating Systems I,CMP_SC,4520,11;21;8,,,3,,,7
-32,Senior Capstone Design I,CMP_SC,4970,26,,,3,,,7
-33,CMP SC Requirement,,,,,,3,,,7
-34,Technical Elective,,,,,,3,,,7
-35,Humanities/Fine Art,,,,,,3,,,7
-36,Senior Capstone Design II,CMP_SC,4980,32,,,3,,,8
-37,Technical Elective,,,,,,3,,,8
-38,CMP SC Elective 4000-level,,,,,,3,,,8
-39,CMP SC Elective 4000-level,,,,,,3,,,8
-40,CMP SC Elective 4000-level,,,,,,3,,,8
+Curriculum,Computer Science,,,,,,,,
+Institution,University of Missouri,,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,semester,,,,,,,,
+CIP,11.0701,,,,,,,,
+Courses,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,Introduction to Computer Science,CMP_SC,1000,,,,1,,
+2,Algorithm Design and Programming I,CMP_SC,1050,3,3,,4,,
+3,Analytic Geometry and Calculus I,MATH,1500,,,,5,,
+4,Constitutional/State Law Elective,,,,,,3,,
+5,Public Speaking,COMMUN,1200,,,,3,,
+6,Algorithm Design and Programming II,CMP_SC,2050,2,,,4,,
+7,Introduction to Logic Systems,CMP_SC,2270,2,,,3,,
+8,Calculus II,MATH,1700,3,,,5,,
+9,Exposition and Argumentation,ENGLISH,1000,,,,3,,
+10,Non-Science Elective,,,,,,1,,
+11,Advanced Algorithm Design,CMP_SC,3050,6,,,3,,
+12,CMP SC Elective 2000/3000 level,,,,,,3,,
+13,Calculus III,MATH,2300,8,,,3,,
+14,Science Sequence,,,,,,5,,
+15,Humanities/Fine Art (writing intensive),,,,,,3,,
+16,CMP SC Elective 2000/3000 level,,,,,,3,,
+17,Object Oriented Programming,CMP_SC,3330,6,,,3,,
+18,Discrete Mathematical Structures,MATH,2320,8,,,3,,
+19,Science Sequence,,,,,,5,,
+20,Behavorial Science,,,,,,3,,
+21,Computer Organization and Assembly Language,CMP_SC,3280,7,,,3,,
+22,Database Applications and Information Systems,CMP_SC,3380,6,,,3,,
+23,Design and Analysis of Algorithms I,CMP_SC,4050,11,,,3,,
+24,Introduction to Mathematical Statistics,STAT,4710,13,,,3,,
+25,Social/Behavioral Science 2000 level,,,,,,3,,
+26,Software Engineering I,CMP_SC,4320,22,,,3,,
+27,Computer Networks I,CMP_SC,4850,7;18,,,3,,
+28,CMP SC Elective 4000 level,,,,,,3,,
+29,CMP SC Elective 4000 level,,,,,,3,,
+30,Technical Elective,,,,,,3,,
+31,Operating Systems I,CMP_SC,4520,11;21;8,,,3,,
+32,Senior Capstone Design I,CMP_SC,4970,26,,,3,,
+33,CMP SC Requirement,,,,,,3,,
+34,Technical Elective,,,,,,3,,
+35,Humanities/Fine Art,,,,,,3,,
+36,Senior Capstone Design II,CMP_SC,4980,32,,,3,,
+37,Technical Elective,,,,,,3,,
+38,CMP SC Elective 4000-level,,,,,,3,,
+39,CMP SC Elective 4000-level,,,,,,3,,
+40,CMP SC Elective 4000-level,,,,,,3,,
