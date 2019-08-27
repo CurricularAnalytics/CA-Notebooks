@@ -1,0 +1,48 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science,,,,,,,,,
+Institution,University of Arkansas - Little Rock,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Composition I,RHET,1311,,,,3,,,1
+2,Calculus I,MATH,1451,,,,4,,,1
+3,History of Civilization I,HIST,1311,,,,3,,,1
+4,Programming I,CPSC,1375,,,,3,,,1
+5,Introduction to Computer Science Laboratory,CPSC,1175,,4,,1,,,1
+6,First Year Experience for CPSC/IFSC Majors,CPSC,1105,,,,1,,,1
+7,Composition II,RHET,1312,1,,,3,,,2
+8,Calculus II,MATH,1452,2,,,4,,,2
+9,Internet Technologies,CPSC,1310,,,,3,,,2
+10,Programming II,CPSC,2376,4,,,3,,,2
+11,Introduction to Communication ,ACOM,1300,,,,3,,,2
+12,Discrete Mathematics,MATH,2310,,,,3,,,3
+13,Introduction to Computer Systems and Assembly Language,CPSC,2382,4,,,3,,,3
+14,Data Structures and Algorithms,CPSC,2380,10,,,3,,,3
+15,Physics or Chemistry I (option),,,,,,4,,,3
+16,History option,,,,,,3,,,3
+17,Unrestricted elective,,,,,,3,,,4
+18,Operating Systems,CPSC,3380,14;13;8,,,3,,,4
+19,Database Concepts I,CPSC,3375,14;12,,,3,,,4
+20,Physics or Chemistry II (option),,,,,,4,,,4
+21,Ethics in the Profession,IFSC,2200,,,,2,,,4
+22,Fine Arts core requirement,,,,,,3,,,5
+23,Language Structure,CPSC,3383,14;12,,,3,,,5
+24,Math Requierement,,,,,,3,,,5
+25,Computer Organization I,CPSC,3482,13;12,,,4,,,5
+26,Upper-level unrestricted elective,,,,,,3,,,5
+27,Technical Writing,RHET,3326,7,,,3,,,6
+28,Social Sciences core requirement,,,,,,3,,,6
+29,Upper-level CPSC elective,,,,,,3,,,6
+30,Math/Science Elective,,,,,,3,,,6
+31,Humanities core requirement,,,,,,3,,,6
+32,Fundamentals of Software Engineering,CPSC,4373,18;23;8,,,3,,,7
+33,Unrestricted Elective,,,,,,2,,,7
+34,Upper-level CPSC elective,,,,,,3,,,7
+35,Applied Statistics I,STAT,3352,2,,,3,,,7
+36,Core science course with lab,,,,,,4,,,7
+38,Upper-level CPSC elective,,,,,,3,,,8
+39,Capstone Project,CPSC,4392,32,,,3,,,8
+40,Upper-level unrestricted electives,,,,,,3,,,8
+41,Upper-level unrestricted electives,,,,,,3,,,8
