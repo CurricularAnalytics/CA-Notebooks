@@ -1,46 +1,45 @@
-Curriculum,Computer Science,,,,,,,,,
-Degree Plan,Calculus Math Ready,,,,,,,,,
-Institution,North Dakota State University,,,,,,,,,
-Degree Type,BS,,,,,,,,,
-System Type,semester,,,,,,,,,
-CIP,11.0701,,,,,,,,,
-Courses,,,,,,,,,,
-Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,Computer Science I,CSCI,160,,,,4,,,1
-2,Skills for Academic Success,CSCI,189,,,,1,,,1
-3,Calculus I,MATH,165,,,,4,,,1
-4,Gen Ed Science & Technology and Lab,,,,,,4,,,1
-5,College Composition I,ENGL,110,,,,4,,,1
-6,Computer Science II,CSCI,161,1,,,4,,,2
-7,Calculus II,MATH,166,3,,,4,,,2
-8,College Composition II,ENGL,120,5,,,3,,,2
-9,Gen Ed Science & Technology,,,,,,3,,,2
-10,Gen Ed Humanities & Fine Arts/Gen Ed Global Perspectives,,,,,,3,,,2
-11,Modern Software Development,CSCI,213,6,,,3,,,3
-12,Discrete Mathematics,CSCI,222,1,,,3,,,3
-13,Fundamentals of Public Speaking,COMM,110,,,,3,,,3
-14,Gen Ed Social & Behavioral Sciences,,,,,,3,,,3
-15,Gen Ed Science & Technology,,,,,,3,,,3
-16,Software Development for Games,CSCI,313,11,,,3,,,4
-17,Theoretical Computer Science,CSCI,336,12,,,3,,,4
-18,Gen Ed Social & Behavioral Sciences/Gen Ed Cultural Diversity,,,,,,3,,,4
-19,Gen Ed Wellness,,,,,,3,,,4
-20,Elective,,,,,,3,,,4
-21,Comparative Programming Languages,CSCI,372,6,,,3,,,5
-22,Probability,STAT,367,7,,,3,,,5
-23,Database Systems,CSCI,366,11,,,3,,,5
-24,Gen Ed Humanities & Fine Arts,,,,,,3,,,5
-25,CSCI Elective I,,,,,,3,,,5
-26,Algorithm Analysis,CSCI,467,7;6;12,,,3,,,6
-27,Statistics,STAT,368,21,,,3,,,6
-28,Computer Organization and Architecture,CSCI,374,11,,,3,,,6
-29,Writing in the Technical Professions,ENGL,321,8,,,3,,,6
-30,Elective,,,,,,3,,,6
-31,Social Implications of Computers,CSCI,489,20,,,3,,,7
-32,Operating Systems Concepts,CSCI,474,27,,,3,,,7
-33,CSCI elective II,,,,,,3,,,7
-34,Additional Elective,,,,,,3,,,7
-35,Networking and Parallel Computation,CSCI,415,16;17,,,3,,,8
-36,Software Projects Capstone,CSCI,445,16;22,,,3,,,8
-37,CSCI Elective III,,,,,,3,,,8
-38,Additional Elective,,,,,,3,,,8
+Curriculum,Computer Science,,,,,,,,
+Institution,North Dakota State University,,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,semester,,,,,,,,
+CIP,11.0701,,,,,,,,
+Courses,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,Computer Science I,CSCI,160,,,,4,,
+2,Skills for Academic Success,CSCI,189,,,,1,,
+3,Calculus I,MATH,165,,,,4,,
+4,Gen Ed Science & Technology and Lab,,,,,,4,,
+5,College Composition I,ENGL,110,,,,4,,
+6,Computer Science II,CSCI,161,1,,,4,,
+7,Calculus II,MATH,166,3,,,4,,
+8,College Composition II,ENGL,120,5,,,3,,
+9,Gen Ed Science & Technology,,,,,,3,,
+10,Gen Ed Humanities & Fine Arts/Gen Ed Global Perspectives,,,,,,3,,
+11,Modern Software Development,CSCI,213,6,,,3,,
+12,Discrete Mathematics,CSCI,222,1,,,3,,
+13,Fundamentals of Public Speaking,COMM,110,,,,3,,
+14,Gen Ed Social & Behavioral Sciences,,,,,,3,,
+15,Gen Ed Science & Technology,,,,,,3,,
+16,Software Development for Games,CSCI,313,11,,,3,,
+17,Theoretical Computer Science,CSCI,336,12,,,3,,
+18,Gen Ed Social & Behavioral Sciences/Gen Ed Cultural Diversity,,,,,,3,,
+19,Gen Ed Wellness,,,,,,3,,
+20,Elective,,,,,,3,,
+21,Comparative Programming Languages,CSCI,372,6,,,3,,
+22,Probability,STAT,367,7,,,3,,
+23,Database Systems,CSCI,366,11,,,3,,
+24,Gen Ed Humanities & Fine Arts,,,,,,3,,
+25,CSCI Elective I,,,,,,3,,
+26,Algorithm Analysis,CSCI,467,7;6;12,,,3,,
+27,Statistics,STAT,368,21,,,3,,
+28,Computer Organization and Architecture,CSCI,374,11,,,3,,
+29,Writing in the Technical Professions,ENGL,321,8,,,3,,
+30,Elective,,,,,,3,,
+31,Social Implications of Computers,CSCI,489,20,,,3,,
+32,Operating Systems Concepts,CSCI,474,27,,,3,,
+33,CSCI elective II,,,,,,3,,
+34,Additional Elective,,,,,,3,,
+35,Networking and Parallel Computation,CSCI,415,16;17,,,3,,
+36,Software Projects Capstone,CSCI,445,16;22,,,3,,
+37,CSCI Elective III,,,,,,3,,
+38,Additional Elective,,,,,,3,,
