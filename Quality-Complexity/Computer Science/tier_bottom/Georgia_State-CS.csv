@@ -1,44 +1,43 @@
-Curriculum,Computer Science,,,,,,,,,
-Degree Plan,Computer Science BS,,,,,,,,,
-Institution,Gerogia State University,,,,,,,,,
-Degree Type,BS,,,,,,,,,
-System Type,semester,,,,,,,,,
-CIP,11.0701,,,,,,,,,
-Courses,,,,,,,,,,
-Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,English Composition I,ENGL,1101,,,,3,,,1
-2,2-hour course (Area B),,,,,,2,,,1
-3,3-hour course (Area C),,,,,,3,,,1
-4,Precalculus,MATH,1113,,,,3,,,1
-5,Principles of Computer Science I,CSC,1301,,4,,4,,,1
-6,English Composition II,ENGL,1102,1,,,3,,,2
-7,2-hour course (Area B),,,,,,2,,,2
-8,Calculus of One Variable I,MATH,2211,4,,,4,,,2
-9,Principles of Computer Science II,CSC,1302,5,,,4,,,2
-10,Theoretical Foundations of Computer Science,CSC,2510,5;4,,,3,,,2
-11,3-hour course (Area C),,,,,,3,,,3
-12,US History,HIST,2210,,,,3,,,3
-13,Calculus of One Variable II,MATH,2212,8,,,4,,,3
-14,Data Structures,CSC,2720,9;8;10,,,3,,,3
-15,Computer Organization and Programming,CSC,3210,9;10,,,4,,,3
-16,3-hour course (Area E),,,,,,3,,,4
-17,3-hour course (Area F),,,,,,3,,,4
-18,Mathematical Models for Computer Science,MATH,3030,13;10,,,3,,,4
-19,Computer Science 400+ elective,,,,,,4,,,4
-20,System-Level Programming,CSC,3320,9;10,,,3,,,4
-21,3-hour course (Area H),,,,,,3,,,5
-22,Principles of Physics I,PHYS,2211K,8,,,4,,,5
-23,Computer Architecture,CSC,4210,15,,,4,,,5
-24,Design and Analysis of Algorithms,CSC,4520,14;18,,,4,,,5
-25,Introduction to American Government,POLS,1101,,,,3,,,6
-26,Principles of Physics II,PHYS,2212K,13,,,4,,,6
-27,Programming Language Concepts,CSC,4330,14;15;20,,,4,,,6
-28,Computer Science 400+ elective,,,,,,4,,,6
-29,3-hour course (Area E),,,,,,3,,,7
-30,3-hour course (Area H),,,,,,3,,,7
-31,Computer Science 400+ elective,,,,,,4,,,7
-32,Computer Science 400+ elective,,,,,,4,,,7
-33,3-hour course (Area H),,,,,,3,,,8
-34,3-hour course (Area H),,,,,,3,,,8
-35,Software Engineering Ð CTW,CSC,4350,24,,,4,,,8
-36,Computer Science 400+ elective,,,,,,4,,,8
+Curriculum,Computer Science,,,,,,,,
+Institution,Gerogia State University,,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,semester,,,,,,,,
+CIP,11.0701,,,,,,,,
+Courses,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,English Composition I,ENGL,1101,,,,3,,
+2,2-hour course (Area B),,,,,,2,,
+3,3-hour course (Area C),,,,,,3,,
+4,Precalculus,MATH,1113,,,,3,,
+5,Principles of Computer Science I,CSC,1301,,4,,4,,
+6,English Composition II,ENGL,1102,1,,,3,,
+7,2-hour course (Area B),,,,,,2,,
+8,Calculus of One Variable I,MATH,2211,4,,,4,,
+9,Principles of Computer Science II,CSC,1302,5,,,4,,
+10,Theoretical Foundations of Computer Science,CSC,2510,5;4,,,3,,
+11,3-hour course (Area C),,,,,,3,,
+12,US History,HIST,2210,,,,3,,
+13,Calculus of One Variable II,MATH,2212,8,,,4,,
+14,Data Structures,CSC,2720,9;8;10,,,3,,
+15,Computer Organization and Programming,CSC,3210,9;10,,,4,,
+16,3-hour course (Area E),,,,,,3,,
+17,3-hour course (Area F),,,,,,3,,
+18,Mathematical Models for Computer Science,MATH,3030,13;10,,,3,,
+19,Computer Science 400+ elective,,,,,,4,,
+20,System-Level Programming,CSC,3320,9;10,,,3,,
+21,3-hour course (Area H),,,,,,3,,
+22,Principles of Physics I,PHYS,2211K,8,,,4,,
+23,Computer Architecture,CSC,4210,15,,,4,,
+24,Design and Analysis of Algorithms,CSC,4520,14;18,,,4,,
+25,Introduction to American Government,POLS,1101,,,,3,,
+26,Principles of Physics II,PHYS,2212K,13,,,4,,
+27,Programming Language Concepts,CSC,4330,14;15;20,,,4,,
+28,Computer Science 400+ elective,,,,,,4,,
+29,3-hour course (Area E),,,,,,3,,
+30,3-hour course (Area H),,,,,,3,,
+31,Computer Science 400+ elective,,,,,,4,,
+32,Computer Science 400+ elective,,,,,,4,,
+33,3-hour course (Area H),,,,,,3,,
+34,3-hour course (Area H),,,,,,3,,
+35,Software Engineering Ð CTW,CSC,4350,24,,,4,,
+36,Computer Science 400+ elective,,,,,,4,,
