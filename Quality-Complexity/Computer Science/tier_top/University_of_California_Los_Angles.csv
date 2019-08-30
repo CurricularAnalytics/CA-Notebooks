@@ -11,7 +11,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 4,Differential and Integral Calculus,Mathematics,31A,,,,4,,
 5,Introduction to Computer Science II,Computer Science,32,2,,,4,,
 6,Integration and Infinite Series,Mathematics,31B,4,,,4,,
-7,Mechanics,Physics,1A,4;6;,,,5,,
+7,Mechanics,Physics,1A,4;6,,,5,,
 8,Introduction to Computer Organization,Computer Science,33,5,,,5,,
 9,Calculus of Several Variables,Mathematics,32A,4,,,4,,
 10,"Oscillations, Waves, Electric and Magnetic Fields",Physics,1B,7;4;6,,,5,,
