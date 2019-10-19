@@ -1,0 +1,46 @@
+Curriculum,"International Studies, European Studies Concentration",,,,,,,,,
+Degree Plan,"International Studies, European Studies Concentration",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"ANTH 200","","",,,,3,"","",1
+2,"CO 150","","",,,,3,"","",1
+3,"GR 100","","",,,,3,"","",1
+4,"L*** 100","","",,,,5,"","",1
+5,"HIST 100","","",,,,3,"","",2
+6,"INST 200","","",,,,3,"","",2
+7,"L*** 101","","","4",,,5,"","",2
+8,"POLS 232","","",,,,3,"","",2
+9,"MATHEMATICS","","",,,,3,"","",2
+10,"AREC 202","","","9",,,3,"","",3
+11,"L*** 200","","","7",,,4,"","",3
+12,"AUCC 3B","","",,,,3,"","",3
+13,"AUCC 3A","","",,,,3,"","",3
+14,"L*** 201","","","11",,,4,"","",4
+15,"ADVANCED WRITING","","","2",,,3,"","",4
+16,"AUCC 3B","","",,,,3,"","",4
+17,"AUCC 3A","","",,,,4,"","",4
+18,"ELECTIVE 1","","",,,,2,"","",4
+19,"INST 301","","","3;6",,,3,"","",5
+20,"L*** 300","","","11",,,3,"","",5
+21,"INTERNATIONAL STUDIES ELECTIVE 1","","",,,,3,"","",5
+22,"INTERNATIONAL STUDIES ELECTIVE 2","","",,,,3,"","",5
+23,"ELECTIVE 2","","",,,,3,"","",5
+24,"L*** 301","","",,,,3,"","",6
+25,"INTERNATIONAL STUDIES ELECTIVE 3","","",,,,3,"","",6
+26,"INTERNATIONAL STUDIES ELECTIVE 4","","",,,,3,"","",6
+27,"ELECTIVE 2","","",,,,3,"","",6
+28,"ELECTIVE 3","","",,,,3,"","",6
+29,"INST 492","","","19",,,3,"","",7
+30,"INTERNATIONAL STUDIES ELECTIVE 5","","",,,,3,"","",7
+31,"INTERNATIONAL STUDIES ELECTIVE 6","","",,,,3,"","",7
+32,"ELECTIVE 4","","",,,,3,"","",7
+33,"ELECTIVE 5","","",,,,3,"","",7
+34,"INTERNATIONAL STUDIES ELECTIVE 7","","",,,,3,"","",8
+35,"INTERNATIONAL STUDIES ELECTIVE 8","","",,,,3,"","",8
+36,"ELECTIVE 6","","",,,,3,"","",8
+37,"ELECTIVE 7","","",,,,3,"","",8
+38,"ELECTIVE 8","","",,,,3,"","",8

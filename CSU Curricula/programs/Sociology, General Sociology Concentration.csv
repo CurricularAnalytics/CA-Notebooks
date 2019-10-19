@@ -1,0 +1,47 @@
+Curriculum,"Sociology, General Sociology Concentration",,,,,,,,,
+Degree Plan,"Sociology, General Sociology Concentration",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"CO 150","","",,,,3,"","",1
+2,"AUCC 3B","","",,,,3,"","",1
+3,"AUCC 3A","","",,,,4,"","",1
+4,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 1","","",,,,3,"","",1
+5,"ELECTIVE 1","","",,,,3,"","",1
+6,"SOC 100","","",,,,3,"","",2
+7,"MATHEMATICS","","",,,,3,"","",2
+8,"SOCIOLOGY ELECTIVE 1","","",,,,3,"","",2
+9,"ELECTIVE 2","","",,,,4,"","",2
+10,"ELECTIVE 3","","",,,,4,"","",2
+11,"AUCC 3B","","",,,,3,"","",3
+12,"AUCC 3A","","",,,,3,"","",3
+13,"AUCC 3D","","",,,,3,"","",3
+14,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 2","","",,,,3,"","",3
+15,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 3","","",,,,3,"","",3
+16,"ADVANCED WRITING","","","1",,,3,"","",4
+17,"AUCC 3E","","",,,,3,"","",4
+18,"SOCIOLOGY ELECTIVE 2","","",,,,3,"","",4
+19,"SOCIOLOGY ELECTIVE 3","","",,,,3,"","",4
+20,"ELECTIVE 4","","",,,,3,"","",4
+21,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 4","","",,,,3,"","",5
+22,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 5","","",,,,3,"","",5
+23,"UD SOCIOLOGY 1","","",,,,3,"","",5
+24,"ELECTIVE 5","","",,,,3,"","",5
+25,"ELECTIVE 6","","",,,,2,"","",5
+26,"SOC 210","","","7",,,3,"","",6
+27,"SOC 301","","","6",,,3,"","",6
+28,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 6","","",,,,3,"","",6
+29,"SOCIAL AND BEHAVIORAL SCIENCES COURSE 7","","",,,,3,"","",6
+30,"ELECTIVE 7","","",,,,3,"","",6
+31,"SOC 311","","","6",,,3,"","",7
+32,"SOC 313","","","26",,,1,"","",7
+33,"UD SOCIOLOGY 2","","",,,,3,"","",7
+34,"ELECTIVE 8","","",,,,4,"","",7
+35,"ELECTIVE 9","","",,,,4,"","",7
+36,"SOC 403","","","26;31;32;27",,,3,"","",8
+37,"ELECTIVE 10","","",,,,3,"","",8
+38,"ELECTIVE 11","","",,,,4,"","",8
+39,"ELECTIVE 12","","",,,,3,"","",8

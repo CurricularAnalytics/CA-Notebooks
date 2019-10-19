@@ -1,0 +1,49 @@
+Curriculum,"Natural Resource Tourism, Natural Resource Tourism Concentration",,,,,,,,,
+Degree Plan,"Natural Resource Tourism, Natural Resource Tourism Concentration",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"CO 150","","",,,,3,"","",1
+2,"MATH 117","","",,,,1,"","",1
+3,"MATH 118","","",,"2",,1,"","",1
+4,"MATH 124","","",,"3",,1,"","",1
+5,"AUCC 3B","","",,,,3,"","",1
+6,"AUCC 3A","","",,,,3,"","",1
+7,"POLITICAL SCIENCE ELECTIVE","","",,,,3,"","",1
+8,"BUS 150","","",,,,3,"","",2
+9,"ECON 202","","","2",,,3,"","",2
+10,"AUCC 3B","","",,,,3,"","",2
+11,"AUCC 3A","","",,,,4,"","",2
+12,"ACT 205","","",,,,3,"","",3
+13,"NRRT 231","","",,,,3,"","",3
+14,"NRRT 270","","",,,,3,"","",3
+15,"RRM 101","","",,,,3,"","",3
+16,"GUIDED ELECTIVE 1","","",,,,3,"","",3
+17,"BUS 205","","",,,,3,"","",4
+18,"SPCM 200","","",,,,3,"","",4
+19,"STAT 201","","","2",,,3,"","",4
+20,"GUIDED ELECTIVE 2","","",,,,5,"","",4
+21,"MGT 305","","",,,,3,"","",5
+22,"NR 320","","",,,,3,"","",5
+23,"NR 377","","",,,,1,"","",5
+24,"NRRT 376","","","19",,,3,"","",5
+25,"ADVANCED WRITING","","","1",,,3,"","",5
+26,"GUIDED ELECTIVE 3","","",,,,3,"","",5
+27,"JTC 350","","",,,,3,"","",6
+28,"MKT 305","","","9",,,3,"","",6
+29,"NRRT 320","","",,,,3,"","",6
+30,"AUCC 3E","","",,,,3,"","",6
+31,"GUIDED ELECTIVE 4","","",,,,3,"","",6
+32,"NRRT 330","","",,,,3,"","",7
+33,"NRRT 442","","",,,,3,"","",7
+34,"NRRT 471","","","14",,,3,"","",7
+35,"GUIDED ELECTIVE 5","","",,,,3,"","",7
+36,"GUIDED ELECTIVE 6","","",,,,3,"","",7
+37,"NRRT 372","","","14",,,3,"","",8
+38,"NRRT 460","","","14",,,3,"","",8
+39,"NRRT 470","","","14",,,3,"","",8
+40,"NRRT 487","","",,,,5,"","",8
+41,"GUIDED ELECTIVE 7","","",,,,3,"","",8

@@ -1,0 +1,47 @@
+Curriculum,"International Studies, Latin American Studies Concentration",,,,,,,,,
+Degree Plan,"International Studies, Latin American Studies Concentration",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"ANTH 200","","",,,,3,"","",1
+2,"CO 150","","",,,,3,"","",1
+3,"GR 100","","",,,,3,"","",1
+4,"LSPA 100","","",,,,5,"","",1
+5,"HIST 100","","",,,,3,"","",2
+6,"INST 200","","",,,,3,"","",2
+7,"LSPA 101","","","4",,,5,"","",2
+8,"POLS 232","","",,,,3,"","",2
+9,"MATHEMATICS","","",,,,3,"","",2
+10,"AREC 202","","","9",,,3,"","",3
+11,"LSPA 200","","","7",,,4,"","",3
+12,"AUCC 3B","","",,,,3,"","",3
+13,"AUCC 3A","","",,,,3,"","",3
+14,"ELECTIVE 1","","",,,,3,"","",3
+15,"LSPA 201","","","11",,,4,"","",4
+16,"ADVANCED WRITING","","","2",,,3,"","",4
+17,"AUCC 3B","","",,,,3,"","",4
+18,"AUCC 3A","","",,,,4,"","",4
+19,"ELECTIVE 2","","",,,,1,"","",4
+20,"INST 301","","","3;6",,,3,"","",5
+21,"LSPA 300","","","11",,,3,"","",5
+22,"INTERNATIONAL STUDIES ELECTIVE 1","","",,,,3,"","",5
+23,"INTERNATIONAL STUDIES ELECTIVE 2","","",,,,3,"","",5
+24,"ELECTIVE 3","","",,,,2,"","",5
+25,"LSPA 301","","",,,,3,"","",6
+26,"INTERNATIONAL STUDIES ELECTIVE 3","","",,,,3,"","",6
+27,"INTERNATIONAL STUDIES ELECTIVE 4","","",,,,3,"","",6
+28,"ELECTIVE 4","","",,,,3,"","",6
+29,"ELECTIVE 5","","",,,,3,"","",6
+30,"INST 492","","","20",,,3,"","",7
+31,"INTERNATIONAL STUDIES ELECTIVE 5","","",,,,3,"","",7
+32,"INTERNATIONAL STUDIES ELECTIVE 6","","",,,,3,"","",7
+33,"ELECTIVE 6","","",,,,2,"","",7
+34,"ELECTIVE 7","","",,,,3,"","",7
+35,"INTERNATIONAL STUDIES ELECTIVE 7","","",,,,3,"","",8
+36,"INTERNATIONAL STUDIES ELECTIVE 8","","",,,,3,"","",8
+37,"ELECTIVE 8","","",,,,3,"","",8
+38,"ELECTIVE 9","","",,,,3,"","",8
+39,"ELECTIVE 10","","",,,,3,"","",8

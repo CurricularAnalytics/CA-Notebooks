@@ -1,0 +1,51 @@
+Curriculum,Biosystems Engineering,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Institution,University of Arizona,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.4501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I w/ Applications,MATH,125,,,,3,,,1
+2,Gen Chemistry I,CHEM,151,,,,4,,,1
+3,First-year Comp.,ENGL,101,,,,3,,,1
+4,Intro to Engineering,ENGR,102,,1,,3,,,1
+5,Tier I General Ed.,,,,,,3,,,1
+6,Calculus II,MATH,129,1,,,3,,,2
+7,Gen Chemistry II,CHEM,152,2,,,4,,,2
+8,Intro Mechanics,PHYS,141,1,,,4,,,2
+9,First-year Comp.,ENGL,102,3,,,3,,,2
+10,Tier I General Ed.,,,,,,3,,,2
+11,Statics,CE,214,8;6,,,3,,,3
+12,Biosystems Thermal Eng,BE,284,6;8,,,3,,,3
+13,Intro to Biosystems Eng,BE,201,1,,,2,,,3
+14,Vector Calculus,MATH ,223,6,,,4,,,3
+15,Intro Biology I,MCB,181R,,,,3,,,3
+16,Intro Biology I Lab,MCB,181L,,,15,1,,,3
+17,Eng Analytical Computer Skills,BE,205,,,,3,,,4
+18,Intro to ODEs,MATH,254,6,,,3,,,4
+19,Electricity & Magnetism,PHYS,241,6;8,,,4,,,4
+20,Human Anatomy and Physio I,PHYS,201,,,,4,,,4
+21,Tier I General Ed.,,,,,,3,,,4
+22,Mechanics of Fluids,CE,218,11,,,3,,,5
+23,Eng Management I,SIE,265,4;1,,,3,,,5
+24,Intro to Computer Aided Design,BE,221,,,,3,,,5
+25,Sensor and Contorls,BME,447,7,,,3,,,5
+26,Eng Probability & Stats,SIE ,305,6,,,3,,,5
+27,Biosystems Analysis and Design,BE ,423,,,,3,,,6
+28,BE Design Elective,,,,,,3,,,6
+29,BE Technical Elective,,,,,,3,,,6
+30,Technical Writing,ENGL ,308,,,,3,,,6
+31,Tier I General Ed,,,9,,,3,,,6
+32,Seminar in Eng Careers and Professionalism,BE,496A,,,33,1,,,7
+33,Cross-disciplinary Design,ENGR,498A,,,,3,,,7
+34,Technical Elective,,,,,,3,,,7
+35,BE Design Elective,,,,,,3,,,7
+36,Internship,BE,493,,,,1,,,7
+37,Mech Behavior of Eng Materials,AME,324A,11,,,3,,,7
+38,Tier II General Ed,,,,,,3,,,7
+39,Cross-disciplinary Design,ENGR,498B,33,,,3,,,8
+40,Technical Elective,,,,,,3,,,8
+41,Technical Elective,,,,,,3,,,8
+42,BE Design Elective,,,,,,3,,,8
+43,Tier II General Ed,,,,,,3,,,8
