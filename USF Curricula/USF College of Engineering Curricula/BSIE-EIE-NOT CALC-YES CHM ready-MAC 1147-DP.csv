@@ -1,0 +1,56 @@
+Curriculum,BSIE-Industrial Engineering,,,,,,,,,
+Degree Plan,Industrial Engineering,,,,,,,,,
+Institution,USF,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.3501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+28218,Intermediate Algebra,MAT,1033,,,,3,,,1
+25855,College Algebra,MAC,1105,28218,,,3,,,2
+24946,Precalculus Algebra and Trigonometry,MAC,1147,25855,,,4,,,3
+24950,Engineering Calculus I,MAC,2281,24946,,,4,,,4
+25478,General Chemistry I ,CHM,2045,,,,3,,,4
+23525,Composition I,ENC,1101,,,,3,,,4
+25479,General Chemistry I Laboratory,CHM,2045L,,,25478,1,,,4
+23287,Foundations of Engineering Lab,EGN,3000L,,,,3,,,4
+28172,Foundations of Engineering,EGN,3000,,,,0,,,4
+24951,Engineering Calculus II,MAC,2282,24950,,,4,,,5
+23526,Composition II,ENC,1102,23525,,,3,,,5
+7,State Humanities Gen Ed,SGEH,,,,,3,,,5
+26014,General Physics I - Calculus Based,PHY,2048,24950,,,3,,,5
+26015,General Physics I Laboratory,PHY,2048L,24950,,26014,1,,,5
+8,State Social Sciences Gen Ed,SGES,,,,,3,,,5
+24952,Engineering Calculus III,MAC,2283,24951,,,4,,,6
+26016,General Physics II - Calculus Based,PHY,2049,24951;26014;26015,,,3,,,6
+25983,Probability and Statistics for Engineers,EGN,3443,24951,,,3,,,6
+26647,Introduction to Linear Systems,EGN,4450,24951,,,2,,,6
+26017,General Physics II Laboratory,PHY,2049L,24951;26014;26015,,26016,1,,,6
+25981,Introduction to Electrical Systems I,EGN,3373,,25929,,3,,,7
+25929,Modeling and Analysis of Engineering Systems/Diff Equations,EGN/MAP,3433/2302,24952;26016,,,3,,,7
+25980,Materials Engineering I,EGN,3365,25478,,23719,3,,,7
+23719,Statics,EGN,3311,26014,,,3,,,7
+10,Upper-Level Departmental Elective,,,,,,3,,,7
+24859,Engineering Economics with Social and Global Implications,EGN,3615,,,,3,,,8
+23724,Thermodynamics I,EGN,3343,26014;26016;24952,,,3,,,8
+26653,Introduction to Design Graphics,EGN,1113,,,,3,,,8
+27719,Communication for Engineers,ENC,3246,,,,3,,,9
+26925,Deterministic O. R.,ESI,4312,26647,,,3,,,9
+28739,Engineering Programming,ESI,4007,24950,,,3,,,9
+26919,Manufacturing Processes,EIN,4621,,,,3,,,9
+26913,Work Analysis,EIN,4312C,24859;25983,,,3,,,9
+28786,Design of Industrial Information Systems,ESI,4620,25983,,,3,,,10
+26926,Probabilistic O. R.,ESI,4313,25983,,,3,,,10
+26915,Production Control,EIN,4333,26925,,,3,,,10
+26923,Statistical Quality Control,ESI,4221,25983,,,3,,,10
+12,Tech Elective IE,,,,,,3,,,10
+26924,Design of Experiments,ESI,4244,25983,,,3,,,11
+28738,Engineering Analytics I,ESI,4606,25983;26925,,,3,,,11
+30021,Industrial Engineering Senior Design Project I,EIN,4890,26913,26915;26923,,3,,,11
+26927,Systems Simulation,ESI,4523,26926,,,3,,,12
+15,Tech Elective IE,,,,,,3,,,12
+26920,Automation and Robotics,EIN,4601C,26919,,,3,,,12
+26918,Industrial Engineering Senior Design Project II,EIN,4891,30021,,,3,,,12
+28785,Engineering Analytics II,ESI,4607,28738,,,3,,,12
+26914,Human Factors,EIN,4243C,,,,3,,,12
+16,Tech Elective IE,,,,,,3,,,12
