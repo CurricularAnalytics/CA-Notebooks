@@ -1,15 +1,17 @@
 Curriculum,BSCP-Computer Engineering,,,,,,,,,
-Degree Plan,Computer Engineering,,,,,,,,,
+Degree Plan,ECP-NOT CALCorCHM ready-MAC 1114&1140,,,,,,,,,
 Institution,USF,,,,,,,,,
 Degree Type,BS,,,,,,,,,
 System Type,semester,,,,,,,,,
 CIP,14.0901,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26602,Chemistry for Today,CHM,2023,,,,3,,,1
 25855,College Algebra,MAC,1105,,,,3,,,1
-24946,Precalculus Algebra and Trigonometry,MAC,1147,25855,,,4,,,2
-24950,Engineering Calculus I,MAC,2281,24946,,,4,,,3
-25478,General Chemistry I (for Engineers),CHM or CHS,2045 or 2440,,,,3,,,3
+25856,Precalculus Trigonometry,MAC,1114,25855,,27685,2,,,2
+27685,Precalculus Algebra,MAC,1140,25855,,,3,,,2
+24950,Engineering Calculus I,MAC,2281,25856;27685,,,4,,,3
+25478,General Chemistry I (for Engineers),CHM or CHS,2045 or 2440,26602,,,3,,,3
 23525,Composition I,ENC,1101,,,,3,,,3
 25479,General Chemistry I Laboratory (for Engineers),CHM or CHS,2045L or 2440L,,,25478,1,,,3
 23287,Foundations of Engineering Lab,EGN,3000L,,,,3,,,3

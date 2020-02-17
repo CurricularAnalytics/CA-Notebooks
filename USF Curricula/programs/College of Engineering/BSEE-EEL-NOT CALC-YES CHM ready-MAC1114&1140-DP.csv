@@ -1,5 +1,5 @@
 Curriculum,BSEE-Electrical Engineering,,,,,,,,,
-Degree Plan,Electrical,,,,,,,,,
+Degree Plan,EEL-NOT CALC-YES CHM ready-MAC1114&1140,,,,,,,,,
 Institution,USF,,,,,,,,,
 Degree Type,BS,,,,,,,,,
 System Type,semester,,,,,,,,,
@@ -8,8 +8,9 @@ Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequistes,Credit Hours,Institution,Canonical Name,Term
 28218,Intermediate Algebra,MAT,1033,,,,3,,,1
 25855,College Algebra,MAC,1105,28218,,,3,,,2
-24946,Precalculus Algebra and Trigonometry,MAC,1147,25855,,,4,,,3
-24950,Engineering Calculus I,MAC,2281,24946,,,4,,,4
+25856,Precalculus Trigonometry,MAC,1114,25855,27685,,2,,,3
+27685,Precalculus Algebra,MAC,1140,25855,,,3,,,3
+24950,Engineering Calculus I,MAC,2281,25856;27685,,,4,,,4
 25478,General Chemistry I/Chem for Engineers ,CHM/CHS,2045/2440,,,,3,,,4
 23525,Composition I,ENC,1101,,,,3,,,4
 25479,General Chemistry I/Chem for Engineers Laboratory,CHM/CHS,2045/2440L,,,25478,1,,,4
