@@ -18,7 +18,7 @@ Open the Julia application. It should look similar to the image below.
 
 Enter Pkg mode from within Julia by hitting `]`, and then type:
 ```julia-repl
-pkg> add CurricularAnalytics
+pkg> add CurricularAnalytics, CurricularVisualization
 ```
 This will install the toolbox, along with the other Julia packages needed to run it.
 

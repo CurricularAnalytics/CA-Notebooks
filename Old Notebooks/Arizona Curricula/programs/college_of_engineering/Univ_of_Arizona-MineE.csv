@@ -1,0 +1,53 @@
+Curriculum,Mining Engineering-Mine Operations Track,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Institution,University of Arizona,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.2101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I w/ Applications,MATH,125,,,,3,,,1
+2,Gen Chemistry I,CHEM,151,,,,4,,,1
+3,First-year Comp,ENGL,101,,,,3,,,1
+4,Intro to Engineering,ENGR,102,,1,,3,,,1
+5,Tier I General Ed,,,,,,3,,,1
+6,Calculus II,MATH,129,1,,,3,,,2
+7,Gen Chemistry II,CHEM,152,2,,,4,,,2
+8,First-year Comp,ENGL,102,3,,,3,,,2
+9,Intro Mechanics,PHYS,141,1,6,,4,,,2
+10,Tier I General Ed,,,,,,3,,,2
+11,Statics,CE,214,9;6,,,3,,,3
+12,Physical Geology,GEOS,251,,,,4,,,3
+13,Vector Calculus,MATH ,223,6,,,4,,,3
+14,Intro to Mining Eng,MNE,205,,,,3,,,3
+15,Mineral Resoure Eng Topics,MNE,296A,,,,1,,,3
+16,Underground Mine Safety,MNE,297A,,15,,1,,,3
+17,Tier I General Ed,,,,,,3,,,3
+18,Mechanics of Solids,CE,215,11,,,3,,,4
+19,Intro to ODEs,MATH,254,6,,,3,,,4
+20,Mineralogy & Petrology for Eng,MNE,210,2;7,,,3,,,4
+21,Intro to Electric Circuits & Mine Power Sys,MNE,204,9,,,3,,,4
+22,Tier I General Ed.,,,,,,3,,,4
+23,Mechanics of Fluids,CE,218,11,,,3,,,5
+24,Sustainable Resource Dev,MNE,422,,,,3,,,5
+25,Health & Safety,MNE,426,,,,1,,,5
+26,Geomechanics,MNE,427,11,18,,4,,,5
+27,Mine Examination & Valuation,MNE,430,14,,,3,,,5
+28,Geopositioning for Mining Apps,MNE,444,,,,3,,,5
+29,Tech Trends in Min Resource Eng,MNE,396A,,,,1,,,6
+30,Mine Planning Software,MNE,419,,,,1,,,6
+31,Surface Mine Design,MNE,436,14;27;26,30,,3,,,6
+32,Underground Mine Design,MNE,438,14;27;26,30,,2,,,6
+33,Mine Ventilation,MNE,476,,23,,4,,,6
+34,Tech Elective,,,,,,3,,,6
+35,Mineral Processing,MNE,411,7,,,3,,,7
+36,Rock Excavation,MNE,415,18,,,3,,,7
+37,Equipment Operations Tech,MNE,407,,,,3,,,7
+38,Senior Design,MNE,498,,,,1,,,7
+39,Structural Geology,GEOS,304,12,,,4,,,7
+40,Intro to Eng Prob & Stats ,SIE,305,6,,,3,,,7
+41,Underground Construction,MNE,447,26,,,3,,,8
+42,Senior Design,MNE,498,38,,,2,,,8
+43,Tech Elective,,,,,,2,,,8
+44,Tier II General Ed.,,,,,,3,,,8
+45,Tier II General Ed.,,,,,,3,,,8

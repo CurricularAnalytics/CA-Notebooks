@@ -1,0 +1,51 @@
+Curriculum,BSCS-Computer Science,,,,,,,,,
+Degree Plan,BCS-CALC ready,,,,,,,,,
+Institution,USF,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24950,Engineering Calculus I,MAC,2281,,,,4,,,1
+23525,Composition I,ENC,1101,,,,3,,,1
+23287,Foundations of Engineering Lab,EGN,3000L,,,,3,,,1
+28172,Foundations of Engineering,EGN,3000,,,,0,,,1
+3,Natural Science Elective (Life or Physical),,,,,,3,,,1
+24951,Engineering Calculus II,MAC,2282,24950,,,4,,,2
+23526,Composition II,ENC,1102,23525,,,3,,,2
+26014,General Physics I - Calculus Based,PHY,2048,24950,,,3,,,2
+23738,Programming Concepts,COP,2510,24950,,,3,,,2
+26015,General Physics I Laboratory,PHY,2048L,24950,,26014,1,,,2
+24952,Engineering Calculus III,MAC,2283,24951,,,4,,,3
+26016,General Physics II - Calculus Based,PHY,2049,24951;26014;26015,,,3,,,3
+26655,Program Design,COP,3514,23738,,,3,,,3
+26017,General Physics II Laboratory,PHY,2049L,24951;26014;26015,,26016,1,,,3
+5,State Social Science Gen Ed,SGES,,,,,3,,,3
+24493,Computer Organization,CDA,3103,23738;26016,,,3,,,4
+6,State Humanities Gen Ed,SGEH,,,,,3,,,4
+23739,Introduction to Discrete Structures,COT,3100,24950,,,3,,,4
+24641,Object Oriented Software Design,COP,3331,26655,24493,,3,,,4
+27726,Computer Logic and Design,CDA,3201,24493;26655,,,3,,,5
+28111,Data Structures,COP,4530,23739;24641;24493,,,3,,,5
+26647,Introduction to Linear Systems,EGN,4450,24951,,,2,,,5
+23435,Computer Logic and Design Lab,CDA,3201L,,,27726,1,,,5
+23996,Analysis Of Algorithms,COT,4400,23739;28111,,,3,,,6
+24494,Computer Architecture,CDA,4205,27726;23435,,,3,,,6
+25983,Probability and Statistics for Engineers,EGN,3443,24951,,,3,,,6
+8,CSE Software Elective,,,28111,,,3,,,6
+9,Natural Science Elective (Life or Physical),,,,,,3,,,6
+27719,Communication for Engineers,ENC,3246,,,,3,,,7
+23860,Operating Systems,COP,4600,28111,,,3,,,7
+10,CSE Elective,,,28111,,,3,,,7
+11,CSE Software Elective,,,28111,,,3,,,7
+12,CSE Theory Elective,,,28111;23739,,,3,,,7
+14,CSE Elective,,,27726;23435,,,3,,,8
+15,Human & Cultural Diversity Gen Ed,TGED,,,,,3,,,8
+30262,Secure Coding,CNT,4419,28111,,,3,,,8
+16,General Elective,,,,,,3,,,8
+17,General Elective,,,,,,3,,,8
+26844,Ethical Issues And Professional Conduct,CIS,4250,,,,3,,,9
+19,CSE Elective,,,28111,,,3,,,9
+20,General Elective,,,,,,3,,,9
+24267,Software Engineering,CEN,4020,28111,,,3,,,9
+22,LAB,,,,,,1,,,9

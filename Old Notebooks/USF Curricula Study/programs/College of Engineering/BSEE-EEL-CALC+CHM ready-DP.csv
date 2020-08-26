@@ -1,0 +1,59 @@
+Curriculum,BSEE-Electrical Engineering,,,,,,,,,
+Degree Plan,EEL-CALC+CHM ready,,,,,,,,,
+Institution,USF,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequistes,Credit Hours,Institution,Canonical Name,Term
+24950,Engineering Calculus I,MAC,2281,,,,4,,,1
+25478,General Chemistry I/Chem for Engineers ,CHM/CHS,2045/2440,,,,3,,,1
+23525,Composition I,ENC,1101,,,,3,,,1
+25479,General Chemistry I/Chem for Engineers Laboratory,CHM/CHS,2045/2440L,,,25478,1,,,1
+23287,Foundations of Engineering Lab,EGN,3000L,,,,3,,,1
+28172,Foundations of Engineering,EGN,3000,,,,0,,,1
+24951,Engineering Calculus II,MAC,2282,24950,,,4,,,2
+23526,Composition II,ENC,1102,23525,,,3,,,2
+26014,General Physics I - Calculus Based,PHY,2048,24950,,,3,,,2
+26015,General Physics I Laboratory,PHY,2048L,24950,,26014,1,,,2
+23747,Fundamentals of Digital Circuits,EEL,3705,,,,3,,,2
+24952,Engineering Calculus III,MAC,2283,24951,,,4,,,3
+25357,Engineering Analysis,EGN,3420,24951,,,4,,,3
+27967,Electrical Engineering Science I - Electronic Materials,EEE,3394,25479;26014,24952,,3,,,3
+26896,Fundamentals of Digital Circuits Laboratory,EEL,3705L,23747,,,1,,,3
+4,State Humanities Gen Ed,SGEH,,,,,3,,,3
+25981,Introduction to Electrical Systems I,EGN,3373,,24959,,3,,,4
+24959,Differential Equations,MAP,2302,24952,,,3,,,4
+29920,Electrical Engineering Science II - Electromagnetics,EEL,3472C,25357;27967,,,4,,,4
+24974,Programming with C,EEL,2161,,,,3,,,4
+6,Professional Formation of Engineers I,EGS,2070,,,,1,,,4
+27018,Introduction to Electrical Systems II,EGN,3374,25981,,24959,3,,,5
+25983,Probability and Statistics for Engineers,EGN,3443,24951,,,3,,,5
+24859,Engineering Economics with Social and Global Implications,EGN,3615,,,,3,,,5
+26911,Laboratory I,EEL,3115L,25981,,,1,,,6
+9,EE Core Technical Elective,,,,,,3,,,6
+10,EE Core Technical Elective,,,,,,3,,,6
+25885,Signals and Systems,EEL,4102,25357;27018,,,3,,,6
+29988,Computer Tool Lab,EEL,3163C,24974,,,1,,,6
+27719,Communication for Engineers,ENC,3246,,,,3,,,6
+11,Professional Formation of Engineers II,EGS,3071,6,,,1,,,6
+12,EE Core Technical Elective,,,,,,3,,,7
+13,EE Core Technical Elective,,,,,,3,,,7
+14,EE Track Elective,,,,,,3,,,7
+15,EE Track Elective,,,,,,3,,,7
+16,EE Track Elective Lab,,,,,,1,,,7
+17,Professional Formation of Engineers III,EGS,3072,11,,,1,,,7
+18,Upper-Level Department Elective Lab,,,,,,1,,,7
+20,Internship/Co-op Participation,,,,,,0,,,8
+26904,EE Design 1,EEL,4906,,,,3,,,9
+21,Upper-Level Department Elective,,,,,,3,,,9
+22,EE Track Elective,,,,,,3,,,9
+23,EE Track Elective,,,,,,3,,,9
+24,EE Track Elective Lab,,,,,,1,,,9
+25,Upper-Level Department Elective,,,,,,3,,,9
+27855,EE Design 2,EEL,4914,26904,,,3,,,10
+27,Upper-Level Department Elective,,,,,,3,,,10
+28,Upper-Level Department Elective,,,,,,3,,,10
+29,General Elective,,,,,,3,,,10
+30,General Elective,,,,,,1,,,10
+31,State Social Science Gen Ed,SGES,,,,,3,,,10

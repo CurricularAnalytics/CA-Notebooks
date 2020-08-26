@@ -1,0 +1,44 @@
+Curriculum,Animal Science (Meat Food),,,,,,,,,
+Degree Plan,.csv,,,,,,,,,
+Institution,University of Wyoming,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANSC1010,,,,,,4,,,1
+2,CHEM1000,,,,,,4,,,1
+3,LIFE1010,,,,,,4,,,1
+4,FYS,,,,,,3,,,1
+5,AGEC1020,,,,,,3,,,2
+6,ENGL1010,,,,,,3,,,2
+7,FDSC1410,,,,,,3,,,2
+8,LIFE2022,,,3,,,4,,,2
+9,MATH1400,,,,,,3,,,2
+10,US &Wyoming Constitution,,,,,,3,,,3
+11,ANSC2010,,,2,,,3,,,3
+12,STAT2050,,,,,,4,,,3
+13,Elective,,,,,,6,,,3
+14,UPS Human Culture,,,,,,3,,,4
+15,USP COM2,,,6,,,3,,,4
+16,FDSC2040,,,,,,3,,,4
+17,Elective,,,,,,6,,,4
+18,FDSC3060,,,2;3,,,3,,,5
+19,PATB4110,,,8,,,3,,,5
+20,Elective,,,,,,11,,,5
+21,ANSC3010,,,3;8,,,4,,,6
+22,ANSC3100,,,,,,3,,,6
+23,AGEC3860,,,,,,3,,,6
+24,ANSC4050,,,8,,,3,,,6
+25,Upper Division Elective,,,,,,3,,,6
+26,FDSC4900,,,,,,3,,,7
+27,MICR2021,,,2;3,,,4,,,7
+28,Electives,,,,,,7,,,7
+29,Upper Division Elective,,,,,,3,,,7
+30,ANSC4630,,,,,,3,,,8
+31,FDSC3062,,,18,,,1,,,8
+32,FDSC3063,,,18,,,2,,,8
+33,FDSC4090,,,,,,3,,,8
+34,FDSC4100,,,,,,1,,,8
+35,FDSC4720,,,,,,3,,,8
+36,elective,,,,,,3,,,8
