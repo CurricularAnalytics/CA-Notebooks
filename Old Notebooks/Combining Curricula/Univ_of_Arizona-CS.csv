@@ -1,0 +1,45 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Institution,University of Arizona,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Intro to Computer Programming I,CSC,110,,2,,4,,,1
+2,Pre-Calculus,MATH,120R,,,,4,,,1
+3,English Composition I,ENGL,101,,,,3,,,1
+4,1st Semester Second Language,,,,,,4,,,1
+5,Intro to Computer Programming II,CSC,120,1,,,4,,,2
+6,Calculus I,MATH,122A/B,2,,,5,,,2
+7,English Composition II,ENGL,102,3,,,4,,,2
+8,2nd Semester Second Language,,,,,,4,,,2
+9,Software Development,CSC,210,5,,,4,,,3
+10,Intro to Discrete Structures,CSC,245,5,,,3,,,3
+11,Calculus II,MATH,129,6,,,3,,,3
+12,Tier 1 General Education,,,,,,3,,,3
+13,Tier 1 General Education,,,,,,3,,,3
+14,Computer Organization,CSC,252,9,,,3,,,4
+15,Systems Programming & Unix,CSC,352,9,,,3,,,4
+16,Supporting Science #1,,,,,,4,,,4
+17,Tier 1 General Education,,,,,,3,,,4
+18,Tier 1 General Education,,,,,,3,,,4
+19,Object-Oriented Programming,CSC,335,9,,,3,,,5
+20,Analysis of Discrete Structures,CSC,345,9;10,,,3,,,5
+21,Supporting Science #2,,,,,,4,,,5
+22,Tier 2 Gen Ed/Upper-Division,,,,,,3,,,5
+23,Upper-Division Elective,,,,,,3,,,5
+24,CSC Paradigms Elective,CSC,,,,,3,,,6
+25,CSC 400-Level Elective,CSC,,,,,3,,,6
+26,Tier 2 Gen Ed/Upper-Division,,,,,,3,,,6
+27,Tier 2 Gen Ed/Upper-Division,,,,,,3,,,6
+28,Elecive,,,,,,3,,,6
+29,CSC Theory & Writing Elective,CSC,,,,,3,,,7
+30,CSC 400-Level Elective,CSC,,,,,3,,,7
+31,Elective,,,,,,3,,,7
+32,Elective,,,,,,3,,,7
+33,Elective,,,,,,3,,,7
+34,CSC Systems Elective,CSC,,,,,3,,,8
+35,CSC 300/400-Level Elective,CSC,,,,,3,,,8
+36,Upper-Division Elective,,,,,,3,,,8
+37,Upper-Division Elective,,,,,,3,,,8

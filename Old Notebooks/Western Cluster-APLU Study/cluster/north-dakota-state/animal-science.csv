@@ -1,0 +1,50 @@
+Curriculum,Animal Science,,,,,,,,,
+Degree Plan,4-Year Plan,,,,,,,,,
+Institution,North Dakota State,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANSC 101,,,,,,1,,,1
+2,ANSC 114,,,,,,3,,,1
+3,ENGL 110,,,,,,4,,,1
+4,VETS 135,,,,,,3,,,1
+5,CHEM 117,,,,,,3,,,1
+6,CHEM 117L,,,,5,,1,,,1
+7,MATH 103,,,,,,3,,,1
+8,ANSC 240,,,,,,3,,,2
+9,BIOL 111,,,,,,3,,,2
+10,BIOL 111L,,,,9,,1,,,2
+11,ENGL 120,,,3,,,3,,,2
+12,COMM 110,,,,,,3,,,2
+13,Humanities & Fine Arts and Cultural Diversity Gen Ed,,,,,,3,,,2
+14,AGEC 242,,,,,,3,,,3
+15,ANSC 230,,,8,,,2,,,3
+16,ECON 201,,,,,,3,,,3
+17,ENGL 120C,,,3,,,3,,,3
+18,MICR 202,,,,,,3,,,3
+19,AGEC 244,,,,,,3,,,4
+20,BIOC 260,,,5,,,4,,,4
+21,STAT 330,,,7,,,3,,,4
+22,Ben Ed Humanities & Fine Arts,,,,,,3,,,4
+23,Gen Ed Science & Tech,,,,,,3,,,4
+24,ANSC 300,,,4;2,,,3,,,5
+25,ANSC 323,,,20,,,3,,,5
+26,ANSC 357,,,21,,,3,,,5
+27,ANSC 370,,,4,,,3,,,5
+28,ANSC 379,,,,,,2,,,5
+29,ANSC 324,,,25,,,3,,,6
+30,ANSC 340,,,,,,3,,,6
+31,ANSC 380,,,,,,2,,,6
+32,ANSC 463,,,,,,4,,,6
+33,Gen Ed Upper Division Writing,,,,,,3,,,6
+34,ANSC 488,,,32;29,,,3,,,7
+35,Gen Ed Social & Behavior Sciences,,,,,,3,,,7
+36,"Animal Prod, Mgt, Husbandry Elective",,,,,,3,,,7
+37,"Animal Prod, Mgt, Husbandry Elective",,,,,,3,,,7
+38,Gen Ed Wellness,,,,,,2,,,7
+39,ANSC 478,,,,,,3,,,8
+40,ANSC 480,,,,,,3,,,8
+41,Elective,,,,,,3,,,8
+42,Elective,,,,,,4,,,8

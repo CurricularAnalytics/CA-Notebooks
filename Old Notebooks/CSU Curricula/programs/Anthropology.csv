@@ -1,0 +1,51 @@
+Curriculum,"Anthropology",,,,,,,,,
+Degree Plan,"Anthropology",,,,,,,,,
+Institution,"",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"26.0101",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"ANTH 100","","",,,,3,"","",1
+2,"CO 150","","",,,,3,"","",1
+3,"MATH","","",,,,3,"","",1
+4,"HUMANITIES ELECTIVE","","",,,,3,"","",1
+5,"ELECTIVE 1","","",,,,3,"","",1
+6,"ANTH 120","","",,,,3,"","",2
+7,"ANTH 121","","",,"6",,1,"","",2
+8,"ANTH 140","","",,,,3,"","",2
+9,"ELECTIVE 2","","",,,,3,"","",2
+10,"ELECTIVE 3","","",,,,3,"","",2
+11,"ELECTIVE 4","","",,,,2,"","",2
+12,"GR 100","","",,,,3,"","",3
+13,"AUCC 3B","","",,,,3,"","",3
+14,"AUCC 3A","","",,,,3,"","",3
+15,"NATURAL SCIENCES ELECTIVE","","",,,,3,"","",3
+16,"NATURAL SCIENCES ELECTIVE LAB","","",,,,1,"","",3
+17,"SOCIAL SCIENCES ELECTIVE","","",,,,3,"","",3
+18,"AUCC 3B","","",,,,3,"","",4
+19,"AUCC 3E","","",,,,3,"","",4
+20,"ANTHROPOLOGY ELECTIVE","","","8",,,3,"","",4
+21,"NATURAL SCIENCES ELECTIVE 2","","",,,,3,"","",4
+22,"SOCIAL SCIENCES ELECTIVE 2","","",,,,3,"","",4
+23,"ADVANCED WRITING","","",,,,3,"","",5
+24,"ANTHROPOLOGY ELECTIVE 2","","","1",,,3,"","",5
+25,"UD ARCHAELOGY ELECTIVE","","","1",,,3,"","",5
+26,"UD ARCHAELOGY ELECTIVE 2","","","1",,,3,"","",5
+27,"ELECTIVE 5","","",,,,3,"","",5
+28,"ANTH 400","","",,,,3,"","",6
+29,"ANTHROPOLOGY ELECTIVE 3","","","1",,,3,"","",6
+30,"UD ARCHAELOGY ELECTIVE 2","","","1",,,3,"","",6
+31,"UD ARCHAELOGY ELECTIVE 2","","",,,,3,"","",6
+32,"ELECTIVE 6","","",,,,3,"","",6
+33,"ELECTIVE 7","","",,,,3,"","",6
+34,"ANTH 493","","",,,,1,"","",7
+35,"AUCC 4A","","",,,,3,"","",7
+36,"SOCIAL SCIENCES ELECTIVE 3","","",,,,3,"","",7
+37,"ELECTIVE 8","","",,,,3,"","",7
+38,"ELECTIVE 9","","",,,,3,"","",7
+39,"ELECTIVE 10","","",,,,2,"","",7
+40,"ANTHROPOLOGY ELECTIVE 4","","","1",,,3,"","",8
+41,"ETST 430","","",,,,3,"","",8
+42,"HUMANITIES ELECTIVE 2","","",,,,3,"","",8
+43,"ELECTIVE 11","","",,,,2,"","",8

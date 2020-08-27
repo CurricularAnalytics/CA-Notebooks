@@ -1,0 +1,35 @@
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,4-Year Plan,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CLS 101US,,,,,,3,,,1
+2,M 105Q,,,,,,3,,,1
+3,PSYX 100IS,,,,,,4,,,1
+4,WRIT 101W,,,,,,3,,,1
+5,CS Core,,,,,,3,,,1
+6,IN Core,,,,,,3,,,2
+7,IA Core,,,,,,3,,,2
+8,IH Core,,,,,,3,,,2
+9,PSYX Elective,,,,,,3,,,2
+10,D Core,,,,,,3,,,2
+11,PSYX Elective,,,,,,3,,,3
+12,PSYX 222,,,2;3,,,4,,,3
+13,PSYX Elective,,,,,,3,,,3
+14,Elective,,,,,,5,,,3
+15,PSYX Elective,,,,,,3,,,4
+16,PSYX 225,,,12,,,3,,,4
+17,PSYX Elective,,,,,,3,,,4
+18,Elective,,,,,,6,,,4
+19,PSYX Elective,,,,,,3,,,5
+20,Elective,,,,,,9,,,5
+21,PSYX 490R OR PSYX 495 ,,,,,,3,,,5
+22,PSYX Elective,,,,,,3,,,6
+23,Elective,,,,,,12,,,6
+24,PSYX 499R,,,,,,3,,,7
+25,Elective,,,,,,12,,,7
+26,PSYX Elective,,,,,,3,,,8
+27,Elective,,,,,,11,,,8

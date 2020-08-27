@@ -1,0 +1,43 @@
+Curriculum,Animal Science,,,,,,,,,
+Degree Plan,4-Year Plan (Livestock),,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,NRSM 101,,,,,,3,,,1
+2,NRSM 102,,,,,,1,,,1
+3,BIOB 170IN,,,,,,4,,,1
+4,CHMY 121IN,,,,,,4,,,1
+5,AGED 140US or COMX111US,,,,,,3,,,1
+6,ANSC 100,,,,,,3,,,2
+7,BIOB 160,,,4,,,4,,,2
+8,CHMY 123,,,4,,,4,,,2
+9,ECNS 101IS,,,,,,3,,,2
+10,ANSC 202,,,6,,,3,,,3
+11,NRSM 240,,,1,,,3,,,3
+12,Elective E&B,,,,,,3,,,3
+13,CORE 2.0,,,,,,3,,,3
+14,STAT 216Q,,,,,,3,,,3
+15,Elective PRAC,,,6,,,2,,,3
+16,ANSC 222,,,6,,,3,,,4
+17,ANSC 265,,,7,,,3,,,4
+18,ANSC 266,,,7,17,,1,,,4
+19,BMGT 205 or WRIT 221,,,,,,3,,,4
+20,CORE 2.0,,,,,,3,,,4
+21,BIOB 105CS,,,,,,3,,,4
+22,ANSC 320,,,17;6;18,,,3,,,5
+23,ANSC 321,,,17;6;18,,,4,,,5
+24,Elective E&B,,,,,,3,,,5
+25,CORE 2.0,,,,,,3,,,5
+26,ANSC 322,,,7;14;6,,,3,,,6
+27,ANSC 316,,,7;4;6,,,4,,,6
+28,ANSC 337,,,16;17;6;18,,,3,,,6
+29,ANSC 498,,,23;22,27;28,,3,,,6
+30,Elective E&B,,,,,,3,,,7
+31,Elective M&I,,,,,,6,,,7
+32,ELEC,,,,,,6,,,7
+33,Elective LM,,,7;23;22;6,,,6,,,8
+34,Elective M&I,,,,,,6,,,8
+35,CORE 2.0,,,,,,4,,,8
