@@ -1,0 +1,49 @@
+Curriculum,Special Education/Interventionist Specialist mild/moderate,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Institution,University of Toledo,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,16.1001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Comp 1,ENGL,1110,,,,3,,,1
+2,Comp 2,ENGL,1130,1,,,3,,,2
+3,Math for Education Majors 1,MATH,1210,,,,3,,,1
+4,Math for Education Majors 3,MATH,1220,3,,,3,,,2
+5,Humanities list,PJS,2000,,,,3,,,3
+6,Social Science list,PSC ,1200,,,,3,,,1
+7,Social Science list,SOC,1010,,,,3,,,1
+8,Natural Science Core,EEES,1130,,,,3,,,2
+9,Natural Science Core,ASTR,1010,,,,3,,,1
+10,Natural Science Lab,ASTR,2050,,,,1,,,1
+11,Non-Western Multicultural,ANTH,2100,,,,3,,,3
+12,ENGL above comp 2,ENGL,2720,1,,,3,,,3
+13,english cognate list,ENGL,2710,1,,,3,,,3
+14,english cognate list,ENGL ,2770,,,,3,,,4
+15,foreign lang,SPED,3670,,,,3,,,3
+16,foreign lang,SPED,3680,15,,,3,,,4
+17,Art Education/Special Needs,AED,4140,,,,3,,,6
+18,Foundation of Literacy,CI,3400,,,,3,,,4
+19,Ed. Psych,EDP ,3200,,,,3,,,4
+20,Intro. To Education,EDU ,1700,,,,3,,,2
+21,Tech Multi-Media for Ed. Environment,ETPT,2020,,,,3,,,2
+22,Perspectives in Spec. Ed.,SPED,2040,,,,3,,,2
+23,Linguistic Analysis,SPED ,3130,,,,3,,,3
+24,School & Democratic Society,TSOC,3000,,,,3,,,4
+25,Curriculum and Methods - Mild Needs,SPED,4370,,,27,3,,,6
+26,Life Span Development,EDP ,3290,,,,3,,,5
+27,Field Practicum,SPED ,4100,,,28,3,,,5
+28,Curr/Methods Mod,SPED,4110,,,,3,,,5
+29,Teach Phonics & Context Read,SPED ,4240,,,27,3,,,5
+30,Family & Prof Partner,SPED,4260,,,,3,,,5
+31,Lit Assess & Remediation,CI,4470,18,,,3,,,6
+32,Field Practicum,SPED,4100,,,25,3,,,6
+33,Effective Mgmt,SPED,4340,23;28;29,,27,3,,,6
+34,Classroom Assessment,RESM,4200,,,,3,,,7
+35,Field,SPED,4980,,,,1,,,7
+36,Read Middle Grades,CI,4400,,,,3,,,7
+37,Spec Interv EC,SPED,4060,,,,3,,,7
+38,Career/Voc Skills,SPED,4250,,,,3,,,7
+39,Methods/ Student ED,SPED,4450,33,,,3,,,7
+40,Student Teaching,SPED,4930,,,41,12,,,8
+41,Reflective Seminar,SPED,4600,,,,3,,,8
