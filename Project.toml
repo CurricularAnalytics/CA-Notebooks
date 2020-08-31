@@ -1,0 +1,7 @@
+[deps]
+CurricularAnalytics = "593ffa3d-269e-5d81-88bc-c3b6809c35a6"
+CurricularVisualization = "fbaee398-1ac9-4ee2-a69c-ef17203eefbf"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
+
+[compat]
+julia = "1.5.0"
