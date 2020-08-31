@@ -1,0 +1,8 @@
+#!/bin/bash
+output=build.jl
+echo "using Pkg
+Pkg.add(\"WebIO\")
+using WebIO
+WebIO.install_jupyter_nbextension()" >> $output
+julia $output
+rm $output
