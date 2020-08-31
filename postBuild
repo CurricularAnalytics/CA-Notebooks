@@ -6,4 +6,3 @@ using WebIO
 WebIO.install_jupyter_nbextension()" >> $output
 julia $output
 rm $output
-ufw allow 8156 || sudo !!
