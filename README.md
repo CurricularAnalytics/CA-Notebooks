@@ -1,8 +1,9 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CurricularAnalytics/CA-Notebooks/master)
 # CurricularAnalytics.jl Notebooks
 This repository serves as a collection of IJulia Notebooks utilizing the CurricularAnalytics.jl Toolbox.
 
-Click the NBViewer link below to preview the notebooks in your browser. Please note that you are not able to run the notebooks, but only view them, if you are using this link. 
-**[NBViewer link](http://nbviewer.ipython.org/github/CurricularAnalytics/ca-notebooks/tree/master/)**
+Click the launch Binder badge above, or the Binder link below, to run the notebooks in your browser. 
+**[Binder link](https://mybinder.org/v2/gh/CurricularAnalytics/CA-Notebooks/master)**
 
 ## Frequently Asked Questions (FAQ)
 
@@ -22,7 +23,7 @@ pkg> add CurricularAnalytics, CurricularVisualization
 ```
 This will install the toolbox, along with the other Julia packages needed to run it.
 
-### **How do I run notebooks on my machine?**
+### **How do I run notebooks locally on my machine?**
 You must first install Jupyter, which can be done by following these steps: 
 
 In the Julia terminal, enter Pkg mode by hitting `]`, and type:  
