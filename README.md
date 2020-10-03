@@ -2,8 +2,9 @@
 # CurricularAnalytics.jl Notebooks
 This repository serves as a collection of IJulia Notebooks utilizing the CurricularAnalytics.jl Toolbox.
 
-Click the launch Binder badge above, or the Binder link below, to run the notebooks in your browser. 
-**[Binder link](https://mybinder.org/v2/gh/CurricularAnalytics/CA-Notebooks/master)**
+Click the launch Binder badge above, or this **[Binder link](https://mybinder.org/v2/gh/CurricularAnalytics/CA-Notebooks/master)**, to run the notebooks in your browser. 
+
+
 
 ## Frequently Asked Questions (FAQ)
 
