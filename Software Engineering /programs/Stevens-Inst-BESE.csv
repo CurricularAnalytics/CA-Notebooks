@@ -1,0 +1,59 @@
+Curriculum,Software Engineering,,,,,,,,,
+Degree Plan,2020-21 Degree Plan,,,,,,,,,
+Institution,Stevens Institute of Technology,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0903,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,General Chemistry I ,CH,115,,,2,3,,Chemistry I,1
+2,General Chemistry Laboratory I ,CH,117,,,,1,,Chemistry I Lab,1
+3,Engineering Experience I ,E,101,,,,1,,,1
+4,Engineering Graphics ,E,120,,,,1,,,1
+5,Engineering Design I: Introduction to Systems Thinking ,E,121,,4;6,,2,,,1
+6,Introduction to Programming ,E,115,,,,2,,Programming I,1
+7,Writing And Communications Colloquium ,CAL,103,,,,3,,,1
+8,Differential Calculus; Integral Calculus ,MA ,121;122,,,,4,,,1
+9,Science Elective,,,,,,3,,,2
+10,Mechanics,PEP,111,,8,,3,,,2
+11,Engineering Design II: Field Sustainable Systems with Sensors ,E,122,5,,,2,,,2
+12,"CAL Colloquium: Knowledge, Nature, Culture",CAL,105,,,,3,,,2
+13,"Series, Vectors, Functions, and Surfaces; Calculus of Two Variables",MA ,123;124,8,,,4,,,2
+14,Introduction to Entrepreneurial Thinking ,MGT,103,,,,2,,,2
+15,Differential Equations ,MA ,221,13,,,4,,,3
+16,Electricity and Magnetism ,PEP,112,8;10,,,3,,,3
+17,Mechanics of Solids ,E,126,8;10,,,4,,,3
+18,Engineering Design III: Structural Performance and Failure ,E,231,11,17,,2,,,3
+19,Circuits and Systems ,E,245,,16;13,,3,,,3
+20,Humanities,HUM,xxx,,,,3,,,3
+21,Engineering Design IV: Systems with Analog Circuits ,E,232,18;19,,,3,,,4
+22,Thermodynamics,E,234,1;8;10,,,3,,,4
+23,Science Elective II,,,,,,3,,,4
+24,Discrete Math ,MA ,134,,,,3,,,4
+25,Individual Software Engineering,SSW,215,6,,,3,,,4
+26,Humanities,HUM,xxx,,,,3,,,4
+27,Logistics and Supply Chain Management,ISE,350,,30,,3,,,5
+28,Engineering Design V: Materials Selection and Process Optimization ,E,321,,29,,2,,,5
+29,Materials Processing,E,344,1,,,3,,,5
+30,Probability & Statistics For Engineers,E,243,13,,,3,,Probability & Statistics,5
+31,Object Based Software Development5 ,SSW,315,25,,,3,,,5
+32,Humanities,HUM,xxx,,,,3,,,5
+33,Engineering Economics,E,355,5;11;18;21,,,4,,,6
+34,Model-Based Software Engineering,SSW,345,24,,,3,,,6
+35,Software Design Evolution,SSW,322,,,,3,,,6
+36,Software Requirements Engineering,SSW,564,,,,3,,,6
+37,General Elective ,,,,,,3,,,6
+38,Domain Elective ,,,,,,3,,,6
+39,Senior Innovation I,IDE,400,14,,,1,,,6
+40,General Elective ,,,,,,3,,,7
+41,Agile Methods for Software Development,SSW,555,,,,3,,,7
+42,Software Estimation and Metrics,SSW,533,,,,3,,,7
+43,Domain Elective ,,,,,,3,,,7
+44,Engineering Design VII,SSW,423,25;31;34;35,,,3,,,7
+45,Senior Innovation II ,IDE,401,39,,,1,,,7
+46,Software Testing and Quality Assurance,SSW,567,,,,3,,,8
+47,Introduction to Systems Engineering,SYS,581,,,,3,,,8
+48,Introduction to Systems Engineering,,,,,,3,,,8
+49,Engineering Design VIII,SSW,424,25;31;34;35;44,,,3,,,8
+50,Humanities,HUM,xxx,,,,3,,,8
+51,Senior Innovation III ,IDE,402,45,,,1,,,8

@@ -1,0 +1,49 @@
+Curriculum,Software Engineering,,,,,,,,,
+Degree Plan,2020-21 Degree Plan,,,,,,,,,
+Institution,Arizona State University (Polytechnic Campus),,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0903,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Principles of Programming,CSE,110,,,,3,,Programming I,1
+2,Calculus for Engineers I,MAT,265,,,,3,,Calculus I,1
+3,The ASU Experience,ASU,101-CSE,,,,1,,,1
+4,First-year Composition,ENG,101,,,,3,,First-year Composition I,1
+5,Introduction to Engineering ,FSE,100,,,,2,,Introduction to Engineering,1
+6,Social-Behavioral Sciences,,,,,,3,,,1
+7,Object-Oriented Programming and Data Structures,CSE,205,1,,,3,,Data Structures,2
+8,Critical Inquiry in Engineering,EGR,104,,4,,3,,,2
+9,First-year Composition,ENG,102,4,,,3,,First-year Composition II,2
+10,Calculus for Engineers II,MAT,266,2,,,3,,Calculus II,2
+11,"Humanities, Arts and Design AND Cultural Diversity in the U.S.",,,,,,3,,,2
+12,Discrete Mathematical Structures,MAT,243,2,,,3,,Discrete Mathematics,3
+13,Computer System Fundamentals,SER,232,1;2,,,3,,,3
+14,Introduction to Programming Languages,CSE,240,7,,,3,,,3
+15,Calculus for Engineers III,MAT,267,10,,,3,,,3
+16,Natural Science,,,,,,4,,,3
+17,Design and Analysis of Data Structures and Algorithms,SER,222,7;12,,,3,,Algorithms,4
+18,Computer Organization and Assembly Language Programming,CSE,230,1,,,3,,Computer Organization,4
+19,Engineering Statistics,EGR,280,2,,,3,,Statistics,4
+20,University Physics I: Mechanics,PHY,121,2,10,21,3,,Physics I,4
+21,University Physics Laboratory,PHY,122,,,,1,,Physics I Lab,4
+22,Software Enterprise: Personal Process and Quality,SER,216,,17,,3,,,4
+23,Operating Systems and System Programming,SER,334,18,17,,3,,Operating Systems,5
+24,Applied Linear Algebra,MAT,343,10,,,3,,Linear Algebra,5
+25,Software Enterprise: Design and Process,SER,315,17,5;22,,3,,,5
+26,Principles of Database Management,SER,322,17,,,3,,Database Management,5
+27,Natural Science,,,16,,,4,,,5
+28,Principles of Distributed Software Systems ,SER,321,17,23,,3,,Distributed Systems ,6
+29,Software Enterprise: Construction and Transition,SER,316,17;22,,,3,,,6
+30,Engineering Secure Software Systems,SER,335,22,23;25,,3,,,6
+31,Technical Elective,,,,,,3,,,6
+32,Social-Behavioral Sciences AND Global Awareness,,,,,,3,,,6
+33,Computing Capstone Project I,SER,401,29,,,3,,Senior Design I,7
+34,Software Enterprise: Inception and Elaboration,SER,415,25,,,3,,,7
+35,Software Engineering Elective,SER,4xx,,,,3,,,7
+36,Upper Division Social-Behavioral Sciences (HIST 318 recommended),HIST,318,9,,,3,,,7
+37,"Humanities, Arts and Design AND Historical Awareness",,,,,,3,,,7
+38,Computing Capstone Project II,SER,402,33,,,3,,Senior Design II,8
+39,Software Enterprise: Project and Process Management,SER,416,29,,,3,,,8
+40,Software Engineering Elective,SER,4xx,,,,3,,,8
+41,Software Engineering Elective,SER,4xx,,,,3,,,8
