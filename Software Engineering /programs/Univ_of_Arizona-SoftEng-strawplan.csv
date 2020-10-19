@@ -1,0 +1,46 @@
+Curriculum,"Software Engineering (Strawman)",,,,,,,,,
+Degree Plan,"",,,,,,,,,
+Institution,"University of Arizona",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"14.0903",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1327466545,"Calculus I w/ Applications","MATH","122A/B",,,,5,"","",1
+361568692,"Intro to Engineering","ENGR","102",,"1327466545",,3,"","",1
+2787734204,"First-year Comp","ENGL","101",,,,3,"","",1
+2584512619,"Intro to Software Eng. (Personal Process)","SWE","101",,,,3,"","",1
+3399098424,"Tier I General Ed","","",,,,3,"","",2
+3399098424,"Tier I General Ed","","",,,,3,"","",2
+3399098424,"Tier I General Ed","","",,,,3,"","",2
+1867558745,"Calculus II","MATH","129","1327466545",,,3,"","",2
+156005046,"First-year Comp","ENGL","102","2787734204",,,3,"","",2
+1752344203,"Programming I (ECE 175, CS 110)","","",,"1327466545",,3,"","",2
+1537016551,"Engineering Ethics","ECE","311",,,,1,"","",3
+1121185235,"Intro Mechanics","PHYS","141","1327466545","1867558745",,4,"","",3
+250945193,"Discrete Math","Math","243","1752344203",,,3,"","",3
+1918473461,"Engineering Probability & Statisitics","SIE","305","1867558745",,,4,"","",3
+775911172,"Obj-oriented Modelling & Design","SIE","277","1752344203",,,3,"","",4
+3078464920,"Basic Science I w/ Lab","","",,,,4,"","",4
+201822242,"SWE Elective 1","","",,,,3,"","",4
+2638261199,"Cost Estimation ","SIE ","464","1918473461",,,3,"","",4
+1286173449,"Programming II (ECE 275, CS II)","","","1752344203",,,3,"","",4
+3823285508,"Vector Calculus","MATH","223","1867558745",,,4,"","",5
+3768937564,"Electricity & Magnetism","PHYS","241","1121185235",,,4,"","",5
+1027564834,"Basic Science II w/ Lab","","","3078464920",,,4,"","",5
+2211539860,"Software Assurance & Security","SWE","401","250945193;1286173449",,,3,"","",5
+1366190267,"Fundamentals of Computer Organization","ECE","369","1752344203;3768937564",,,3,"","",6
+3135130908,"Tier II General Ed 1","","",,,,3,"","",6
+1699730960,"Tier I General Ed.","","",,,,3,"","",6
+2512907384,"Software Dev Opps","SWE","402","1286173449;775911172",,,3,"","",6
+2697879342,"SWE Elective 2","","",,,,3,"","",6
+1031461307,"Software Pojrect and Process Management","SWE","403","2512907384",,,3,"","",7
+2457106066,"Algorithms","SWE","303","250945193",,,3,"","",7
+2500190206,"SWE Elective 3","","",,,,3,"","",7
+2547480060,"Software Design Process","SWE","301","1286173449;775911172",,,3,"","",7
+2140354918,"Cross-disciplinary Design","ENGR","498A",,,,3,"","",7
+3150929618,"Software Engineering Concepts","ECE","473","1286173449;775911172",,,3,"","",8
+2067869212,"Digital Logic","ECE","274A","1752344203",,,3,"","",8
+4281634259,"Cross-disciplinary Design","ENGR","498B","2697879342",,,3,"","",8
+129091319,"Software Requirements & Verification","SWE","302",,"1867558745",,3,"","",8
+2245461318,"Tier II General Ed 2","","",,,,3,"","",8
