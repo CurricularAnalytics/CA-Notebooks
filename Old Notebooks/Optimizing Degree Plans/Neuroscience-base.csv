@@ -1,0 +1,49 @@
+Curriculum,Neuroscience,,,,,,,,,
+Degree Plan,Cell and Molecular Neuroscience Concentration,,,,,,,,,
+Institution,Colorado State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Attributes of Living Systems,LIFE,102,,,,4,,,1
+2,Chemistry I,CHEM,111,,,,4,,,1
+3,Chemistry Lab I,CHEM,112,,2,,1,,,1
+4,College Composition,CO,150,,,,3,,,1
+5,Neuroscience Seminar,NB,192,,,,1,,,1
+7,Chemistry II,CHEM,113,2,,,3,,,2
+8,Chemistry Lab II ,CHEM,114,3,7,,1,,,2
+9,Calculus I ,MATH,155,,,,4,,,2
+10,General Psychology,PSY,100,,,,3,,,2
+11,Intro Genetics,LIFE,201B,1,,,3,,,2
+13,Organic Chemistry I,CHEM,341,7,,,3,,,3
+14,Intro Cell Biology,LIFE,210,2;3;1,,,3,,,3
+15,Intro Cell Biology Lab,LIFE,212,3,14,,2,,,3
+37,Elective 1,,,,,,3,,,3
+17,Writing Arguments,CO,300,4,,,3,,,3
+18,Organic Chemistry II,CHEM,343,13,,,3,,,4
+31,Core: Diversity and Global Awareness,AUCC,3E,,,,3,,,4
+20,Physics I,PH,121,9,,,5,,,4
+41,Elective 2,,,,,,3,,,4
+22,Core: Arts & Humanities,AUCC,3B,,,,3,,,4
+6,Core: Arts & Humanities,AUCC,3B,,,,3,,,4
+23,Biochemistry I ,BC,401,9;18,,,3,,,5
+24,Human Physiology,BMS,300,2;1,,,4,,,5
+21,Mind Brain and Behavior,PSY,252,10,,,3,,,5
+36,Elective 3,,,,,,3,,,5
+12,Intro Genetics Lab,LIFE,203,,11,,2,,,5
+27,Biochemistry II,BC,403,13,,,3,,,6
+29,Neuroanatomy ,BMS,345,24,,,4,,,6
+30,Thesis Preparation,NB,399,17;24,,,1,,,6
+19,Organic Chemistry Lab,CHEM,344,8,18,,2,,,6
+35,Senior Seminar,NB,493,,,,1,,,6
+33,Cellular Neurobiology,BMS,325,24,,,3,,,7
+34,General Microbiology,MIP,300,13;1,,,3,,,7
+32,Core: Diversity and Global Awareness,AUCC,3E,,,,3,,,7
+26,Statistical Methods,STAT,301,9,,,3,,,7
+16,Calculus II,MATH,255,9,,,4,,,7
+38,Molecular Regulation of Cell Function,BC,465,14;27,,,3,,,8
+28,Biochemistry Lab,BC,404,23;19;12,,,2,,,8
+39,Immunology,MIP,342,13;14,,,4,,,8
+40,Senior Thesis,NB,499,35;30,,,3,,,8
+25,Physics II,PH,122,20,,,5,,,8
