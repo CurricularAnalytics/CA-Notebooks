@@ -1,7 +1,9 @@
 [deps]
 CurricularAnalytics = "593ffa3d-269e-5d81-88bc-c3b6809c35a6"
+CurricularOptimization = "bde85ad8-79e0-47b7-9105-b902e916a6bc"
 CurricularVisualization = "fbaee398-1ac9-4ee2-a69c-ef17203eefbf"
 Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
 WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
 
