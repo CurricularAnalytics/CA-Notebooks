@@ -1,9 +1,10 @@
+using JuMP
+
 # Basket Weaving RequirementSatisfaction Example
 college = "Tri-County Community College"
 univ = "Big State U"
 tri_county_catalog = CourseCatalog("2019-20 Academic Year", college)
 big_state_catalog = CourseCatalog("2019-20 Academic Year", univ)
-
 tri_county_courses = Array{Course,1}()
 big_state_courses = Array{Course,1}()
 
@@ -23,6 +24,7 @@ add_course!(tri_county_catalog, tri_county_courses)
 #               pre)
 
 # Create the big state Courses
+push!(big_state_courses, Course("College Algebra", 3, prefix="MATH", num="110", institution=univ))
 push!(big_state_courses, Course("Statistics", 3, prefix="MATH", num="120", institution=univ))
 push!(big_state_courses, Course("Calculus I", 3, prefix="MATH", num="180", institution=univ)) 
 push!(big_state_courses, Course("College Trigonometry", 3, prefix="MATH", num="140", institution=univ)) 
@@ -107,7 +109,7 @@ tri_county_transcript = Array{CourseRecord,1}()
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "MA", "107", "Probability & Statistics"), grade("A")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "EXE", "105", "Aerobics"), grade("B")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "BW", "101", "Baskets 101"), grade("A")))
-push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ENG", "110", "World Literature"), grade("D")))
+# push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ENG", "110", "World Literature"), grade("D")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ART", "100", "Art History"), grade("B")))
 
 # Map KCTCS courses and grades to NKU courses and grades through transfer equivalences
@@ -121,20 +123,7 @@ for cr in tri_county_transcript
 end
 
 # Determine the requirements satisfied at BSU by the articulated courses
-model = assign_courses(BSU_equiv_transcript, bw_dr, [applied_credits, requirement_level])
-x = model.obj_dict[:x]
-is_satisfied = satisfied(BSU_equiv_transcript, bw_dr, JuMP.value.(x))
+model = assign_courses(BSU_equiv_transcript, bw_dr, [applied_credits, requirement_level]);
+x = model.obj_dict[:x];
+is_satisfied = satisfied(BSU_equiv_transcript, bw_dr, JuMP.value.(x));
 show_requirements(bw_dr, satisfied=is_satisfied)
-
-# BSU transcript
-big_state_transcript = Array{CourseRecord,1}()
-push!(big_state_transcript, CourseRecord(course(big_state_catalog, "MATH", "110", "College Algebra"), grade("A")))
-push!(big_state_transcript, CourseRecord(course(big_state_catalog, "PHS", "110", "Swimming"), grade("B")))
-push!(big_state_transcript, CourseRecord(course(big_state_catalog, "BW", "101", "Basic Basket Forms"), grade("A")))
-push!(big_state_transcript, CourseRecord(course(big_state_catalog, "PHIL", "100", "Intro. Philosophy"), grade("D")))
-push!(big_state_transcript, CourseRecord(course(big_state_catalog, "MATH", "140", "College Trigonometry"), grade("B")))
-
-bsu_model = assign_courses(big_state_transcript, bw_dr, [applied_credits, requirement_level])
-x = model.obj_dict[:x]
-bsu_satisfied = satisfied(BSU_equiv_transcript, bw_dr, JuMP.value.(x))
-show_requirements(bw_dr, satisfied=bsu_satisfied)
