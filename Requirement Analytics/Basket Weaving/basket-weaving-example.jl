@@ -109,7 +109,7 @@ tri_county_transcript = Array{CourseRecord,1}()
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "MA", "107", "Probability & Statistics"), grade("A")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "EXE", "105", "Aerobics"), grade("B")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "BW", "101", "Baskets 101"), grade("A")))
-# push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ENG", "110", "World Literature"), grade("D")))
+push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ENG", "110", "World Literature"), grade("D")))
 push!(tri_county_transcript, CourseRecord(course(tri_county_catalog, "ART", "100", "Art History"), grade("B")))
 
 # Map KCTCS courses and grades to NKU courses and grades through transfer equivalences
