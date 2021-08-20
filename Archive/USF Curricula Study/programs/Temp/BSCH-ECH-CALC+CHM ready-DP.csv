@@ -1,5 +1,5 @@
 Curriculum,BSCH-Chemical Engineering,,,,,,,,,
-Degree Plan,ECH-CALC+CHM ready-updated,,,,,,,,,
+Degree Plan,ECH-CALC+CHM ready,,,,,,,,,
 Institution,USF,,,,,,,,,
 Degree Type,BS,,,,,,,,,
 System Type,semester,,,,,,,,,
@@ -9,48 +9,49 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24950,Engineering Calculus I,MAC,2281,,,,4,,,1
 23525,Composition I,ENC,1101,,,,3,,,1
 25478,General Chemistry I ,CHM,2045,,,,3,,,1
-25479,General Chemistry I Laboratory,CHM,2045L,,,25478,1,,,1
+25479,General Chemistry I Laboratory,CHM,2045L,,25478,,1,,,1
 28172,Foundations of Engineering,EGN,3000,,,,0,,,1
 23287,Foundations of Engineering Lab,EGN,3000L,,,,3,,,1
 29189,Introduction to Chemical and Biomolecular Engineering,ECH,3002,,,,2,,,1
 24951,Engineering Calculus II,MAC,2282,24950,,,4,,,2
 25480,General Chemistry II,CHM,2046,25478,,,3,,,2
 26014,General Physics I - Calculus Based,PHY,2048,24950,,,3,,,2
-24442,General Chemistry II Laboratory,CHM,2046L,25479,,25480,1,,,2
-26015,General Physics I Laboratory,PHY,2048L,24950,,26014,1,,,2
+24442,General Chemistry II Laboratory,CHM,2046L,25479,25480,,1,,,2
+26015,General Physics I Laboratory,PHY,2048L,24950,26014,,1,,,2
 29191,Engineering Computations,ECH,3854,,24951,,3,,,2
 6,Upper-Level Department Elective,,,,,,3,,,3
 24952,Engineering Calculus III,MAC,2283,24951,,,4,,,4
 24545,Cellular Processes,BSC,2010,,,,3,,,4
 26016,General Physics II - Calculus Based,PHY,2049,24951;26014;26015,,,3,,,4
-26017,General Physics II Laboratory,PHY,2049L,24951;26014;26015,,26016,1,,,4
+26017,General Physics II Laboratory,PHY,2049L,24951;26014;26015,26016,,1,,,4
 23526,Composition II,ENC,1102,23525,,,3,,,4
-26654,Material and Energy Balances,ECH,3023,26014;25480,,,3,,,4
-25929,Modeling and Analysis of Engineering Systems OR Diff EQ,EGN or MAP,3443 or 2302,24951;26014,,,3,,,5
+26654,Material and Energy Balances,ECH,3023,26014;29191,,,3,,,4
+25929,Modeling and Analysis of Engineering Systems OR Diff EQ,EGN or MAP,3433 or 2302,24952;26016,,,3,,,5
 17,Chemical Engineering Thermodynamics I,ECH,3101,26654,25929,,3,,,5
-27897,Numerical Methods in Chemical Engineering,ECH,4846,26654;29191,,,3,,,5
+27897,Numerical Methods in Chemical Engineering,ECH,4846,26654,,,3,,,5
 7,EGE Human & Cultural Diversity,TGED,,,,,3,,,5
 24444,Organic Chemistry I,CHM,2210,25480;24442,,,3,,,5
-24445,Organic Chemistry Laboratory I,CHM,2210L,,,24444,2,,,5
+24445,Organic Chemistry Laboratory I,CHM,2210L,,24444,,2,,,5
 8,Upper-Level Department Elective,,,,,,3,,,6
-26658,Chemical Engineering Thermodynamics II,ECH,4123,17,,,3,,,7
+26658,Chemical Engineering Thermodynamics II,ECH,4123,26654;17;25929,,,3,,,7
 9,Upper-level Department Elective,,,,,,3,,,7
-29190,Transport Phenomena I,ECH,3266,26654;25929,,,3,,,7
-28870,General Biochemistry/Oranic Chemistry II,BCH/CHM,3053/2211,24444;24545,,,3,,,7
+29190,Transport Phenomena I,ECH,3266,17;26654;25929,,,3,,,7
+28870,General Biochemistry,BCH,3053,24444;24545,,,3,,,7
+24446,Organic Chemistry II,CHM,2211,24444,,,3,,,7
 10,EGE Info & Data Lit,TGEI,,,,,3,,,7
-29192,Kinetics and Reaction Engineering,ECH,4504,27897;26658;29190,,,3,,,8
-29237,Transport Phenomena II,ECH,4267,29190;17,,,3,,,8
-29229,Separation Processes,ECH,4418,26658;27897,29237,,3,,,8
+29192,Kinetics and Reaction Engineering,ECH,4504,25480;27897;26658;29190,,,3,,,8
+29237,Transport Phenomena II,ECH,4267,29190;26658;27897,,,3,,,8
+29229,Separation Processes,ECH,4418,29190;26658;27897,,,3,,,8
 11,Upper-level Department Elective,,,,,,3,,,8
 25910,Introduction to Materials Science,EMA,4003,25480,,,3,,,8
 12,Upper-Level Department Elective,,,,,,3,,,9
-24977,Chemical Engineering Laboratory I,ECH,3240L,,29237,,2,,,10
+24977,Chemical Engineering Laboratory I,ECH,3240L,,,,2,,,10
 23423,Product and Process Systems Engineering,ECH,4605,29237;29229,,,3,,,10
 30186,Product Design and Manufacturing,ECH,4680,29237;29229,,,3,,,10
-26660,Process Dynamics and Control,ECH,4323,17;27897,,,3,,,10
-30198,Chemical Process Safety and Ethics,ECH,4715,29237,,,2,,,10
+26660,Process Dynamics and Control,ECH,4323,29229,,,3,,,10
+30198,Chemical Process Safety and Ethics,ECH,4715,,,,2,,,10
 24108,Chemical Engineering Laboratory II,ECH,4241L,24977;29192;29229,,,2,,,11
 13,State Humanities Gen Ed,SGEH,,,,,3,,,11
-26661,Product and Process Design,ECH,4615,23423;29192,26660,,3,,,11
+26661,Product and Process Design,ECH,4615,23423;29192;29229,,,3,,,11
 15,State Social Science Gen Ed,SGES,,,,,3,,,11
 16,EGE Ethical Reasoning & Civic Engagement,TGEE,,,,,3,,,11

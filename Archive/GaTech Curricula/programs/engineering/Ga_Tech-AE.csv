@@ -1,0 +1,56 @@
+Curriculum,Aerospace Engineering,,,,,,,,,
+Degree Plan,2021-22 Plan,,,,,,,,,
+Institution,Georgia Institute of Technology,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,MATH,1501,,,,4,,,1
+2,Integral Calculus,MATH,1552,1,,,4,,,2
+3,General Chemistry,CHEM,1310,,,,4,,,2
+4,Computing for Engineers,CS,1371,,,,3,,,2
+5,English Composition I,ENGL,1101,,,,3,,,2
+6,Applied Pysiology,APPH,1040,,,,2,,,2
+7,Intro to Linear Algebra,MATH,1553,1,,,2,,,3
+8,Intro Physics 1,PHYS ,2211,2,,,4,,,3
+9,Intro To Aerosapce Eng.,AE,1601,1,,,1,,,3
+10,English Composition II,ENGL,1102,5,,,3,,,3
+11,Intro. To Eng. Graphics,ME,1670,,,,3,,,3
+12,Social Science Elective,,,,,,3,,,3
+13,Multivariable Calculus,MATH,2551,2;7,,,4,,,4
+14,Intro. Physics 2,PHYS ,2212,8,,,4,,,4
+15,Statics,COE,2001,2;8,,,2,,,4
+16,Eng Materials,MSE,2001,3,,,3,,,4
+17,Economics Elective,,,,,,3,,,4
+18,Differential Equations,MATH,2552,2;7,,,4,,,5
+19,Termo and Fluid Fund.,AE,2010,13;8;3,,,4,,,5
+20,Dynamics,AE,2220,16,18,,3,,,5
+21,Intro Exp Methods Lab,AE,2610,9,13;14;15,22,1,,,5
+22,Technical Comm for AE,AE,2611,,,,1,,,5
+23,Circuits & Electronics,ECE,3710,14,,,2,,,5
+24,Math Option,,,13,,,3,,,6
+25,Deformable Bodies,COE,3001,15,18,,3,,,6
+26,Aerodynamics,AE,3030,19,,,4,,,6
+27,AE Vehicle Performance,AE,3330,18,26,,3,,,6
+28,Sys Dynamics & Vib,AE,3530,20;18,,,3,,,6
+29,Circuits /Electronics Lab,ECE,3741,23,,,1,,,6
+30,Design Methods,AE,3340,9;4;13,,,2,,,7
+31,Structural Analysis,AE,3140,25,,,3,,,7
+32,Jet & Rocket Propulsion,AE,4451,19,,,3,,,7
+33,Exp Fluids/Solids Lab,AE,3610,21;19;25,,,2,,,7
+34,Control Sys Analysis/Design,AE,3531,28,,,3,,,7
+35,Free Elective,,,,,,3,,,7
+36,Air/Space/Rotor Design,AE ,4341/2/3,27;30,,,3,,,8
+37,AE Option,,,26,,,3,,,8
+38,Aircraft Flt Dynamics,AE,4531,27,34,,3,,,8
+39,Spacecraft Flt Dynamics,AE,4532,27;28,,,3,,,8
+40,Humanities Elective,,,,,,3,,,8
+41,Free Elective,,,,,,3,,,8
+42,Social Science Elective,,,,,,3,,,8
+43,Dynamics & Controls Lab,AE,4610,34;21;19,,,2,,,9
+44,AE Option ,,,26;28,,,3,,,9
+45,AE Option,,,26,,,2,,,9
+46,Humanities Elective,,,,,,3,,,9
+47,Free Elective,,,,,,3,,,9
+48,Social Science Elective,,,,,,3,,,9

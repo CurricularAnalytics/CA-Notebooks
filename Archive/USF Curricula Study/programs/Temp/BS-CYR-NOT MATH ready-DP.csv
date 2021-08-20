@@ -1,0 +1,52 @@
+Curriculum,BS-CYR-Cyber Security,,,,,,,,,
+Degree Plan,CYR-NOT MATH ready,,,,,,,,,
+Institution,USF,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0103,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+42,Information Systems in Organizations,ISM,3011,43,,,3,,,1
+43,Computers in Business,CGS,2100,,,,3,,,1
+41,College Algebra,MAC,1105,,,,3,,,1
+1,Introduction to Databases for Information Technology,CGS,1540,,,,3,,,2
+2,Precalculus Algebra and Trigonometry,MAC,1147,41,,,4,,,2
+3,Foundations of Engineering,EGN,3000,,,,0,,,2
+4,Composition I,ENC,1101,,,,3,,,2
+5,Foundations of Engineering Lab,EGN,3000L,,,,3,,,2
+6,Programming Fundamentals for Information Technology,COP,2512,,,,3,,,3
+7,Discrete Mathematics,MAD,2104,,,,3,,,3
+8,Composition II,ENC,1102,11,,,3,,,3
+9,Conceptual Physics,PHY,2020,,,,3,,,3
+10,State Gen Ed  Humanities,SGEH,,,,,3,,,3
+11,Object Oriented Programming for Information Technology,COP,2513,6,,,3,,,4
+12,IT Concepts,CGS,3303,1,,,3,,,4
+13,Macroeconomics,ECO,2013,,,,3,,,4
+14,Introductory Statistics I,STA,2023,,,,3,,,4
+15,Foundations of Cybersecurity,CIS,3213,6,,,3,,,5
+16,Introduction to Psychology,PSY,2012,,,,3,,,5
+17,EGE  Human & Cultural Diversity,TGED,,,,,3,,,5
+44,State Gen Ed Natural Science,SGEN,,,,,3,,,5
+18,Advanced Program Design for Information Technology,COP,3515,7,,,3,,,6
+19,EGE Information & Data Literacy,TGEI,,,,,3,,,6
+20,Communication for Engineers,ENC,3246,,,,3,,,6
+21,Data Structures and Algorithms for Information Technology,COP,4538,18,,,3,,,7
+22,Human Computer Interfaces for Information Technology,CEN,3722,18,,,3,,,7
+23,Information Technology Systems Security,CIS,3363,15;11;7,,,3,,,7
+24,Hands-On Cybersecurity,CIS,4622,11,,,3,,,7
+25,Information Security and IT Risk Management,ISM,4323,42,,,3,,,7
+26,Web Systems for IT,CGS,3853,22,,,3,,,8
+27,Secure Software Development,CIS,3615,18,,,3,,,8
+28,Computer Information Networks for Information Technology,CNT,4104,18,29,,3,,,8
+29,Computer Information Networks Lab for Information Technology,CNT,4104L,18,,,1,,,8
+30,Approved Cybersecurity Elective,,,,,,3,,,8
+31,Human Aspects of Cybersecurity,CIS,4219,23,,,3,,,8
+32,Information Policy and Ethics,LIS,4414,,,,3,,,9
+33,Approved Cybersecurity Elective,,,,,,3,,,9
+34,Approved Cybersecurity Elective,,,,,,3,,,9
+35,Network Security and Firewalls,CNT,4403,28,,,3,,,9
+36,Database Systems for Information Technology,COP,4703,21,,,3,,,9
+37,Senior Project in Information Technology,CIS,4935,,,,4,,,10
+38,Approved Cybersecurity Elective,,,,,,3,,,10
+39,Approved Cybersecurity Elective,,,,,,3,,,10
+40,Penetration Testing for IT,CIS,4200,18,,,3,,,10

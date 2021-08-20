@@ -1,0 +1,308 @@
+﻿program_code,program_name,sub-plan_code,sub-plan_name,complexity_score,total_degrees_awarded,less_than_4,four,four_and_a_half,five,five_and_a_half,six,greater_than_6
+BNADBSBA,Business Administration,-,Not Available,69,76,7,37,47,58,62,68,8
+BIOINBS,Bioinformatics,CSCI,Computer Science,147,2,0,1,1,1,1,1,1
+LAWBA,Law,-,Not Available,42,189,46,152,168,180,183,184,5
+SYEBSSYE,Systems Engineering,-,Not Available,181,108,3,51,59,78,85,95,13
+GNSBGS,General Studies,AMENT,"Arts, Media and Entertainment",44,67,6,40,49,53,53,56,11
+ECEBSECE,Electrical & Computer Engineer,-,Not Available,250,307,12,197,228,267,278,282,25
+ENGLBA,English,-,Not Available,82,92,24,70,76,81,84,86,6
+GEOSBS,Geosciences,GEO,Geology,134,74,6,53,61,64,69,69,5
+PHILBA,Philosophy,ETHICS,Ethics,43,26,6,10,12,14,16,18,8
+RCSCBS,Retailing & Consumer Science,-,Not Available,92,345,29,234,291,327,333,337,8
+PHLBS,Public Health,ENVOCCHLT,Environ and Occupation Health,76,44,7,31,38,41,41,42,2
+DFSTBSED,Deaf Studies,GNR,General,40,2,0,1,1,1,1,1,1
+LLLBS,Literacy Learning & Leadership,LEAS,Lead for Equity Acc & Success,43,32,9,25,25,25,25,25,7
+MATHBS,Mathematics,COMPSCI,Computer Science,72,15,1,8,9,10,11,11,4
+NTRSBS,Natural Resources,WLC,Wildlife Conserv and Mgmt,53,45,1,30,35,38,39,39,6
+NURSBSN,Nursing,-,Not Available,60,237,14,132,210,219,233,234,3
+BIOINBS,Bioinformatics,EEBIO,Ecology & Evolutionary Biology,147,1,0,1,1,1,1,1,0
+VSCBS,Veterinary Science,-,Not Available,76,190,35,152,163,175,180,186,4
+MSEBSMSE,Materials Science & Engr,-,Not Available,124,38,1,22,26,33,34,37,1
+GEOGBS,Geography,WES,"Water, Environment and Society",43,7,1,4,4,5,5,5,2
+STDOBFA,Studio Art,3DXM,3D and Extended Media,54,3,0,2,2,2,2,2,1
+GISTBS,Geographic Info Sys Tech,-,Not Available,45,4,0,0,0,0,1,3,1
+EASBA,East Asian Studies,JCLI,Japanese Culture,41,19,3,11,13,15,16,18,1
+PHILBA,Philosophy,PHILGEN,General,42,22,3,15,17,18,18,20,2
+COSCBA,Computer Science,-,Not Available,97,36,3,23,28,34,34,35,1
+NTRSBS,Natural Resources,ECOLMRR,"Ecol, Mgt & Rstr of Rnglnds",93,7,1,5,6,6,6,6,1
+MATHBS,Mathematics,APPL,Applied,89,27,6,15,18,25,25,25,2
+MATHBA,Mathematics,GEN,General,140,4,1,3,3,3,4,4,0
+MATHBA,Mathematics,MATHTEACH,Education,179,5,0,3,4,5,5,5,0
+PERFBMUS,Performance,GUITAR,Guitar,160,4,0,3,3,3,4,4,0
+POLBA,Political Science,FORAF,Foreign Affairs,42,23,0,18,21,21,21,21,2
+PERFBMUS,Performance,CLARINET,Clarinet,178,3,0,1,2,3,3,3,0
+CHEMBA,Chemistry,-,Not Available,175,5,2,3,4,4,4,5,0
+OPERBSBA,Operations Management,-,Not Available,67,11,2,8,10,10,11,11,0
+AREDBFA,Art Education,CMU,Community Museums,59,2,0,1,1,1,2,2,0
+MATHBA,Mathematics,ECBUS,Economics and Business,153,7,0,2,5,7,7,7,0
+EASBA,East Asian Studies,CLGI,Chinese Language,41,3,0,2,2,3,3,3,0
+ITALBA,Italian,ITALST,Italian Studies,60,4,0,2,3,4,4,4,0
+ANTHBS,Anthropology,HBI,Human Biology,43,16,2,12,15,15,16,16,0
+MATHBA,Mathematics,COMPREH,Comprehensive,143,3,1,3,3,3,3,3,0
+MATHBS,Mathematics,ECONBUS,Economics and Business,100,4,1,4,4,4,4,4,0
+SBEBSSBE,Sustainable Built Environments,HCON,Heritage Conservation,64,3,0,2,2,3,3,3,0
+MASBA,Mexican American Studies,-,Not Available,42,3,0,1,1,3,3,3,0
+GEOGBA,Geography,-,Not Available,42,6,1,5,6,6,6,6,0
+GEOGBS,Geography,GIS,Geographic Info Science,42,4,1,2,3,3,3,4,0
+PSIOMBSHS,Physiology & Medical Sciences,-,Not Available,60,27,0,25,26,27,27,27,0
+PHLBS,Public Health,QNTMPH,Quantitative Methods in PH,76,10,0,10,10,10,10,10,0
+STATDSBA,Statistics and Data Science,-,Not Available,160,2,0,2,2,2,2,2,0
+GNSBGS,General Studies,STHS,"Sci, Tech, Health & Society",44,75,6,23,29,38,51,58,17
+CRTVBA,Creative Writing,-,Not Available,58,61,9,33,39,46,48,49,12
+ELEMBAED,Elementary Education,ESLE,English as a Second Language,60,86,1,69,74,80,80,82,4
+GLSBA,Global Studies,GCLAF,"Gbl Cultures - Lit, Art,& Film",44,2,0,1,1,1,1,1,1
+EHYBS,Environ Hydrology & Water Res,-,Not Available,112,8,0,4,5,7,7,7,1
+ANTHBA,Anthropology,-,Not Available,43,59,12,38,45,53,54,54,5
+CVEBSCVE,Civil Engineering,-,Not Available,314,89,0,45,61,77,79,82,7
+STDOBA,Studio Art,-,Not Available,43,33,2,18,23,26,28,30,3
+COMMBA,Communication,-,Not Available,45,580,76,474,518,551,556,559,21
+AGTEBS,Agricultural Tech Mgmt & Educ,AGT,Agricultural Technology Mgmt,87,23,2,10,15,18,20,20,3
+AEEBSAEE,Aerospace Engineering,-,Not Available,474,88,0,65,69,82,82,86,2
+MATHBS,Mathematics,COMP,Comprehensive,91,12,4,9,9,10,10,10,2
+ECONBA,Economics,-,Not Available,88,527,175,426,475,506,509,520,7
+NTRSBS,Natural Resources,CBI,Conservation Biology,65,29,2,19,22,26,27,28,1
+SPANBA,Spanish,TRINT,Translation and Interpretation,97,30,2,19,22,26,28,28,2
+GNSTBGS,General Studies,ARMDET,"Arts, Media and Entertainment",44,31,2,17,19,23,23,27,4
+GEOGBS,Geography,PHG,Physical Geography,47,7,0,3,4,6,7,7,0
+ASTRBS,Astronomy,-,Not Available,305,19,0,12,12,15,15,19,0
+PERFBMUS,Performance,PIANO,Piano,158,7,0,5,5,6,7,7,0
+ENVSBSES,Environmental Science,POSC,Pollution Science,78,1,0,0,0,1,1,1,0
+APHMBA,Applied Humanities,SODT,Spatial Org & Design Thinking,42,2,0,1,1,1,1,1,1
+ENVSBSES,Environmental Science,SCPO,Science and Policy,78,1,0,0,0,1,1,1,0
+BIOCBA,Biochemistry,-,Not Available,207,20,3,12,12,15,16,19,1
+STDOBFA,Studio Art,PHO,Photography,43,26,3,19,22,25,26,26,0
+PPELBA,"Philosophy,Politics,Econ & Law",-,Not Available,63,52,3,47,49,51,51,52,0
+SPSBS,Sustainable Plant Systems,ENVRNH,Environmental Horticulture,82,3,0,2,2,3,3,3,0
+ARBBA,Arabic,-,Not Available,39,2,0,1,2,2,2,2,0
+PLSCBS,Plant Sciences,-,Not Available,77,11,2,8,8,11,11,11,0
+PFFPBS,Personal & Family Fin Planning,-,Not Available,53,9,0,4,6,9,9,9,0
+OSCMBSBA,Operations & Supply Chain Mgmt,-,Not Available,67,9,0,6,6,9,9,9,0
+RHSSBSED,Rehabilitation Studies Service,-,Not Available,43,5,3,4,5,5,5,5,0
+BATBS,Biosystems Analytics & Tech,-,Not Available,68,1,0,0,0,1,1,1,0
+IISBAPS,Intelligence & Info Ops,LEI,Law Enforcement Intelligence,43,1,0,1,1,1,1,1,0
+MCBBS,Molecular & Cellular Biology,SDB,Systems and Big Data Biology,148,1,0,1,1,1,1,1,0
+MUSBA,Music,MSET,"Musicology, Ethnomus & Theory",131,1,0,1,1,1,1,1,0
+OLRCBAPS,Org Leadership & Reg Commerce,OL,Organizational Leadership,57,1,0,0,0,0,0,0,1
+UREGBS,Urban and Regional Development,-,Not Available,40,206,10,157,177,197,200,201,5
+JOURBA,Journalism,-,Not Available,76,88,14,68,77,79,80,82,6
+BMGTBSBA,Business Management,-,Not Available,73,434,36,374,410,419,422,424,10
+APSBAPS,Applied Science,INFOR,Informatics,53,3,0,0,0,0,1,1,2
+ELEMBAED,Elementary Education,GENELEM,General,60,104,5,67,86,93,97,98,6
+FINBSBA,Finance,-,Not Available,126,484,40,430,461,473,476,478,6
+ECEDBAED,Early Childhood Education,-,Not Available,49,44,1,37,38,41,42,43,1
+ISTBS,Information Science & Tech,-,Not Available,68,157,10,86,110,132,136,145,12
+POLBA,Political Science,-,Not Available,42,9,0,0,0,0,0,0,9
+MICRBS,Microbiology,-,Not Available,82,109,8,72,82,96,96,98,11
+THPRBFA,Theatre Production,DST,Design Technical Production,52,33,3,21,28,30,31,31,2
+STDOBFA,Studio Art,VIC,Visual Communication,43,40,4,21,23,31,33,35,5
+MTHRBFA,Musical Theatre,-,Not Available,64,24,4,21,21,21,21,22,2
+MATHBS,Mathematics,PROSTAT,Probability and Statistics,102,25,8,21,23,24,24,24,1
+ISECBA,Information Science & eSociety,-,Not Available,42,138,21,104,116,121,127,132,6
+FTVBA,Film and Television,-,Not Available,43,100,6,79,86,93,93,95,5
+ARVCBFA,Art and Visual Culture Educ,TEACHNG,Teaching,61,2,0,1,1,1,1,1,1
+ARHBA,Art History,-,Not Available,43,17,4,14,14,17,17,17,0
+SPSBS,Sustainable Plant Systems,CEAG,Controlled Environment Ag,82,10,1,7,8,9,9,9,1
+GPSBA,Government and Public Service,-,Not Available,47,2,0,0,0,1,1,1,1
+GWSBA,Gender & Women's Studies,GENGWS,General,43,9,0,6,7,7,8,8,1
+MATHBS,Mathematics,LIFESCI,Life Sciences,107,2,1,1,2,2,2,2,0
+PERFBMUS,Performance,JAZZST,Jazz Studies,220,6,0,3,3,3,6,6,0
+PERFBMUS,Performance,PERCUSS,Percussion,178,4,0,2,3,4,4,4,0
+GLSBA,Global Studies,GSHRMS,Global Societies - Hum Right,44,6,1,4,6,6,6,6,0
+JOURBA,Journalism,BRDCST,Broadcast Journalism,76,52,4,49,50,50,51,52,0
+EASBA,East Asian Studies,JLGI,Japanese Language,41,12,3,7,9,10,11,12,0
+EENBSEEN,Environmental Engineering,-,Not Available,278,11,0,9,9,11,11,11,0
+GLSBA,Global Studies,HRJSM,"Human Rights, Jus, & Soc Move",44,4,1,4,4,4,4,4,0
+GLSBA,Global Studies,GLH,Global Health,44,4,1,3,4,4,4,4,0
+ESOCBA,eSociety,-,Not Available,42,1,0,1,1,1,1,1,0
+PERFBMUS,Performance,CELLO,Cello,177,3,0,3,3,3,3,3,0
+MMDIBSED,Mild Moderate Disabilities,-,Not Available,44,16,1,12,12,16,16,16,0
+SBEBSSBE,Sustainable Built Environments,SRED,Sust Real Estate Development,53,3,0,1,3,3,3,3,0
+APHYSBS,Applied Physics,-,Not Available,263,3,0,1,1,2,3,3,0
+GLSTBA,Global Studies,GLHRMS,Global Societies - Hum Right,44,6,1,6,6,6,6,6,0
+FOODBA,Food Studies,-,Not Available,48,2,0,2,2,2,2,2,0
+LINGBA,Linguistics,LILA,Linguistics and Languages,42,7,3,5,7,7,7,7,0
+GNSTBGS,General Studies,GLIC,Glbl & Intrcultral Understand,48,10,0,3,4,4,4,4,6
+APSBAPS,Applied Science,CYBR,Cyber Operations,68,7,0,1,2,2,3,3,4
+NCSBS,Neuroscience & Cognitive Sci,NBI,Neurobiology,94,86,4,74,79,83,85,85,1
+MKTGBSBA,Marketing,-,Not Available,70,527,36,474,510,519,523,524,3
+STDOBFA,Studio Art,ID,Illustration and Design,44,39,2,20,29,34,36,36,3
+PSYCBS,Psychology,-,Not Available,88,177,22,134,150,167,167,168,9
+CYBRBAPS,Cyber Operations,DEF,Defense and Forensics,68,5,1,2,2,3,3,3,2
+FRENBA,French,LANGLITC,"Language, Literature & Culture",116,11,2,6,6,8,8,9,2
+AFSBA,Africana Studies,-,Not Available,42,11,0,3,4,7,7,7,4
+GEOSBS,Geosciences,EOC,"Earth, Ocean, and Climate",103,8,0,6,7,7,7,7,1
+ELEMBAED,Elementary Education,BIL,Bilingual,67,29,0,18,20,22,23,26,3
+BIOCBS,Biochemistry,-,Not Available,161,76,3,61,65,69,69,72,4
+POLBA,Political Science,INTREL,International Relations,42,100,17,68,77,88,92,94,6
+APSBAPS,Applied Science,ECH,Early Childhood Education,44,1,0,0,0,0,0,0,1
+MATHBS,Mathematics,MTEACH,Education,113,10,0,7,8,10,10,10,0
+EASBA,East Asian Studies,CCLI,Chinese Culture,41,5,2,4,4,4,4,4,1
+GEOSBS,Geosciences,GEOPHYS,Geophysics,143,30,5,26,26,28,28,29,1
+APSBAPS,Applied Science,ORGL,Organizational Leadership,57,3,0,0,0,1,1,1,2
+NUSCBS,Nutritional Sciences,DIET,Dietetics,372,134,1,86,94,123,127,130,4
+MCBBS,Molecular & Cellular Biology,-,Not Available,143,178,17,136,149,163,168,173,5
+INEBSINE,Industrial Engineering,-,Not Available,192,87,1,32,46,76,83,87,0
+GERSBA,German Studies,-,Not Available,41,6,0,1,1,3,3,6,0
+STATDSBS,Statistics and Data Science,-,Not Available,133,13,2,9,9,11,11,12,1
+AGTEBS,Agricultural Tech Mgmt & Educ,ATMED,Teaching,66,14,2,11,11,13,13,14,0
+JUSBA,Judaic Studies,-,Not Available,45,5,1,3,3,4,4,4,1
+ASCBS,Animal Sciences,SPP,Science and Pre-Professional,105,10,1,8,8,9,9,10,0
+BIOINBS,Bioinformatics,MCBIO,Molecular and Cellular Biology,147,2,0,2,2,2,2,2,0
+PERFBMUS,Performance,TROMBONE,Trombone,178,6,0,6,6,6,6,6,0
+APHMBA,Applied Humanities,BA,Business Administration,45,11,3,9,10,10,10,11,0
+SPSBS,Sustainable Plant Systems,AGRON,Agronomy,94,4,1,4,4,4,4,4,0
+APHMBA,Applied Humanities,PH,Public Health,42,1,0,1,1,1,1,1,0
+REGBS,Regional Development,-,Not Available,40,10,0,0,0,1,2,3,7
+HISTBA,History,-,Not Available,45,66,8,43,47,48,52,54,12
+MATHBS,Mathematics,GENERAL,General,89,23,1,11,16,20,20,20,3
+JOURBA,Journalism,GNRAL,General Journalism,77,42,7,38,39,40,40,41,1
+BIOLBS,Biology,BS,Biomedical Sciences,132,187,11,127,150,165,166,169,18
+EVSBA,Environmental Studies,-,Not Available,42,38,4,29,31,33,34,36,2
+ECOLBS,Ecology & Evolutionary Biology,-,Not Available,90,43,4,29,34,37,37,39,4
+ASCBS,Animal Sciences,EQU,Equine,74,21,2,13,14,17,17,19,2
+GNSTBGS,General Studies,STHSO,"Sci, Tech, Health & Society",48,37,1,10,12,20,21,27,10
+ENVSBSES,Environmental Science,LAIRW,"Land, Air, and Water",78,31,2,17,21,27,28,28,3
+SERBSED,Special Educ & Rehabilitation,DS,Deaf Studies,40,18,5,13,13,16,16,17,1
+FTVBFA,Film and Television,-,Not Available,52,45,1,37,37,45,45,45,0
+SPANBA,Spanish,HISLIT,Hispanic Literature,111,20,2,13,13,15,16,17,3
+PHLBS,Public Health,GLHLT,Global Health,76,73,10,57,63,69,70,72,1
+NURSBSN,Nursing,IH,Integrative Health,60,27,10,19,24,25,25,25,2
+POLBA,Political Science,LPP,Law and Public Policy,47,73,19,56,63,67,69,72,1
+ENVSBSES,Environmental Science,SOCENV,Society and Environment,78,10,0,6,7,7,7,9,1
+SERBSED,Special Educ & Rehabilitation,MMDI,Mild-Moderate Disabilities,44,17,1,16,16,17,17,17,0
+SBEBSSBE,Sustainable Built Environments,GENRL,General,53,2,0,1,1,1,1,2,0
+ENVSBSES,Environmental Science,LSC,"Leader, Sustainability, & Comm",78,10,2,8,10,10,10,10,0
+RUSSBA,Russian,CULTINT,Culture Focused,42,1,0,0,0,1,1,1,0
+PERFBMUS,Performance,FRENCHORN,French Horn,178,2,0,2,2,2,2,2,0
+GLSTBA,Global Studies,GLPEI,Global Political Economy & Ins,44,1,0,0,0,1,1,1,0
+ECOLBA,Ecology & Evolutionary Biology,-,Not Available,94,2,0,1,1,2,2,2,0
+PHYSBA,Physics,-,Not Available,380,1,1,1,1,1,1,1,0
+EMSBS,Emergency Medical Services,-,Not Available,48,1,0,0,0,1,1,1,0
+FRENBA,French,FRANC,French and Francophone,72,3,1,1,2,2,3,3,0
+ENTRBSBA,Entrepreneurship,-,Not Available,121,1,0,1,1,1,1,1,0
+HASBS,Hydrology and Atmospheric Sci,EHY,Environ Hydrology & Water Res,112,1,0,1,1,1,1,1,0
+PERFBMUS,Performance,FLUTE,Flute,178,1,0,1,1,1,1,1,0
+MCBBS,Molecular & Cellular Biology,GHH,Genetics and Human Health,162,2,2,2,2,2,2,2,0
+GNSBGS,General Studies,SBHU,Soc Beh & Human Understanding,44,68,9,27,33,37,40,45,23
+CHEBSCHE,Chemical Engineering,-,Not Available,614,216,4,143,150,196,196,202,14
+NURSBSN,Nursing,CONV,Conventional,165,83,10,45,70,75,78,80,3
+CLASBA,Classics,CCV,Classical Civilization,42,12,0,5,8,9,9,9,3
+MEEBSMEE,Mechanical Engineering,-,Not Available,315,335,5,199,243,300,311,319,16
+GWSBA,Gender & Women's Studies,-,Not Available,42,1,0,0,0,0,0,0,1
+GNSTBGS,General Studies,SBHHU,Soc Beh & Human Understanding,48,38,2,12,19,24,26,29,9
+PHYSBS,Physics,-,Not Available,380,24,2,14,18,20,20,20,4
+PHLBS,Public Health,HLPROMO,Health Promotion,76,75,2,53,63,72,73,74,1
+SLHSBS,"Speech, Language & Hearing Sci",-,Not Available,67,133,11,114,117,127,127,128,5
+BEBSBE,Biosystems Engineering,-,Not Available,150,49,1,20,32,44,44,46,3
+ABEMBS,Agribusiness Economics & Mgmt,ABEMMAN,Agricultural Management,84,26,2,12,18,22,22,23,3
+LASBA,Latin American Studies,-,Not Available,43,7,3,6,6,6,6,6,1
+ISABA,Information Science & Arts,-,Not Available,46,48,4,29,35,42,44,45,3
+POLBA,Political Science,GNRL,General,42,35,5,23,24,27,27,28,7
+ELEMBS,Elementary Education,-,Not Available,60,2,0,0,0,1,1,1,1
+PHLBS,Public Health,HSTP,Health Sys Theory & Practice,76,131,16,116,120,126,126,128,3
+JOURBA,Journalism,GLBL,Global Journalism,77,15,3,14,14,14,14,14,1
+PMPCBS,Public Management & Policy,-,Not Available,52,71,16,56,62,68,68,68,3
+RUSSBA,Russian,LANGINT,Language Focused,43,7,1,3,4,5,6,6,1
+PERFBMUS,Performance,VIOLIN,Violin,178,6,0,5,5,5,6,6,0
+NTRSBS,Natural Resources,FIC,Fisheries Conserv and Mgmt,59,6,0,1,1,4,4,5,1
+NTRSBS,Natural Resources,RLE,Rangland Ecol and Management,93,1,0,0,0,0,0,1,0
+BNECBSBA,Business Economics,-,Not Available,102,138,20,122,134,137,137,138,0
+STDOBFA,Studio Art,3D,Three Dimensional,54,2,0,0,1,2,2,2,0
+THARBA,Theatre Arts,-,Not Available,43,38,6,34,35,37,37,38,0
+GEOSBS,Geosciences,ESS,Earth Systems Science,103,5,1,4,4,5,5,5,0
+THPRBFA,Theatre Production,PAT,Pro Actor Traing Pgm,55,21,2,19,19,20,20,21,0
+ENVSBSES,Environmental Science,PHYSCHEM,Physics and Chemistry,78,3,0,2,2,2,3,3,0
+GLSBA,Global Studies,GLHD,Global Health Development,44,5,0,4,4,5,5,5,0
+PHLBS,Public Health,PHLPR,Public Health Practice,76,4,0,1,2,2,3,4,0
+MCBBS,Molecular & Cellular Biology,MCBIOL,Molecular and Cellular Biology,152,2,1,1,1,1,1,1,1
+MATHBA,Mathematics,APPD,Applied,140,4,0,2,3,4,4,4,0
+PERFBMUS,Performance,SAXOPHONE,Saxophone,178,2,0,1,1,1,2,2,0
+ENVSBSES,Environmental Science,BIOS,The Biosphere,90,6,1,4,4,6,6,6,0
+MATHBA,Mathematics,COMSCI,Computer Science,111,1,0,0,1,1,1,1,0
+LINGBA,Linguistics,GELE,General Linguistics,42,3,1,3,3,3,3,3,0
+APHMBA,Applied Humanities,FST,Fashion Studies,47,1,0,0,1,1,1,1,0
+GNSBGS,General Studies,ECI,Economy and Industry,44,127,12,56,73,94,101,111,16
+PSIOBSHS,Physiology,-,Not Available,60,796,92,660,713,761,769,781,15
+CHSBS,"Care, Health and Society",-,Not Available,52,276,37,184,208,236,248,260,16
+LLLBS,Literacy Learning & Leadership,COMMEDUC,Community Education,43,131,22,93,107,120,121,123,8
+ABEMBS,Agribusiness Economics & Mgmt,AGRBMAN,Agribusiness Management,84,20,5,13,16,17,17,18,2
+COSCBS,Computer Science,-,Not Available,194,391,57,254,296,331,338,347,44
+LINGBA,Linguistics,-,Not Available,42,17,0,10,13,13,14,16,1
+OSEBSOSE,Optical Sciences & Engineering,-,Not Available,351,91,0,74,76,89,89,89,2
+ACCTBSBA,Accounting,-,Not Available,70,371,46,308,341,355,357,363,8
+PERFBMUS,Performance,VOICE,Voice,178,15,0,10,12,13,13,13,2
+DNCBFA,Dance,-,Not Available,56,87,30,82,83,83,83,83,4
+ARCHBARCH,Architecture,-,Not Available,77,117,0,0,1,71,80,103,14
+GNSTBGS,General Studies,ECONIND,Economy and Industry,44,54,5,21,28,38,41,44,10
+CHEMBS,Chemistry,-,Not Available,320,83,2,38,53,70,74,77,6
+PHLBS,Public Health,-,Not Available,76,293,24,206,243,272,284,286,7
+APSBAPS,Applied Science,HSV,Human Services,54,3,0,2,2,2,2,2,1
+GLSBA,Global Studies,CLFA,"Cultures, Lit, Film & Arts",44,5,1,3,3,3,3,3,2
+NCSBS,Neuroscience & Cognitive Sci,DEVAG,Development and Aging,96,32,2,30,32,32,32,32,0
+BMEBSBME,Biomedical Engineering,-,Not Available,170,146,2,127,135,145,145,146,0
+POLBA,Political Science,AMPOL,American Politics,47,54,12,39,44,51,52,52,2
+GNSBGS,General Studies,GIU,Glbl & Intrcultral Understand,44,18,6,10,12,13,14,15,3
+STDOBFA,Studio Art,2D,Two Dimensional,43,9,3,6,6,8,8,8,1
+MUEDBMUS,Music Education,-,Not Available,117,32,1,21,28,30,32,32,0
+GWSBA,Gender & Women's Studies,QTSS,"Queer, Trans&Sexuality Studies",42,2,0,1,1,1,1,1,1
+MUSBA,Music,-,Not Available,102,22,1,14,16,20,20,22,0
+ENVSBSES,Environmental Science,SAW,"Soil, Air, and Water",126,11,1,6,8,10,10,10,1
+MATHBA,Mathematics,PROBSTAT,Probability and Statistics,156,5,2,3,3,4,4,5,0
+PERFBMUS,Performance,TRUMPET,Trumpet,178,4,0,1,2,3,3,3,1
+PERFBMUS,Performance,STRBASS,String Bass,178,2,0,1,1,2,2,2,0
+SBEBSSBE,Sustainable Built Environments,SECO,Sustainable Landscapes,53,9,3,7,9,9,9,9,0
+ASCBS,Animal Sciences,RTI,Race Track Industry,82,5,0,2,5,5,5,5,0
+ENVSBSES,Environmental Science,BIOL,Biology,78,11,3,8,11,11,11,11,0
+GNSTBGS,General Studies,SPSO,Sports and Society,48,26,1,15,18,21,23,25,1
+EWREBS,Environ & Water Resource Econ,-,Not Available,83,15,1,11,13,14,14,15,0
+SBEBSSBE,Sustainable Built Environments,SCH,Sustainable Communities,53,13,3,12,12,13,13,13,0
+VSCBS,Veterinary Science,AAB,Applied Animal Behavior,56,5,1,4,4,4,4,4,1
+POLBA,Political Science,COMPOL,Comparative Politics,39,9,3,9,9,9,9,9,0
+PHSCBS,Pharmaceutical Sciences,-,Not Available,116,40,1,34,34,38,38,40,0
+AREBSARE,Architectural Engineering,-,Not Available,136,11,0,7,10,11,11,11,0
+ITALBA,Italian,ITALLAL,Language & Literature,116,3,0,2,2,3,3,3,0
+NCSBS,Neuroscience & Cognitive Sci,CPT,Computation,93,3,0,3,3,3,3,3,0
+NFSBS,Nutrition and Food Systems,-,Not Available,56,4,1,2,4,4,4,4,0
+STDOBFA,Studio Art,PVI,"Photography, Video and Imaging",44,1,0,1,1,1,1,1,0
+PSYCBA,Psychology,-,Not Available,88,586,124,428,469,505,517,531,55
+SBEBSSBE,Sustainable Built Environments,DPOSR,Sustainable Buildings,52,25,2,8,11,15,16,19,6
+PSYSBS,Psychological Science,-,Not Available,79,142,30,118,122,130,131,135,7
+FSHDBS,Family Studies & Human Dev,-,Not Available,48,196,27,150,160,173,183,185,11
+SPANBA,Spanish,SPANPORT,Spanish and Portuguese,107,4,1,3,3,3,3,3,1
+NUSCBS,Nutritional Sciences,NUTR,Nutrition,203,242,18,158,178,212,217,232,10
+BIOLBS,Biology,OB,Organismal Biology,132,41,3,28,34,38,39,39,2
+PMPCBS,Public Management & Policy,CJA,Criminal Justice Admin,52,4,0,0,0,0,0,0,4
+ASCBS,Animal Sciences,ANIIND,Animal Industry,88,30,1,13,18,21,22,23,7
+ARCHBAR,Architecture,-,Not Available,77,9,0,0,0,0,0,1,8
+GNSBGS,General Studies,SPS,Sports and Society,44,50,5,31,38,42,45,46,4
+POLBA,Political Science,IDMET,Ideas and Methods,45,8,0,5,6,6,6,7,1
+CJSBS,Criminal Justice Studies,-,Not Available,45,245,42,194,210,224,229,234,11
+ABEMBS,Agribusiness Economics & Mgmt,ABEMECON,Agricultural Economics,84,30,2,12,19,23,23,26,4
+PERFBMUS,Performance,COMPOS,Composition,235,5,0,4,4,4,4,4,1
+APSBAPS,Applied Science,ADJS,Administration of Justice,42,1,0,0,0,0,0,0,1
+EMGBSEMG,Engineering Management,-,Not Available,202,56,2,25,34,50,54,56,0
+RELIBA,Religious Studies,-,Not Available,42,8,0,3,3,6,7,8,0
+NCSBS,Neuroscience & Cognitive Sci,LCS,Language & Comm Science,94,11,0,7,8,9,9,10,1
+NCSBS,Neuroscience & Cognitive Sci,COGN,Cognition,103,98,10,78,85,92,95,96,2
+SPANBA,Spanish,HISLIN,Hispanic Linguistics,151,9,1,6,7,7,7,7,2
+MISBSBA,Management Information Systems,-,Not Available,121,309,44,268,287,296,298,302,7
+AGTEBS,Agricultural Tech Mgmt & Educ,ASM,Agricultural Systems Mgmt,87,4,0,1,2,3,3,3,1
+SERBSED,Special Educ & Rehabilitation,RHB,Rehabilitation,43,43,7,41,42,42,42,42,1
+NTRSBS,Natural Resources,WATHDM,Watershed Hydrology and Mgmt,62,3,0,0,0,2,2,2,1
+ANTHBS,Anthropology,ARS,Archaeological Sciences,48,7,0,3,5,6,6,6,1
+NCSBS,Neuroscience & Cognitive Sci,PHILMIND,Philosophy of Mind,94,9,0,6,6,8,9,9,0
+GWSBA,Gender & Women's Studies,SQS,Sexualities & Queer Studies,42,1,0,0,0,1,1,1,0
+GLSBA,Global Studies,GPEI,Global Political Economy & Ins,44,9,1,7,8,9,9,9,0
+PERFBMUS,Performance,EUPHONIUM,Euphonium,178,1,0,1,1,1,1,1,0
+MENASBA,Middle East & N African St,-,Not Available,44,4,1,3,3,4,4,4,0
+DFSTBSED,Deaf Studies,EI,Educational Interpreting,41,9,1,9,9,9,9,9,0
+AGTEBS,Agricultural Tech Mgmt & Educ,LCE,Leadership & Comm Emphasis,74,10,2,7,7,9,9,10,0
+NCSBS,Neuroscience & Cognitive Sci,THM,Thematic,94,4,0,4,4,4,4,4,0
+GLSTBA,Global Studies,GLCLAF,"Gbl Cultures - Lit, Art,& Film",44,1,0,1,1,1,1,1,0
+PERFBMUS,Performance,TUBA,Tuba,178,2,0,2,2,2,2,2,0
+NTRSBS,Natural Resources,GCEM,Global Change Ecol & Mgmt,80,2,0,2,2,2,2,2,0
+EASBA,East Asian Studies,EACS,East Asian Cultural Studies,41,3,0,2,2,3,3,3,0
+AISBA,American Indian Studies,-,Not Available,42,1,1,1,1,1,1,1,0
+GLSTBA,Global Studies,GHLTHD,Global Health Development,44,3,0,3,3,3,3,3,0
+APSBAPS,Applied Science,REGCM,Regional Commerce,51,1,0,0,0,1,1,1,0
+JOURBA,Journalism,DIGITAL,Digital Journalism,80,3,0,3,3,3,3,3,0

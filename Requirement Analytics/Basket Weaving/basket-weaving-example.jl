@@ -52,7 +52,7 @@ push!(big_state_courses, Course("Functional Basketry", 3, prefix="BW", num="340"
 # Add big state courses to catalog
 add_course!(big_state_catalog, big_state_courses)
 
-# Bit State U General Education Requirement
+# Big State U General Education Requirement
 # Math Requirement
 math = CourseSet("Math Requirement", 3, [course(big_state_catalog, "MATH", "120", "Statistics") => grade("D"),
                                         course(big_state_catalog, "MATH", "180", "Calculus I") => grade("D"),
