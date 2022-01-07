@@ -1,0 +1,64 @@
+Curriculum,Chemical Engineering,,,,,,,,,
+Degree Plan,Chemical Engineering BS,,,,,,,,,
+Institution,Drexel University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,quarter,,,,,,,,,
+CIP,14.07,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,MATH,121,,,,4,,,1
+2,Chemistry I,CHEM,101,,,,3.5,,,1
+3,Intro Design,ENGR,111,,,,3,,,1
+4,Expository,ENGL,101,,,,3,,,1
+5,Drexel Experience,UNIV,101,,,,1,,,1
+6,Calculus II,MATH,122,1,,,4,,,2
+7,Physics I,PHYS,101,1,,,4,,,2
+8,Chemistry II,CHEM,102,2,,,4.5,,,2
+9,Intro Programming,ENGR,131/132,,,,3,,,2
+10,Drexel Experience,CIVC,101,,,,1,,,2
+11,Co-op Tools,CO-OP,101,,,,1,,,2
+12,Multivar Calc,MATH,200,6,,,4,,,3
+13,Physics II,PHYS,102,7,,,4,,,3
+14,Gen Elec,___,XXX,,,,3,,,3
+15,FirstYr Engr Des,ENGR,113,3,,,3,,,3
+16,Persuasive,ENGL,102,4,,,3,,,3
+17,Linear Algebra,MATH,201,1,,,4,,,4
+18,Org Chem I,CHEM,241,8,,,4,,,4
+19,CHE Comp Meth I,CHE,220,3,,20,3,,,4
+20,Mass/En Bal I,CHE,211,6;8,,,4,,,4
+21,DiffEq's,MATH,210,17,,,4,,,5
+22,Org Chem II,CHEM,242,18,,,4,,,5
+23,Thermo I,CHE,230,20;12;19,,,4,,,5
+24,MassEn Bal II,CHE,212,20,,,4,,,5
+25,Materials,ENGR,220,8;6;7,,,4,,,6
+26,Thermo II,CHE,330,23,,,4,,,6
+27,StatDesExp,CHE,350,21,,,3,,,6
+28,FluidMech,CHE,341,24;23;21,,,4,,,6
+29,Heat Transfer,CHE,342,28,,,4,,,7
+30,CHE Comp Meth II,CHE ,320,19;21,,,3,,,7
+31,Mass Transfer,CHE,343,28,,,4,,,7
+32,CHE Lab I,CHE,351,28;26,,,2.5,,,7
+33,Analytical,ENGL,103,16,,,3,,,7
+34,Kinetics/Reactor Des,CHE,362,26;29;31,,35,4,,,8
+35,Separations,CHE,331,26;28,,,3,,,8
+36,P-Chem,CHEC,353,13;23,,,4,,,8
+37,P-Chem Lab,CHEC,356,8,,36,2,,,8
+38,Bio Elective,BIO,XXX,,,,3,,,8
+39,Eng Econ Ethics,CHE,371,20;19,,,3,,,9
+40,Intg Case Studies,CHE,372,29;31,,,3,,,9
+41,CHE Lab II,CHE,352,35;31,,,2.5,,,9
+42,Tech Elec,___,XXX,,,,3,,,9
+43,Gen Elec,___,XXX,,,,3,,,9
+44,Proc Des I,CHE,471,35;34;39;40,,,4,,,10
+45,Controls,CHE,464,24;21,,,3,,,10
+46,CHE Lab III,CHE,453,34,34;45,,2.5,,,10
+47,Tech Elec,___,3XX,,,,3,,,10
+48,Gen Elec,___,XXX,,,,3,,,10
+49,Proc Des II,CHE,472,44,,,3,,,11
+50,Tech Elec,___,XXX,,,,3,,,11
+51,Gen Elec,___,XXX,,,,3,,,11
+52,Gen Elec,___,XXX,,,,3,,,11
+53,Proc Des III,CHE ,473,49,,,3,,,12
+54,Chem Proc Safety,CHE,466,49,,,3,,,12
+55,Tech Elec,___,3XX,,,,3,,,12
+56,Gen Elec,___,XXX,,,,3,,,12

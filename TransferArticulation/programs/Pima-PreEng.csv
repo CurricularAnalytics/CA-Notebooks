@@ -1,0 +1,35 @@
+Curriculum,Pre-Engineering (Chemical Eng. Concentration),,,,,,,,,
+Degree Plan,2019-20 Pima Pre-Engineering,,,,,,,,,
+Institution,Pima Community College,,,,,,,,,
+Degree Type,AS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,MAT,220,,,,5,Pima CC,Calculus I,1
+2,Gen Chemistry I,CHM,151IN,,,3,4,Pima CC,General Chemsitry I,1
+3,Gen Chemistry I Recitation,CHM,151RC,,,,1,Pima CC,,1
+4,English Composition I,WRT,101,,,,3,Pima CC,English Composition I,1
+5,Problem-Solving and Engineering Design,ENG,102IN,,1,,3,Pima CC,Intro to Engineering,1
+6,AGEC-S Course,,,,,,3,Pima CC,,1
+7,Calculus II,MAT,231,1,,,4,Pima CC,Calculus II,2
+8,Gen Chemistry II,CHM,152IN,2,,9,4,Pima CC,General Chemsitry II,2
+9,Gen Chemistry II Recitation,CHM,152RC,,,,1,Pima CC,,2
+10,Intro Mechanics,PHY,210IN,1,,11,4,Pima CC,,2
+11,Intro Mechanics Recitation,PHY,210RC,,,,1,Pima CC,,2
+12, English Composition II,WRT,102,4,,,3,Pima CC, English Composition,2
+13,Intro to MATLAB I,ENG,105IN,,1,,1,Pima CC,,2
+14,AGEC-S Course,,,,,,3,Pima CC,,3
+15,AGEC-S Course,,,,,,3,Pima CC,,3
+16,Calculus III,MAT,241,7,,,4,Pima CC,Calculus III,3
+17,General Organic Chemistry I,,235IN,8,,18,4,Pima CC,Organic Chemistry I,3
+18,General Organic Chemistry I Recitation,CHM ,235RC,,,,1,Pima CC,,3
+19,AGEC-S Course,,,,,,3,Pima CC,,3
+20,AGEC-S Course,,,,,,3,Pima CC,,4
+21,AGEC-S Course,,,,,,3,Pima CC,,4
+22,Differential Equations,MAT,262,7,,,3,Pima CC,Differential Equations,4
+23,Intro Electricity & Magnetism,PHY,216IN,7;10,,24,4,Pima CC,,4
+24,Intro Electricity & Magnetism,PHY,216RC,,,,1,Pima CC,,4
+25,General Organic Chemistry II,CHM,236IN,17,,26,4,Pima CC,Organic Chemistry II,4
+26,General Organic Chemistry II Recitation,CHM ,236RC,,,,1,Pima CC,,4
+27,Intro to MATLAB II,ENG,205IN,13,,,1,Pima CC,,4

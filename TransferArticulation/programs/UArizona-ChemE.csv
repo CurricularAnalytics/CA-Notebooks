@@ -1,0 +1,54 @@
+Curriculum,Chemical Engineering,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Institution,University of Arizona,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I w/ Applications,MATH,125,,,,3,,,1
+2,Gen Chemistry I,CHEM,151,,,,4,,,1
+3,First-year Comp,ENGL,101,,,,3,,,1
+4,Intro to Engineering,ENGR,102,,1,,3,,,1
+5,Tier I General Ed,,,,,,3,,,1
+6,Calculus II,MATH,129,1,,,3,,,2
+7,Gen Chemistry II,CHEM,152,2,,,4,,,2
+8,Intro Mechanics,PHYS,141,1,,,4,,,2
+9,First-year Comp.,ENGL,102,3,,,3,,,2
+10,Intro to MATLAB I,AME,105,,1,,1,,,2
+11,Elements of Chem and Envirn Eng I,CHEE,201,1;4;7;10,47,,3,,,3
+12,Elements of Chem and Envirn Eng I Lab,CHEE,201L,1,10,,1,,,3
+13,Vector Calculus,MATH ,223,6,,,4,,,3
+14,Lectures in Org Chem,CHEM ,241A,7,,,3,,,3
+15,Org Chem Lab,CHEM ,243A,,14,,1,,,3
+16,Tier I General Ed,,,,,,3,,,3
+47,Intro to MATLAB II,AME,205,10,,,1,,,3
+17,Elements of Chem Eng II,CHEE,202,11;12,19,,4,,,4
+18,Chem Eng Heat Xfer & Fluid Flow,CHEE,203,11;8,,,3,,,4
+19,Intro to ODEs,MATH,254,6,,,3,,,4
+20,Electricity & Magnetism,PHYS,241,6;8,,,4,,,4
+21,Lectures in Org Chem,CHEM,241B,14,,,3,,,4
+22,Chem Eng Mass Xfer,CHEE,303,18,,,3,,,5
+23,Chem Eng Modeling,CHEE,402,19;17,,22,3,,,5
+24,Chem Eng Lab I,CHEE,301A,19;17;18,,22;23,1,,,5
+25,Trends in Nanomedicine Eng,CHEE,489,,,,3,,,5
+26,Physical Chem,CHEM,480A,6;2,20,,3,,,5
+27,Tier I General Ed,,,,,,3,,,5
+28,Chem Eng Transport Phenom,CHEE,305,22;23,,,3,,,6
+29,Chem & Phys Equilibrium,CHEE,326,26;11,,,3,,,6
+31,Chem Eng Lab II,CHEE,301B,22;24,,28;29,1,,,6
+32,Engineering Elective,,,,,,3,,,6
+33,Technical Elective,,,,,,3,,,6
+34,Tier I General Ed,,,,,,3,,,6
+35,Chem Reaction Eng,CHEE,420,29,,,3,,,7
+36,Chem Eng Design Principles,CHEE,442,22;29,,35,3,,,7
+37,Chem and Enviorn Eng Lab I,CHEE,401A,31,35,,1,,,7
+38,Engineering Elective,,,,,,3,,,7
+39,Physical Chem,CHEM,480B,26,,,3,,,7
+40,Tier II General Ed,,,,,,3,,,7
+41,Process Control and Simulation,CHEE,413,23,,,3,,,8
+42,Process Dynamics and Control Lab,CHEE,401B,37;24,41,,1,,,8
+43,Chem Eng Plant Design,CHEE,443,36,,,3,,,8
+44,Engineering Elective,,,,,,3,,,8
+45,Technical Elective,,,,,,3,,,8
+46,Tier II General Ed,,,,,,3,,,8
