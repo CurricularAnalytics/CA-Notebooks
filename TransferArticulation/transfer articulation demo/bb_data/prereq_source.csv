@@ -1,0 +1,11 @@
+CourseCode,CourseTitle,RequisiteCourse1CourseCode,RequisiteCourse1CourseTitle,RequisiteCourse2CourseCode,RequisiteCourse2CourseTitle,RequisiteCourse3CourseCode,RequisiteCourse3CourseTitle,RequisiteCourse4CourseCode,RequisiteCourse4CourseTitle,RequisiteCourse5CourseCode,RequisiteCourse5CourseTitle
+HIS 142,,HIS 141,,,,,,,,,
+MAT 231,,MAT 220,,,,,,,,,
+MAT 252,,MAT 231,,,,,,,,,
+MAT 262,,MAT 231,,,,,,,,,
+ARB 102,,ARB 101,,,,,,,,,
+SPA 102,,SPA 101,,,,,,,,,
+GER 102,,GER 101,,,,,,,,,
+CHI 102,,CHI 101,,,,,,,,,
+JPN 102,,JPN 101,,,,,,,,,
+CHM 152IN,,CHM 151IN,,,,,,,,,

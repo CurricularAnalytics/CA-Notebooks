@@ -1,0 +1,1766 @@
+[
+    {
+        "id": "875acc64-c740-49f3-9a25-539ee67e1687",
+        "name": "1B Written Communication",
+        "parent_id": null,
+        "type": "CoreRequirement",
+        "core": {
+            "id": "b349bd15-8c3d-49be-96fb-a61d0bb9ddfb",
+            "name": "1B Written Communication",
+            "parent_id": null,
+            "type": "DegreeRequirement",
+            "advanced": false,
+            "required": 1,
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "subrequirements": [
+                {
+                    "id": "e0c9334e-fe2e-4cc7-84a0-1fed91d18a69",
+                    "name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                    "parent_id": "b349bd15-8c3d-49be-96fb-a61d0bb9ddfb",
+                    "type": "CourseRequirement",
+                    "credits": 4.0,
+                    "advanced": false,
+                    "attempts": 1,
+                    "minimum_grade": "C",
+                    "course": {
+                        "id": 2095769,
+                        "code": "ENG 102R",
+                        "full_number": "ENG 102R",
+                        "name": "Research, Writing, \u0026 Rhetoric",
+                        "full_name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                        "minimum_credits": 4.0,
+                        "maximum_credits": 4.0,
+                        "description": "(4) I, II. Prerequisite: ENG 101R (C). A writing course refining components of ENG 101R studying information sources and research methods; accessing, critically reading, evaluating, integrating, and documenting primary and secondary sources; utilizing information technology for inquiry, analysis, and argumentation. Students are required to meet 1 hour per week outside of class time with a Course Embedded Consultant. Students who fail the class will retake ENG 102R. Credit will not be awarded to students who have credit for ENG 102. Gen. Ed. E-1B [WG].",
+                        "created_at": "2022-12-16T20:43:37.747Z",
+                        "updated_at": "2022-12-16T20:43:37.747Z",
+                        "academic_period": {
+                            "id": 100,
+                            "term": "Fall",
+                            "year": 2019,
+                            "code": "2019.75",
+                            "name": "Fall 2019",
+                            "academic_year": "2019-2020"
+                        },
+                        "prereq": {
+                            "type": "course",
+                            "minimum_course_grade": "C",
+                            "concurrency_ind": false,
+                            "course": {
+                                "id": 2095712,
+                                "code": "ENG 101R",
+                                "full_number": "ENG 101R",
+                                "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                                "name": "Rding Wrting \u0026 Rhtrc Support",
+                                "minimum_credits": 4.0,
+                                "maximum_credits": 4.0
+                            }
+                        },
+                        "coreq": null
+                    }
+                },
+                {
+                    "id": "b62830ce-894d-4f80-b63d-52920068e6ee",
+                    "name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                    "parent_id": "b349bd15-8c3d-49be-96fb-a61d0bb9ddfb",
+                    "type": "CourseRequirement",
+                    "credits": 3.0,
+                    "advanced": false,
+                    "attempts": 1,
+                    "minimum_grade": "C",
+                    "course": {
+                        "id": 2095770,
+                        "code": "ENG 102",
+                        "full_number": "ENG 102",
+                        "name": "Research, Writing, \u0026 Rhetoric",
+                        "full_name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                        "minimum_credits": 3.0,
+                        "maximum_credits": 3.0,
+                        "description": "(3) I, II. Prerequisite: ENG 101 (C) or ENG 101R (A). A writing course refining component of ENG 101/101R studying information sources and research methods; accessing, critically reading, evaluating, integrating, and documenting primary and secondary sources; utilizing information technology for inquiry, analysis, and argumentation. Credit will not be awarded for both ENG 102 and ENG 102R. Gen. Ed. E-1B [WC].",
+                        "created_at": "2022-12-16T20:43:37.748Z",
+                        "updated_at": "2022-12-16T20:43:37.748Z",
+                        "academic_period": {
+                            "id": 100,
+                            "term": "Fall",
+                            "year": 2019,
+                            "code": "2019.75",
+                            "name": "Fall 2019",
+                            "academic_year": "2019-2020"
+                        },
+                        "prereq": {
+                            "type": "or",
+                            "operands": [
+                                {
+                                    "type": "course",
+                                    "minimum_course_grade": "C",
+                                    "concurrency_ind": false,
+                                    "course": {
+                                        "id": 2095771,
+                                        "code": "ENG 101",
+                                        "full_number": "ENG 101",
+                                        "full_name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                                        "name": "Reading, Writing, \u0026 Rhetoric",
+                                        "minimum_credits": 3.0,
+                                        "maximum_credits": 3.0
+                                    }
+                                },
+                                {
+                                    "type": "course",
+                                    "minimum_course_grade": "A",
+                                    "concurrency_ind": false,
+                                    "course": {
+                                        "id": 2095712,
+                                        "code": "ENG 101R",
+                                        "full_number": "ENG 101R",
+                                        "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                                        "name": "Rding Wrting \u0026 Rhtrc Support",
+                                        "minimum_credits": 4.0,
+                                        "maximum_credits": 4.0
+                                    }
+                                }
+                            ]
+                        },
+                        "coreq": null
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "ff3f8a16-21e2-49c7-8582-b6f3860841d9",
+        "name": "ANT Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "68a352a9-6835-4207-89fc-a90b26400529",
+                "requirement_id": "ff3f8a16-21e2-49c7-8582-b6f3860841d9",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "576d2bf6-f363-41e9-b60a-1b4feb4c6b43",
+        "name": "ANT 201 - Intro to Physical Anthropology",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095394,
+            "code": "ANT 201",
+            "full_number": "ANT 201",
+            "name": "Intro to Physical Anthropology",
+            "full_name": "ANT 201 - Intro to Physical Anthropology",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "I, II. General survey of the human biological species and its evolution, emphasizing the study of genetics, osteology, primate behavior and biology, fossil populations, and comtemporary human biological variation. 2 Lec/2 Lab. Gen. Ed. E-4A.",
+            "created_at": "2022-12-16T20:43:36.418Z",
+            "updated_at": "2022-12-16T20:43:36.418Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": null,
+            "coreq": null
+        }
+    },
+    {
+        "id": "b4e884b1-144c-4682-9871-4a5aa2834229",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "b9b94d6a-7307-4da7-bbf8-cd0b3243d890",
+                "requirement_id": "b4e884b1-144c-4682-9871-4a5aa2834229",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "35b39259-c857-4d33-9ec4-9d32aed427ff",
+        "name": "ASO 100S - Stu Succ Sem Anth Soc \u0026 Swk",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 1.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095423,
+            "code": "ASO 100S",
+            "full_number": "ASO 100S",
+            "name": "Stu Succ Sem Anth Soc \u0026 Swk",
+            "full_name": "ASO 100S - Stu Succ Sem Anth Soc \u0026 Swk",
+            "minimum_credits": 1.0,
+            "maximum_credits": 1.0,
+            "description": "(1) I. Prerequisite: Anthropology, Sociology, and Social Work majors only. An introduction to the programs of the University and College of Arts and Sciences,pecifically for Anthropology, Sociology, and Social Work majors. Discussion of how to study, what to consider in choosing a profession and what career opportunities exist for graduates from the Colleges programs. Additional topics include University regulations and calendar, catalog details, registration, and program requirements. All new students are expected to enroll in a Student Success Seminar their first semester at the University.",
+            "created_at": "2022-12-16T20:43:36.460Z",
+            "updated_at": "2022-12-16T20:43:36.460Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": {
+                "type": "custom",
+                "description": "Anthropology, Sociology, and Social Work majors only."
+            },
+            "coreq": null
+        }
+    },
+    {
+        "id": "56e85354-e3fd-4267-9846-e4c1f1431913",
+        "name": "ANT 120 - Intro to Cultural Anthropology",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095430,
+            "code": "ANT 120",
+            "full_number": "ANT 120",
+            "name": "Intro to Cultural Anthropology",
+            "full_name": "ANT 120 - Intro to Cultural Anthropology",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "I, II. Explanation of culture and related concepts. Development of generalizations concerning social, economic, political, and ritual organization, based chiefly on comparative study of various traditional societies. Includes a brief survey of linguistics. Gen. Ed. VB, VC, or VII (SBS).",
+            "created_at": "2022-12-16T20:43:36.470Z",
+            "updated_at": "2022-12-16T20:43:36.470Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": null,
+            "coreq": null
+        }
+    },
+    {
+        "id": "57e78942-717b-4d95-9eeb-90c301f57a12",
+        "name": "ANT 200 - Anthropology of Human Society",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095429,
+            "code": "ANT 200",
+            "full_number": "ANT 200",
+            "name": "Anthropology of Human Society",
+            "full_name": "ANT 200 - Anthropology of Human Society",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "A. Anthropology of human cultures through time and over space, using archaeological and ethnographic methods to understand the multifaceted study of cultural change.Gen. Ed. VA, VC, or VII (SBS).",
+            "created_at": "2022-12-16T20:43:36.469Z",
+            "updated_at": "2022-12-16T20:43:36.469Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": null,
+            "coreq": null
+        }
+    },
+    {
+        "id": "a526fc79-b838-4750-92f7-7d7c4efc0391",
+        "name": "Communicaton",
+        "parent_id": null,
+        "type": "CoreRequirement",
+        "core": {
+            "id": "ce7dc649-88c4-418c-9a13-b40f0c7ed370",
+            "name": "Communicaton",
+            "parent_id": null,
+            "type": "DegreeRequirement",
+            "advanced": false,
+            "required": 3,
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "subrequirements": [
+                {
+                    "id": "62246cad-e9f4-4298-b579-9fcfe1f1000f",
+                    "name": "1C Oral Communication",
+                    "parent_id": "ce7dc649-88c4-418c-9a13-b40f0c7ed370",
+                    "type": "DegreeRequirement",
+                    "advanced": false,
+                    "required": 1,
+                    "minimum_credits": 3.0,
+                    "maximum_credits": 3.0,
+                    "subrequirements": [
+                        {
+                            "id": "f934d20f-d997-490b-b866-caf791131f96",
+                            "name": "EES 250 - Basic Soc Intelligence Skills",
+                            "parent_id": "62246cad-e9f4-4298-b579-9fcfe1f1000f",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2094582,
+                                "code": "EES 250",
+                                "full_number": "EES 250",
+                                "name": "Basic Soc Intelligence Skills",
+                                "full_name": "EES 250 - Basic Soc Intelligence Skills",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": "I, II. A focus on human relationships and research-based social skills.  Students learn to operationalize theories into social intelligence skills and practice initiating, observing, listening, evaluating, and responding in ways that promote positive interactions and relationships.  Gen. Ed. Element 1C [OC].",
+                                "created_at": "2022-12-16T20:43:33.365Z",
+                                "updated_at": "2022-12-16T20:43:33.365Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": null,
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "0da69afc-c02c-4ed1-922f-5fc114070934",
+                            "name": "CMS 210 - Public Speaking",
+                            "parent_id": "62246cad-e9f4-4298-b579-9fcfe1f1000f",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095651,
+                                "code": "CMS 210",
+                                "full_number": "CMS 210",
+                                "name": "Public Speaking",
+                                "full_name": "CMS 210 - Public Speaking",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": "I, II. Principles of and practice in the art of public speaking. Study of the invention, organization, style, delivery, and audience adaptation of informative, persuasive, and commemorative speeches. Gen. Ed. Element 1C. Credit will not be awarded to students who have credit for CMS 215.",
+                                "created_at": "2022-12-16T20:43:37.437Z",
+                                "updated_at": "2022-12-16T20:43:37.437Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": null,
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "8b96cf4a-bb71-4e4d-9e91-cb5af567e3de",
+                            "name": "CMS 100 - Intro to Human Communication",
+                            "parent_id": "62246cad-e9f4-4298-b579-9fcfe1f1000f",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095654,
+                                "code": "CMS 100",
+                                "full_number": "CMS 100",
+                                "name": "Intro to Human Communication",
+                                "full_name": "CMS 100 - Intro to Human Communication",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": "I, II. An introduction to the study of human communication. Overview of major topics in contemporary theories of intrapersonal, interpersonal, small group, and public communication. Gen. Ed. Element 1C",
+                                "created_at": "2022-12-16T20:43:37.442Z",
+                                "updated_at": "2022-12-16T20:43:37.442Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": null,
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "2f593a5e-d322-4ce1-a114-f781aa0f9c49",
+                            "name": "CMS 215 - Career Presentations",
+                            "parent_id": "62246cad-e9f4-4298-b579-9fcfe1f1000f",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095621,
+                                "code": "CMS 215",
+                                "full_number": "CMS 215",
+                                "name": "Career Presentations",
+                                "full_name": "CMS 215 - Career Presentations",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": " Study of presentation techniques within business and professional contexts. Presentations made to staff, clients, and constituents, as well other types of presentations will be developed and practiced. Students will create and deliver presentations tailored to their individual careerobjectives. Credit will not be awarded to students who have credit for CMS 210. Gen. Ed. E-1C.",
+                                "created_at": "2022-12-16T20:43:37.392Z",
+                                "updated_at": "2022-12-16T20:43:37.392Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": null,
+                                "coreq": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "afb8fa72-3827-4762-9df3-7c10008f6af4",
+                    "name": "1B Written Communication",
+                    "parent_id": "ce7dc649-88c4-418c-9a13-b40f0c7ed370",
+                    "type": "DegreeRequirement",
+                    "advanced": false,
+                    "required": 1,
+                    "minimum_credits": 0.0,
+                    "maximum_credits": 0.0,
+                    "subrequirements": [
+                        {
+                            "id": "c5b1b26e-30c4-45c4-8d65-2bdf226d828d",
+                            "name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                            "parent_id": "afb8fa72-3827-4762-9df3-7c10008f6af4",
+                            "type": "CourseRequirement",
+                            "credits": 0.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095769,
+                                "code": "ENG 102R",
+                                "full_number": "ENG 102R",
+                                "name": "Research, Writing, \u0026 Rhetoric",
+                                "full_name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                                "minimum_credits": 4.0,
+                                "maximum_credits": 4.0,
+                                "description": "(4) I, II. Prerequisite: ENG 101R (C). A writing course refining components of ENG 101R studying information sources and research methods; accessing, critically reading, evaluating, integrating, and documenting primary and secondary sources; utilizing information technology for inquiry, analysis, and argumentation. Students are required to meet 1 hour per week outside of class time with a Course Embedded Consultant. Students who fail the class will retake ENG 102R. Credit will not be awarded to students who have credit for ENG 102. Gen. Ed. E-1B [WG].",
+                                "created_at": "2022-12-16T20:43:37.747Z",
+                                "updated_at": "2022-12-16T20:43:37.747Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": {
+                                    "type": "course",
+                                    "minimum_course_grade": "C",
+                                    "concurrency_ind": false,
+                                    "course": {
+                                        "id": 2095712,
+                                        "code": "ENG 101R",
+                                        "full_number": "ENG 101R",
+                                        "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                                        "name": "Rding Wrting \u0026 Rhtrc Support",
+                                        "minimum_credits": 4.0,
+                                        "maximum_credits": 4.0
+                                    }
+                                },
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "794cdd94-da41-4ece-9647-fcc97f5380f0",
+                            "name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                            "parent_id": "afb8fa72-3827-4762-9df3-7c10008f6af4",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095770,
+                                "code": "ENG 102",
+                                "full_number": "ENG 102",
+                                "name": "Research, Writing, \u0026 Rhetoric",
+                                "full_name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": "(3) I, II. Prerequisite: ENG 101 (C) or ENG 101R (A). A writing course refining component of ENG 101/101R studying information sources and research methods; accessing, critically reading, evaluating, integrating, and documenting primary and secondary sources; utilizing information technology for inquiry, analysis, and argumentation. Credit will not be awarded for both ENG 102 and ENG 102R. Gen. Ed. E-1B [WC].",
+                                "created_at": "2022-12-16T20:43:37.748Z",
+                                "updated_at": "2022-12-16T20:43:37.748Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": {
+                                    "type": "or",
+                                    "operands": [
+                                        {
+                                            "type": "course",
+                                            "minimum_course_grade": "C",
+                                            "concurrency_ind": false,
+                                            "course": {
+                                                "id": 2095771,
+                                                "code": "ENG 101",
+                                                "full_number": "ENG 101",
+                                                "full_name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                                                "name": "Reading, Writing, \u0026 Rhetoric",
+                                                "minimum_credits": 3.0,
+                                                "maximum_credits": 3.0
+                                            }
+                                        },
+                                        {
+                                            "type": "course",
+                                            "minimum_course_grade": "A",
+                                            "concurrency_ind": false,
+                                            "course": {
+                                                "id": 2095712,
+                                                "code": "ENG 101R",
+                                                "full_number": "ENG 101R",
+                                                "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                                                "name": "Rding Wrting \u0026 Rhtrc Support",
+                                                "minimum_credits": 4.0,
+                                                "maximum_credits": 4.0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "coreq": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "368b97ff-50f2-4018-a182-0e48f14c8ffa",
+                    "name": "1A Written Communication ",
+                    "parent_id": "ce7dc649-88c4-418c-9a13-b40f0c7ed370",
+                    "type": "DegreeRequirement",
+                    "advanced": false,
+                    "required": 1,
+                    "minimum_credits": 0.0,
+                    "maximum_credits": 0.0,
+                    "subrequirements": [
+                        {
+                            "id": "f0dc1bc4-f0a5-4d6b-ba1a-8125323a55be",
+                            "name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                            "parent_id": "368b97ff-50f2-4018-a182-0e48f14c8ffa",
+                            "type": "CourseRequirement",
+                            "credits": 0.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095712,
+                                "code": "ENG 101R",
+                                "full_number": "ENG 101R",
+                                "name": "Rding Wrting \u0026 Rhtrc Support",
+                                "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                                "minimum_credits": 4.0,
+                                "maximum_credits": 4.0,
+                                "description": "(3) I, II. Prerequisite: SAT Evidence-Based Reading \u0026 Writing score of 430479, or ACT score of 14-17 on English and 14-19 on Reading. Additionally, students with an English ACT score of 18 or higher will be placed in ENG 101R if their ACT Reading Score is 14-19. A writing course developing critical reading skills while integrating and responding to varied sources; composing texts including summaries, analyses, evaluations, responses, and arguments; emphasizing style, organization, coherence, purpose, and persuasion for different audiences. Students are required to meet 1 hour per week outside of class time with a Course Embedded Consultant. Students must pass ENG101R with an A to move into ENG102; students passing ENG101R with a B or C must enroll in ENG102R.Students who fail the class will retake ENG 101R. Credit will not be awarded to students who have credit for ENG 101. General Education Element 1A [WC].",
+                                "created_at": "2022-12-16T20:43:37.656Z",
+                                "updated_at": "2022-12-16T20:43:37.656Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": {
+                                    "type": "and",
+                                    "operands": [
+                                        {
+                                            "type": "custom",
+                                            "description": "ACT score of 14-17 on English and 14-19 on Reading"
+                                        },
+                                        {
+                                            "type": "custom",
+                                            "description": "Additionally, students with an English ACT score of 18 or higher will be placed in ENG 101R if their ACT Reading score is 14-19."
+                                        }
+                                    ]
+                                },
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "c73f9878-9400-48aa-b723-15cf23b24b23",
+                            "name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                            "parent_id": "368b97ff-50f2-4018-a182-0e48f14c8ffa",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095771,
+                                "code": "ENG 101",
+                                "full_number": "ENG 101",
+                                "name": "Reading, Writing, \u0026 Rhetoric",
+                                "full_name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": "(3) I, II. Prerequisite: ENG 090 or an ACT subscore of 18 or higher ACT English subscore of 18 or higher and ACT Reading subscore of 20; or SAT writing score of 430 or higher and SAT reading score of 470 or higher; or SAT Evidence-Based Reading \u0026 Writing score of score of 480 or higher. A writing course developing critical reading skills which integrating and responding to varied sources; composing texts including summaries, analyses, evaluations, responses, and arguments; emphasizing style, organization, coherence, purpose, and persuasion for different audiences. Credit will not be awarded to students who have credit for ENG 101R.  Gen. Ed. E-1A [WC].",
+                                "created_at": "2022-12-16T20:43:37.750Z",
+                                "updated_at": "2022-12-16T20:43:37.750Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": {
+                                    "type": "or",
+                                    "operands": [
+                                        {
+                                            "type": "custom",
+                                            "description": "Completion of English readiness indicator"
+                                        },
+                                        {
+                                            "type": "custom",
+                                            "description": "ACT English subscore of 18 or higher"
+                                        }
+                                    ]
+                                },
+                                "coreq": null
+                            }
+                        },
+                        {
+                            "id": "57a831b1-e022-4a11-bc61-d1674e72d9c2",
+                            "name": "ENG 105 - First Year Writing Seminar",
+                            "parent_id": "368b97ff-50f2-4018-a182-0e48f14c8ffa",
+                            "type": "CourseRequirement",
+                            "credits": 3.0,
+                            "advanced": false,
+                            "attempts": 1,
+                            "minimum_grade": "C",
+                            "course": {
+                                "id": 2095693,
+                                "code": "ENG 105",
+                                "full_number": "ENG 105",
+                                "name": "First Year Writing Seminar",
+                                "full_name": "ENG 105 - First Year Writing Seminar",
+                                "minimum_credits": 3.0,
+                                "maximum_credits": 3.0,
+                                "description": " Accelerated writing course, critical reading and rhetorical approaches for various purposes and audiences. Students will access, evaluate, integrate, and document primary and secondary sources while utilizing information technology for inquiry, analysis, and argumentation. Proficiency exam required. Students graded “A” or “B” will receive six hours credit for ENG 105; students with “C” or “D” will receive three hours credit for ENG 105 and must take ENG 102 or 102R. Gen. Ed. E-1A [WC].",
+                                "created_at": "2022-12-16T20:43:37.628Z",
+                                "updated_at": "2022-12-16T20:43:37.628Z",
+                                "academic_period": {
+                                    "id": 100,
+                                    "term": "Fall",
+                                    "year": 2019,
+                                    "code": "2019.75",
+                                    "name": "Fall 2019",
+                                    "academic_year": "2019-2020"
+                                },
+                                "prereq": {
+                                    "type": "custom",
+                                    "description": "ACT English subscore of 28 or SAT verbal score of 660 or above"
+                                },
+                                "coreq": null
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "7001ccf7-5d2a-4cd1-bbb5-799d4c13ae69",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "e04fefa6-fb23-4f6c-911c-c896baf48f58",
+                "requirement_id": "7001ccf7-5d2a-4cd1-bbb5-799d4c13ae69",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "f2caf9d9-2f23-477e-b49b-40e72bc66834",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "3cbf991d-e46d-4db3-b9c0-14eb34bff97a",
+                "requirement_id": "f2caf9d9-2f23-477e-b49b-40e72bc66834",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "86245c27-3ccf-4056-8a93-4742f8427597",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 11.0,
+        "maximum_credits": 11.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "67213ec5-74ce-4cfb-8af1-26710ee68a29",
+                "requirement_id": "86245c27-3ccf-4056-8a93-4742f8427597",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "aa393da8-ce5c-4445-bc6b-7db56a0d1bb7",
+        "name": "Free Elective Upper-Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "580fcf8e-4789-44c8-9220-b75355e525f3",
+                "requirement_id": "aa393da8-ce5c-4445-bc6b-7db56a0d1bb7",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "1f7633a5-7eba-47dd-90a3-4d60b62f7547",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "aad053dc-ab42-474d-8505-ab841347e743",
+                "requirement_id": "1f7633a5-7eba-47dd-90a3-4d60b62f7547",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "5797e657-6a5a-4d79-97da-399d969ee715",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "cc48f091-f61d-4186-992d-d4a54e07fc89",
+                "requirement_id": "5797e657-6a5a-4d79-97da-399d969ee715",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "84d25c50-16b4-4fdb-9b59-25944244758c",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "d588f8f2-81ba-42f1-af65-45a4cfc73832",
+                "requirement_id": "84d25c50-16b4-4fdb-9b59-25944244758c",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "5a0639d7-1db4-4a0e-89ac-dd38933d2ebd",
+        "name": "Free Elective Upper Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "cdbd26b2-b420-4a1b-87bb-3ae6e683f919",
+                "requirement_id": "5a0639d7-1db4-4a0e-89ac-dd38933d2ebd",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "72c35cc8-48d5-41d3-b8d2-56a5143f0393",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "5163d9c7-d16c-4220-bb9b-072109c32af9",
+                "requirement_id": "72c35cc8-48d5-41d3-b8d2-56a5143f0393",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "a92e32ba-2d2d-4154-9a2a-c22d2b9653bb",
+        "name": "1A Written Communication",
+        "parent_id": null,
+        "type": "CoreRequirement",
+        "core": {
+            "id": "99b23bec-3204-42fd-8c22-53c3a097a630",
+            "name": "1A Written Communication",
+            "parent_id": null,
+            "type": "DegreeRequirement",
+            "advanced": false,
+            "required": 1,
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "subrequirements": [
+                {
+                    "id": "ea92d046-3d57-4143-9093-c679f1ba0149",
+                    "name": "ENG 105 - First Year Writing Seminar",
+                    "parent_id": "99b23bec-3204-42fd-8c22-53c3a097a630",
+                    "type": "CourseRequirement",
+                    "credits": 3.0,
+                    "advanced": false,
+                    "attempts": 1,
+                    "minimum_grade": "C",
+                    "course": {
+                        "id": 2095693,
+                        "code": "ENG 105",
+                        "full_number": "ENG 105",
+                        "name": "First Year Writing Seminar",
+                        "full_name": "ENG 105 - First Year Writing Seminar",
+                        "minimum_credits": 3.0,
+                        "maximum_credits": 3.0,
+                        "description": " Accelerated writing course, critical reading and rhetorical approaches for various purposes and audiences. Students will access, evaluate, integrate, and document primary and secondary sources while utilizing information technology for inquiry, analysis, and argumentation. Proficiency exam required. Students graded “A” or “B” will receive six hours credit for ENG 105; students with “C” or “D” will receive three hours credit for ENG 105 and must take ENG 102 or 102R. Gen. Ed. E-1A [WC].",
+                        "created_at": "2022-12-16T20:43:37.628Z",
+                        "updated_at": "2022-12-16T20:43:37.628Z",
+                        "academic_period": {
+                            "id": 100,
+                            "term": "Fall",
+                            "year": 2019,
+                            "code": "2019.75",
+                            "name": "Fall 2019",
+                            "academic_year": "2019-2020"
+                        },
+                        "prereq": {
+                            "type": "custom",
+                            "description": "ACT English subscore of 28 or SAT verbal score of 660 or above"
+                        },
+                        "coreq": null
+                    }
+                },
+                {
+                    "id": "720bdfbe-5027-4888-a000-79d1f3d6d2e0",
+                    "name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                    "parent_id": "99b23bec-3204-42fd-8c22-53c3a097a630",
+                    "type": "CourseRequirement",
+                    "credits": 4.0,
+                    "advanced": false,
+                    "attempts": 1,
+                    "minimum_grade": "C",
+                    "course": {
+                        "id": 2095712,
+                        "code": "ENG 101R",
+                        "full_number": "ENG 101R",
+                        "name": "Rding Wrting \u0026 Rhtrc Support",
+                        "full_name": "ENG 101R - Rding Wrting \u0026 Rhtrc Support",
+                        "minimum_credits": 4.0,
+                        "maximum_credits": 4.0,
+                        "description": "(3) I, II. Prerequisite: SAT Evidence-Based Reading \u0026 Writing score of 430479, or ACT score of 14-17 on English and 14-19 on Reading. Additionally, students with an English ACT score of 18 or higher will be placed in ENG 101R if their ACT Reading Score is 14-19. A writing course developing critical reading skills while integrating and responding to varied sources; composing texts including summaries, analyses, evaluations, responses, and arguments; emphasizing style, organization, coherence, purpose, and persuasion for different audiences. Students are required to meet 1 hour per week outside of class time with a Course Embedded Consultant. Students must pass ENG101R with an A to move into ENG102; students passing ENG101R with a B or C must enroll in ENG102R.Students who fail the class will retake ENG 101R. Credit will not be awarded to students who have credit for ENG 101. General Education Element 1A [WC].",
+                        "created_at": "2022-12-16T20:43:37.656Z",
+                        "updated_at": "2022-12-16T20:43:37.656Z",
+                        "academic_period": {
+                            "id": 100,
+                            "term": "Fall",
+                            "year": 2019,
+                            "code": "2019.75",
+                            "name": "Fall 2019",
+                            "academic_year": "2019-2020"
+                        },
+                        "prereq": {
+                            "type": "and",
+                            "operands": [
+                                {
+                                    "type": "custom",
+                                    "description": "ACT score of 14-17 on English and 14-19 on Reading"
+                                },
+                                {
+                                    "type": "custom",
+                                    "description": "Additionally, students with an English ACT score of 18 or higher will be placed in ENG 101R if their ACT Reading score is 14-19."
+                                }
+                            ]
+                        },
+                        "coreq": null
+                    }
+                },
+                {
+                    "id": "99e1d749-788a-4ed4-b423-27ccaed0fed9",
+                    "name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                    "parent_id": "99b23bec-3204-42fd-8c22-53c3a097a630",
+                    "type": "CourseRequirement",
+                    "credits": 3.0,
+                    "advanced": false,
+                    "attempts": 1,
+                    "minimum_grade": "C",
+                    "course": {
+                        "id": 2095771,
+                        "code": "ENG 101",
+                        "full_number": "ENG 101",
+                        "name": "Reading, Writing, \u0026 Rhetoric",
+                        "full_name": "ENG 101 - Reading, Writing, \u0026 Rhetoric",
+                        "minimum_credits": 3.0,
+                        "maximum_credits": 3.0,
+                        "description": "(3) I, II. Prerequisite: ENG 090 or an ACT subscore of 18 or higher ACT English subscore of 18 or higher and ACT Reading subscore of 20; or SAT writing score of 430 or higher and SAT reading score of 470 or higher; or SAT Evidence-Based Reading \u0026 Writing score of score of 480 or higher. A writing course developing critical reading skills which integrating and responding to varied sources; composing texts including summaries, analyses, evaluations, responses, and arguments; emphasizing style, organization, coherence, purpose, and persuasion for different audiences. Credit will not be awarded to students who have credit for ENG 101R.  Gen. Ed. E-1A [WC].",
+                        "created_at": "2022-12-16T20:43:37.750Z",
+                        "updated_at": "2022-12-16T20:43:37.750Z",
+                        "academic_period": {
+                            "id": 100,
+                            "term": "Fall",
+                            "year": 2019,
+                            "code": "2019.75",
+                            "name": "Fall 2019",
+                            "academic_year": "2019-2020"
+                        },
+                        "prereq": {
+                            "type": "or",
+                            "operands": [
+                                {
+                                    "type": "custom",
+                                    "description": "Completion of English readiness indicator"
+                                },
+                                {
+                                    "type": "custom",
+                                    "description": "ACT English subscore of 18 or higher"
+                                }
+                            ]
+                        },
+                        "coreq": null
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "da1451a9-e1b0-43c8-acb7-09c45ba20e7d",
+        "name": "ANT 351W - Archaeology: Writing Intensive",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095395,
+            "code": "ANT 351W",
+            "full_number": "ANT 351W",
+            "name": "Archaeology: Writing Intensive",
+            "full_name": "ANT 351W - Archaeology: Writing Intensive",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "Prerequisites: ANT 120, 200, and 201, and ENG 102 or ENG 105(B) or HON 102. A comprehensive introduction to archaeological goals, methods, practice and challenges. Data-based problem solving, critical thinking and writing are integral components of this course. Credit will not be awarded for both ANT 351W and ANT 350.",
+            "created_at": "2022-12-16T20:43:36.419Z",
+            "updated_at": "2022-12-16T20:43:36.419Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": {
+                "type": "and",
+                "operands": [
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095430,
+                            "code": "ANT 120",
+                            "full_number": "ANT 120",
+                            "full_name": "ANT 120 - Intro to Cultural Anthropology",
+                            "name": "Intro to Cultural Anthropology",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095429,
+                            "code": "ANT 200",
+                            "full_number": "ANT 200",
+                            "full_name": "ANT 200 - Anthropology of Human Society",
+                            "name": "Anthropology of Human Society",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095394,
+                            "code": "ANT 201",
+                            "full_number": "ANT 201",
+                            "full_name": "ANT 201 - Intro to Physical Anthropology",
+                            "name": "Intro to Physical Anthropology",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "or",
+                        "operands": [
+                            {
+                                "type": "course",
+                                "minimum_course_grade": "C",
+                                "concurrency_ind": false,
+                                "course": {
+                                    "id": 2095770,
+                                    "code": "ENG 102",
+                                    "full_number": "ENG 102",
+                                    "full_name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                                    "name": "Research, Writing, \u0026 Rhetoric",
+                                    "minimum_credits": 3.0,
+                                    "maximum_credits": 3.0
+                                }
+                            },
+                            {
+                                "type": "course",
+                                "minimum_course_grade": "B",
+                                "concurrency_ind": false,
+                                "course": {
+                                    "id": 2095693,
+                                    "code": "ENG 105",
+                                    "full_number": "ENG 105",
+                                    "full_name": "ENG 105 - First Year Writing Seminar",
+                                    "name": "First Year Writing Seminar",
+                                    "minimum_credits": 3.0,
+                                    "maximum_credits": 3.0
+                                }
+                            },
+                            {
+                                "type": "course",
+                                "minimum_course_grade": "C",
+                                "concurrency_ind": false,
+                                "course": {
+                                    "id": 2095006,
+                                    "code": "HON 102",
+                                    "full_number": "HON 102",
+                                    "full_name": "HON 102 - Honors Rhetoric",
+                                    "name": "Honors Rhetoric",
+                                    "minimum_credits": 6.0,
+                                    "maximum_credits": 6.0
+                                }
+                            },
+                            {
+                                "type": "course",
+                                "minimum_course_grade": "C",
+                                "concurrency_ind": false,
+                                "course": {
+                                    "id": 2095769,
+                                    "code": "ENG 102R",
+                                    "full_number": "ENG 102R",
+                                    "full_name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                                    "name": "Research, Writing, \u0026 Rhetoric",
+                                    "minimum_credits": 4.0,
+                                    "maximum_credits": 4.0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "coreq": null
+        }
+    },
+    {
+        "id": "58d15ef0-c399-4023-b82b-8f624eef1776",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "8741d07c-c2cd-4433-a75f-e81ad1050ec0",
+                "requirement_id": "58d15ef0-c399-4023-b82b-8f624eef1776",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "c60189f6-3a94-433b-95d8-3b114dd5b8f1",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "dab907b2-a9ca-43b1-b1aa-08e0cb8e05bd",
+                "requirement_id": "c60189f6-3a94-433b-95d8-3b114dd5b8f1",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "6e8719b0-30f3-45c7-9785-4c12ea6ec87d",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "19735746-4ba6-4661-a3a6-c789690954c7",
+                "requirement_id": "6e8719b0-30f3-45c7-9785-4c12ea6ec87d",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "e3a68c8c-ec6b-4eda-ad4c-7566978377e6",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "9317d5f6-95b9-4ab7-a3b0-90126fa77e49",
+                "requirement_id": "e3a68c8c-ec6b-4eda-ad4c-7566978377e6",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "a4977cce-5509-4c6c-b729-0fd1546fc212",
+        "name": "Free Elective Upper-Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "6e81ee67-5614-4c4a-942c-deb8d0ad24da",
+                "requirement_id": "a4977cce-5509-4c6c-b729-0fd1546fc212",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "f70a3a52-d214-4143-ad33-828fc5673637",
+        "name": "Free Elective Upper-Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "db8c221a-4284-4cf3-b6c7-ad8801d0cfb5",
+                "requirement_id": "f70a3a52-d214-4143-ad33-828fc5673637",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "7ed081f5-2d24-4af7-be96-e510313a6703",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "91fa74ce-57a0-4efe-b454-4f292b947cf5",
+                "requirement_id": "7ed081f5-2d24-4af7-be96-e510313a6703",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "2c359592-6ed6-44fc-9d16-561c1a306c68",
+        "name": "ANT Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "1aace627-87c5-48bd-82da-57d7bf477e12",
+                "requirement_id": "2c359592-6ed6-44fc-9d16-561c1a306c68",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "b84f16a5-1bb6-473d-b56e-0f3ac51f4394",
+        "name": "ANT Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "b07f5090-c161-4563-8cd4-96bb3db0eb77",
+                "requirement_id": "b84f16a5-1bb6-473d-b56e-0f3ac51f4394",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "69da1a63-2d08-4598-8c29-a3e1fe1eaf81",
+        "name": "ANT Upper-Division Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "1e101073-b30b-4b95-bdce-b5ac960d9157",
+                "requirement_id": "69da1a63-2d08-4598-8c29-a3e1fe1eaf81",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "8093565f-af85-4df0-a0a8-7667940124cb",
+        "name": "ANT Upper-Division Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "efd0eb12-7b03-4884-b68c-19826db9bc78",
+                "requirement_id": "8093565f-af85-4df0-a0a8-7667940124cb",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "641deedd-cbe3-41fa-b30e-b9105ad648bc",
+        "name": "Free Elective Upper-Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "ff920018-5251-415d-ab9a-100c9eaa3323",
+                "requirement_id": "641deedd-cbe3-41fa-b30e-b9105ad648bc",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "2ca67cf2-3beb-411f-b8a1-0fea812dda5c",
+        "name": "Free Elective Upper-Division",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "b74ed1c5-fb7f-46b6-93d8-1ea5362d894a",
+                "requirement_id": "2ca67cf2-3beb-411f-b8a1-0fea812dda5c",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "c49febb1-d51f-4ce5-b6af-d2e78b14e8e2",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "26ccb5da-bf29-4510-9182-bf90df6a8d7c",
+                "requirement_id": "c49febb1-d51f-4ce5-b6af-d2e78b14e8e2",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "10d7b61e-826c-44fe-8b14-008509021370",
+        "name": "ANT 395 - History \u0026 Theory of Anthro",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095424,
+            "code": "ANT 395",
+            "full_number": "ANT 395",
+            "name": "History \u0026 Theory of Anthro",
+            "full_name": "ANT 395 - History \u0026 Theory of Anthro",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "A. Prerequisites: ANT 120, ANT 200, ANT 201 and Junior standing. A capstone investigation of past and present practices and theories used to interpret data from each of anthropology's four subdisciplines. Professionalism in anthropology also integrated.",
+            "created_at": "2022-12-16T20:43:36.461Z",
+            "updated_at": "2022-12-16T20:43:36.461Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": {
+                "type": "and",
+                "operands": [
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095430,
+                            "code": "ANT 120",
+                            "full_number": "ANT 120",
+                            "full_name": "ANT 120 - Intro to Cultural Anthropology",
+                            "name": "Intro to Cultural Anthropology",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095429,
+                            "code": "ANT 200",
+                            "full_number": "ANT 200",
+                            "full_name": "ANT 200 - Anthropology of Human Society",
+                            "name": "Anthropology of Human Society",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095394,
+                            "code": "ANT 201",
+                            "full_number": "ANT 201",
+                            "full_name": "ANT 201 - Intro to Physical Anthropology",
+                            "name": "Intro to Physical Anthropology",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "custom",
+                        "description": "senior standing"
+                    }
+                ]
+            },
+            "coreq": null
+        }
+    },
+    {
+        "id": "6c4dc2ee-2506-419d-8260-d5f29035e05b",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "13146652-1c38-4663-a25b-128d794eba36",
+                "requirement_id": "6c4dc2ee-2506-419d-8260-d5f29035e05b",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "d74be8e7-be3e-4efe-a3a0-fee363828061",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "a498ae4f-1314-4fe6-8b15-ae544b52bae8",
+                "requirement_id": "d74be8e7-be3e-4efe-a3a0-fee363828061",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "e0237010-b4db-4582-bbf0-d45811563536",
+        "name": "Gen Ed",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "7b93a8f0-f8b5-46c1-886a-f571b7d3a102",
+                "requirement_id": "e0237010-b4db-4582-bbf0-d45811563536",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "18e44a3f-529b-48ff-bb37-e05469d5ceb9",
+        "name": "Free Elective",
+        "parent_id": null,
+        "type": "WildCardRequirement",
+        "minimum_credits": 3.0,
+        "maximum_credits": 3.0,
+        "minimum_grade": null,
+        "rules": [
+            {
+                "id": "9428dd5e-b8b1-4e63-9ec9-da9c6a233b78",
+                "requirement_id": "18e44a3f-529b-48ff-bb37-e05469d5ceb9",
+                "exclude": false,
+                "min_hours": "",
+                "max_hours": "",
+                "code_string": "",
+                "match_string": "",
+                "minimum_match_number": "",
+                "maximum_match_number": ""
+            }
+        ]
+    },
+    {
+        "id": "ebfd45bd-6f73-4591-a231-7ff88fff85ca",
+        "name": "ANT 330 - American Indians",
+        "parent_id": null,
+        "type": "CourseRequirement",
+        "credits": 3.0,
+        "advanced": false,
+        "attempts": 1,
+        "minimum_grade": "C",
+        "course": {
+            "id": 2095428,
+            "code": "ANT 330",
+            "full_number": "ANT 330",
+            "name": "American Indians",
+            "full_name": "ANT 330 - American Indians",
+            "minimum_credits": 3.0,
+            "maximum_credits": 3.0,
+            "description": "A. Prerequisite:  ENG 102, 105(B), or HON 102. Explores the cultural diversity of American Indians by examining their historical and contemporary lives. Focus on cultural similarities and differences of American Indian groups living in ecologically diverse areas. Gen Ed Element 6.",
+            "created_at": "2022-12-16T20:43:36.468Z",
+            "updated_at": "2022-12-16T20:43:36.468Z",
+            "academic_period": {
+                "id": 100,
+                "term": "Fall",
+                "year": 2019,
+                "code": "2019.75",
+                "name": "Fall 2019",
+                "academic_year": "2019-2020"
+            },
+            "prereq": {
+                "type": "and",
+                "operands": [
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095770,
+                            "code": "ENG 102",
+                            "full_number": "ENG 102",
+                            "full_name": "ENG 102 - Research, Writing, \u0026 Rhetoric",
+                            "name": "Research, Writing, \u0026 Rhetoric",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "B",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095692,
+                            "code": "ENG 105",
+                            "full_number": "ENG 105",
+                            "full_name": "ENG 105 - First Year Writing Seminar",
+                            "name": "First Year Writing Seminar",
+                            "minimum_credits": 3.0,
+                            "maximum_credits": 3.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095006,
+                            "code": "HON 102",
+                            "full_number": "HON 102",
+                            "full_name": "HON 102 - Honors Rhetoric",
+                            "name": "Honors Rhetoric",
+                            "minimum_credits": 6.0,
+                            "maximum_credits": 6.0
+                        }
+                    },
+                    {
+                        "type": "course",
+                        "minimum_course_grade": "C",
+                        "concurrency_ind": false,
+                        "course": {
+                            "id": 2095769,
+                            "code": "ENG 102R",
+                            "full_number": "ENG 102R",
+                            "full_name": "ENG 102R - Research, Writing, \u0026 Rhetoric",
+                            "name": "Research, Writing, \u0026 Rhetoric",
+                            "minimum_credits": 4.0,
+                            "maximum_credits": 4.0
+                        }
+                    }
+                ]
+            },
+            "coreq": null
+        }
+    }
+]

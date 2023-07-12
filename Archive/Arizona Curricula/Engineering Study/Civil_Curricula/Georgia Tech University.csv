@@ -1,0 +1,50 @@
+Curriculum,Civil Engineering,,,,,,,,,
+Degree Plan,2021-22 Plan,,,,,,,,,
+Institution,Georgia Institute of Technology,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,General Chemistry,CHEM,1310,,,,4,,,1
+2,Computing For Engineers,CS,1371,,,,3,,,1
+3,U.S Constitution/History,,,,,,3,,,1
+4,English Composition I,ENGL,1101,,,,3,,,1
+5,Differential Calculus,MATH,1551,,,,2,,,1
+6,Linear Algebra,MATH,1553,,,,2,,,1
+7,Intro To Engineering Graphics,CEE,1770,,,,3,,,2
+8,English Composition II,ENGL,1102,4,,,3,,,2
+9,Integral Calculus,MATH,1552,5,,,4,,,2
+10,Intro Physics 1,PHYS ,2211,5,,,4,,,2
+11,Humanities Elective,,,,,,3,,,2
+12,Multivariable Calculus,MATH,2551,9,,,4,,,3
+13,Intro Physics 2,PHYS ,2212,10,,,4,,,3
+14,Economics Elective,,,,,,3,,,3
+15,Statics,COE,2001,9;10,,,2,,,3
+16,Env Engr Princ,,2300,1;9;10,,,3,,,3
+17,Differential Equations,MATH,2552,9,,,4,,,4
+18,Science Elective,,,,,,4,,,4
+19,Civil Engineering Systems,CEE,3000,5,,,3,,,4
+20,Dynamics,CEE,2040,15,,,2,,,4
+21,Humanities Elective,,,,,,3,,,4
+22,COE Tech Elective,,,,,,3,,,5
+23,Civil Engineering Materials Lab,CEE,3020,,24,,3,,,5
+24,Deformable Bodies,COE,3001,17;15,,,3,,,5
+25,Fluid Mechanics,CEE,3040,20;12,,,3,,,5
+26,Social Science Elective,,,,,,3,,,5
+27,Wellness Elective,,,,,,2,,,5
+28,Stastics & App,CEE/ISYE,3770,12,,,3,,,6
+29,CEE Breadth Elective,,,,,,3,,,6
+30,CEE Breadth Elective,,,,,,3,,,6
+31,CEE Breadth Elective,,,,,,3,,,6
+32,CEE Breadth Lab,,,,,,3,,,6
+33,CEE technical Elective,,,,,,3,,,6
+34,CEE Technical Elective,,,,,,3,,,7
+35,CEE Technical Elective,,,,,,3,,,7
+36,CEE Technical Elective,,,,,,3,,,7
+37,Approved Elective,,,,,,3,,,7
+38,CEE Technical Elective,,,,,,3,,,7
+39,CEE Technical Elective,,,,,,3,,,7
+40,Capstone Design,,,,,,3,,,8
+41,Approved Elective,,,,,,3,,,8
+42,SOC Science Elective,,,,,,3,,,8

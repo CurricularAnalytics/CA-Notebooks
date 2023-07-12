@@ -1,0 +1,48 @@
+Curriculum,Civil Engineering,,,,,,,,,
+Degree Plan,2021-22 Plan,,,,,,,,,
+Institution,Arizona State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0801,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Intro To Engineering Graphics,FSE,100,,,,2,,,1
+2,Calculus For Engineers,MAT,265,,,,3,,,1
+3,CEE ASU Experience,ASU,101,,,,1,,,1
+4,General Chem For Engineers,CHM,114,,2,,4,,,1
+5,First Year Composition,ENG,101,,,,3,,,1
+6,"Humanities, Art & Design",,,,,,3,,,1
+7,Elementary Linear Algebra,MAT,242,2,,,2,,,2
+8,Calculus For Engineers 2,MAT,266,2,,,3,,,2
+9,Physics 1 Mechanics,PHY,121,2,,,3,,,2
+10,Physics 1 Mechanics Lab,PHY,122,,8,,1,,,2
+11,"Tech, Social & Sustainable",CEE,181,,,,3,,,2
+12,First year Composition,ENG,102,5,,,3,,,2
+13,Engineering Mechanics 1 Statics,CEE,210,1;2;10,7,,3,,,3
+14,Calculus For Engineers 3,MAT,267,8,,,3,,,3
+15,Modern Differential Equations,MAT,275,8,,,3,,,3
+16,Physics 2,PHY,131,8;9,14,,3,,,3
+17,Physics 2 lab,PHY,132,,16,,1,,,3
+18,General Edu ,,,2,,,3,,,3
+19,Engineering Mechanics 2 Dynamics,CEE,212,13;7;15,,,3,,,4
+20,Intro to Deformable Solids,CEE,213,13;15,,,3,,,4
+21,General Edu ,,,,,,3,,,4
+22,Probality & Stat,IEE,380,8,,,3,,,4
+23,Intro to Thermodynamics,MAE,241,4;14;9,,,3,,,4
+24,Intro to ENV Engineering,CEE,361,20;4,22,,4,,,5
+25,Fluid Mechanics,CEE,341,19;20,27,,4,,,5
+26,CE Materials,CEE,353,20,,,4,,,5
+27,Numerical Method for Engr,CEE,384,15;7,14,,3,,,5
+28,Eng Business Practice,CEE,300,5;14,,,3,,,6
+29,Structural Analysis & Design,CEE,321,19;20,,,4,,,6
+30,Geo Tech Engineering,CEE,351,19;20,,,4,,,6
+31,Transportation Engineering,CEE,372,19;20,22,,3,,,6
+32,Elective,,,,,,1,,,6
+33,Advanced Concepts & Integrated Approach,,,,,,3,,,7
+34,Upper Divisin Design Elective,,,,,,6,,,7
+35,Tech Elective,,,,,,3,,,7
+36,Social Behavioral Science,,,,,,3,,,7
+37,Integrated CE Design ,CEE,486,5;29;25;30;26;24;31,,,4,,,8
+38,Earth Systems Eng &Management,CEE,400,28;5,,,3,,,8
+39,Sustainable CE,CEE,485,28;7,,,3,,,8
+40,Tech Elective,,,,,,3,,,8

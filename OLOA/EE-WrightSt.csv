@@ -1,0 +1,16 @@
+Curriculum,Circuits I Design Pattern,,,,,,,,,
+Degree Plan,Engineering 101 ready,,,,,,,,,
+Institution,,,,,,,,,,
+Degree Type,,,,,,,,,,
+System Type,,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Engineering  Math,,,,,,4,,,1
+2,Calculus I,,,1,,,4,,,2
+3,Calculus II,,,2,,,4,,,3
+4,Physics I,,,,2,,3,,,2
+5,Physics II,,,4,3,,3,,,3
+6,Differential Eqs.,,,3,,,3,,,4
+7,Circuits I,,,1,,,3,,,3
+8,Circuits II,,,7,6,,3,,,4

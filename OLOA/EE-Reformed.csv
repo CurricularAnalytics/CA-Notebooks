@@ -1,0 +1,16 @@
+Curriculum,Circuits I Design Pattern,,,,,,,,,
+Degree Plan,OLOA pattern,,,,,,,,,
+Institution,,,,,,,,,,
+Degree Type,,,,,,,,,,
+System Type,,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,W1,,,,,,4,,,1
+2,W2,,,1,,,4,,,2
+3,W3,,,1,,,4,,,2
+4,W4,,,3,,,3,,,3
+5,W5,,,3,,,3,,,3
+6,W6,,,3,,,3,,,3
+7,W7,,,3,,,3,,,3
+8,W8,,,4;7,,,3,,,4

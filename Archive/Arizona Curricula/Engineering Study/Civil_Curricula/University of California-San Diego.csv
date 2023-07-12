@@ -1,0 +1,58 @@
+Curriculum,Structural Engineering(Civil Structure Focused),,,,,,,,,
+Degree Plan,2021-2022 Plan,,,,,,,,,
+Institution,University of California-San Diego,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus For Science & Eng 1,MATH,20A,,,,4,,,1
+2,Intro to Structures & Design,SE,1,,,,4,,,1
+3,Genral Chemistry,CHEM,6A,,1,,4,,,1
+4,General Education,GE,,,,,4,,,1
+5,Calculus For Science & Eng 2,MATH,20B,1,,,4,,,2
+6,General Education,GE,,,,,4,,,2
+7,Mechanics,Phys,2A,,5,,4,,,2
+8,General Education,GE,,,,,4,,,2
+9,Calculus & Analytic Geo,MATH,20C,5,,,4,,,3
+10,Graphical Communication For Engineering Design,SE,3,2,,,4,,,3
+11,Electricity & magnetism,Phys,2B,5,9,,4,,,3
+12,Mechanics Lab,Phys,2BL,,11,,4,,,3
+13,General Education,GE,,,,,4,,,3
+14,Intro to DE,MATH,20D,9,,,4,,,4
+15,Mechanics 1,SE,101A,9;7,,,4,,,4
+16,"Physics-Fluids, Waves & Optics",Phys,2C,7,,,4,,,4
+17,Physics Lab,Phys,2CL,,16,,4,,,4
+18,General Education,GE,,,,,4,,,4
+19,Linear Algebra,MATH ,18,1,,,4,,,5
+20,Mechanis 2,SE,101B,15,,,4,,,5
+21,Solid Mechanics 1,SE ,110A,14;15,,,4,,,5
+22,General Education,GE,,,,,4,,,5
+23,Vector Calculus,MATH,20E,9,,,4,,,6
+24,Algorithms & Programming,SE,9,14;19,,,4,,,6
+25,Solid Mechanics 2,SE,110B,21,,,4,,,6
+26,Structural Materials,SE,105,2;15,,,4,,,6
+27,Mechanics 3,SE,101C,19;20,,,4,,,7
+28,"Statistics, Probablity & reliability",SE,125,19;14,,,4,,,7
+29,Structural Analysis,SE,130A,21,,,4,,,7
+30,General Education,GE,,,,,4,,,7
+31,Fluid Mechanics For Structural Enginerring,SE,115,7;14,,,4,,,8
+32,Intro to Computing For Engineers,SE,102,24;15,,,4,,,8
+33,Conceptual Structural Design,SE,103,24;15,,,4,,,8
+34,General Education,GE,,,,,4,,,8
+35,Finite Element Analysis,SE,131A,,,,4,,,9
+36,Structural Analysis,SE,130B,29,35,,4,,,9
+37,Design of Steel Structures,SE,150A,29,,,4,,,9
+38,General Education,GE,,,,,4,,,9
+39,Computing Projects,SE,131B,35;27;36,,,4,,,10
+40,Geo Technical Engineering,SE,181,21;29,,,4,,,10
+41,Technical Elective,TE,,,,,4,,,10
+42,General Education,GE,,,,,4,,,10
+43,Design of Civil Structures,SE,140A,36;37,,,4,,,11
+44,Design of Reinforced Concrete,SE,151A,33;29,,,4,,,11
+45,Technical Elective,TE,,,,,4,,,11
+46,General Education,GE,,,,,4,,,11
+47,Design of Civil Structures 2,SE,140B,43;44;40,,,4,,,12
+48,Technical Elective,TE,,,,,4,,,12
+49,General Education,GE,,,,,4,,,12
+50,General Education,GE,,,,,4,,,12

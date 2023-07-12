@@ -24,11 +24,11 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 3377751592,"Physics III: Oscillations, Waves, and Quantum Physics",PHYS,2214,,1926321183,,4,,,4
 1135328629,Linear Algebra for Engineers,MATH,2940,2644941087,,,4,,,4
 1098106156,Engineering Distribution 2,ENGRD,2xxx,670953379,,,3,,,4
-2066269668,Signals and Information,ECE/ENGRD,2200/2220,1926321183,1135328629,,4,,,4
+2066269668,Signals and Information,ECE/ENGRD,2200/2220,1926321183; 4226399557,1135328629,,4,,,4
 2054345146,Liberal Studies 2,,,,,,3,,,4
 743914989,ECE Foundations 1,,,,,,3,,,5
 2064696548,Elective 1,,,,,,3,,,5
-329854095,Outside Tech. Elective 1,,,4226399557,,,3,,,5
+329854095,Outside Tech. Elective 1,,,,,,3,,,5
 1413999863,Intelligent Physical Systems,ECE,3400,3693590979;986524819;2066269668,,,3,,,5
 1637204683,Liberal Studies 3,,,,,,3,,,5
 121333895,ECE Foundations 2,,,,,,3,,,6

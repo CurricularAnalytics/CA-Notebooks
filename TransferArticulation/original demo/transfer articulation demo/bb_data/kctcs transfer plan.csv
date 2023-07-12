@@ -1,0 +1,48 @@
+Curriculum,BS. Computer Science- Computer Information Systems,,,,,,,,,
+Degree Plan,KCTCS to KSU Transfer Plan,,,,,,,,,
+Institution,Kentucky State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Natural Science (KCTCS),,,,,,3,KCTCS,,1
+2,Writing I (KCTCS),ENG,101,,,,3,KCTCS,,1
+3,College Algebra (KCTCS),MAT,150,,,,3,KCTCS,,1
+4,<No equivalency found>,COS,107,,,,3,KCTCS,,1
+5,Arts & Humanities (KCTCS),,,,,,3,KCTCS,,1
+6,<No equivalency found>,EDU,118,,,,3,KCTCS,,1
+7,Writing II (KCTCS),ENG,102,1,,,3,KCTCS,,2
+8,Arts and Humanities (KCTCS),,,,,,3,KCTCS,,2
+9,Calculus I (KCTCS),MAT,125,3,,,3,KCTCS,,2
+10,<No equivalency found>,COS,108,2;4,,,4,KCTCS,,2
+11,<No equivalency found>,KSU,186,,,,3,KCTCS,,2
+12,Arts and Humanities (KCTCS),,,,,,3,KCTCS,,3
+13,Technical Writing (KCTCS),ENG,204,,,,3,KCTCS,,3
+14,Financial Accounting (KCTCS),ACC,201,3,,,3,KCTCS,,3
+15,<No equivalency found>,COS,109,10,,,4,KCTCS,,3
+16,Basic Public Speaking,COM,181,7,,,3,KCTCS,,3
+17,<No equivalency found>,COS,200,,,,3,KCTCS,,4
+18,<No equivalency found>,COS,340,15;25,,,3,KCTCS,,5
+19,<No equivalency found>,COS,281,,,,3,KCTCS,,4
+20,Arts and Humanities (KCTCS),,,,,,3,KCTCS,,4
+21,Business Statistics,BUA,320,14,,,3,KSU,,4
+22,,COS,275,15,,,4,KSU,,5
+23,,COS,300,15,,,3,KSU,,5
+24,,COS,301,15,,,4,KSU,,5
+25,,COS,310,,,,3,KSU,,4
+26,Social and Behavioral Science,,,,,,3,KSU,,5
+27,,COS,302,24,,,3,KSU,,6
+28,,COS,340,25,,,3,KSU,,6
+29,,COS,410,15,,,3,KSU,,6
+30,,ECO,321,21;3,,,3,KSU,,6
+31,Social and Behavioral Science ,,,,,,3,KSU,,6
+32,,COS,303,,,,3,KSU,,7
+33,,COS,364,15,,,3,KSU,,7
+34,,COS,470,27,,,3,KSU,,7
+35,COS Elective,,,,,,3,KSU,,7
+36,COS 490 OR COS 495,,,,,,3,KSU,,7
+37,COS 300/400 Elective,,,,,,3,KSU,,8
+38,COS/CIT 200 Elective,,,,,,3,KSU,,8
+39,COS 464 OR CIT 370 OR MIS 300,,,,,,3,KSU,,8
+40,Elective,,,,,,3,KSU,,8

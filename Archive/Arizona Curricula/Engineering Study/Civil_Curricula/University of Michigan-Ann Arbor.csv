@@ -1,0 +1,45 @@
+Curriculum,Civil Engineering,,,,,,,,,
+Degree Plan,2021-2022,,,,,,,,,
+Institution,University of Michigan-Ann Arbor,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus 1,MATH,115,,,,4,,,1
+2,General Chem,CHEM,130,,,,3,,,1
+3,Chemistry Lab,CHEM,125/126,,2,,2,,,1
+4,Intro to Engineering,ENGR,100,,,,4,,,1
+5,Intellectual Breadth,,,,,,4,,,1
+6,Calculus 2,MATH,116,1,,,4,,,2
+7,General Physics 1,Physics,140,1,,,4,,,2
+8,Elementary PHY LAB,Physics,141,,7,,1,,,2
+9,Intro to Computers,ENGR,101,1,,,4,,,2
+10,Intellectual Breadth,,,,,,4,,,2
+11,Calculus 2,MATH,215,6,,,4,,,3
+12,General Physics 2,Physics,240,7;6,,,4,,,3
+13,Elementary PHY LAB 2,Physics,241,,12,,1,,,3
+14,Statics & Dynamics,CEE,211,7,,,4,,,3
+15,Thermodynamics & Env,CEE,230,6;2;3,,,3,,,3
+16,Differential Equations,MATH,216,6,,,4,,,4
+17,Intellectual Breadth,,,,,,4,,,4
+18,Intro to CE & ENV E,CEE,200,,,,1,,,4
+19,Solid & Structural ME,CEE,212,14,,,3,,,4
+20,Sustainable Eng Principles,CEE,375,12,,,3,,,4
+21,Stastical Methods,CEE,373,11;16,,,3,,,5
+22,Fluid Mechanics,CEE,325,14,,,4,,,5
+23,CE Program Elective,,,,,,4,,,5
+24,CE Program Elective,,,,,,4,,,5
+25,Computational Methods,CEE,303,16;9,,,4,,,6
+26,CE Program Elective,,,,,,4,,,6
+27,CE Program Elective,,,,,,4,,,6
+28,General Elective,,,,,,4,,,6
+29,Science Elective,,,,,,3,,,7
+30,CE Program Elective,,,,,,4,,,7
+31,CE Program Elective,,,,,,4,,,7
+32,Technical Elective,,,,,,3,,,7
+33,General Elective,,,,,,3,,,7
+34,Intellectual Breadth,,,,,,4,,,8
+35,Professional Issues & Design,CEE,402,,,,4,,,8
+36,Technical Elective,,,,,,3,,,8
+37,General Elective,,,,,,4,,,8
